@@ -147,5 +147,10 @@ text(s, 7.4, 1.8, 5.5, 5.5, [
 
 out = ROOT / "report" / "Release Day Radar Slides.pptx"
 text(s, 0.8, 6.7, 12, 0.5, ["Code and data: " + REPO], 14)
+cp = prs.core_properties
+cp.author = "Gauri and Shivansh Shekhar"
+cp.last_modified_by = "Gauri and Shivansh Shekhar"
+cp.title = "Release Day Radar"
+cp.comments = ""
 prs.save(out)
 print("saved", out, len(prs.slides), "slides")

@@ -272,5 +272,10 @@ fl.columns = ["No.", "Film", "Language", "Release date", "Money (Rs crore)", "Mo
 TABLE(fl, size=8)
 
 out = ROOT / "report" / "Release Day Radar Report.docx"
+cp = doc.core_properties
+cp.author = "Gauri and Shivansh Shekhar"
+cp.last_modified_by = "Gauri and Shivansh Shekhar"
+cp.title = "Release Day Radar"
+cp.comments = ""
 doc.save(out)
 print("saved", out)
