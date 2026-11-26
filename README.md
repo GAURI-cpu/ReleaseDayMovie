@@ -38,7 +38,7 @@ python -m venv .venv
 ```
 
 ```powershell
-.\.venv\Scripts\python -m pip install pandas numpy matplotlib requests vaderSentiment openpyxl lxml tabulate python-docx python-pptx pyspark==3.5.3
+.\.venv\Scripts\python -m pip install pandas numpy matplotlib requests vaderSentiment openpyxl lxml tabulate python-docx python-pptx pyspark==3.5.3 nbformat nbconvert nbclient ipykernel
 ```
 
 3. PySpark needs Java 17. Download the Java 17 JRE zip for Windows from https://adoptium.net/temurin/releases/?version=17
