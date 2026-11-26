@@ -94,6 +94,14 @@ mysql -u root -p release_day_radar < sql/queries.sql
 
 The code also runs the same queries in SQLite, so you can see the results without MySQL.
 
+To open the SQLite database yourself (after running `5 sql.py`):
+
+```bash
+sqlite3 "data/clean/database.sqlite"
+```
+
+Then type `.tables` to see the tables, or run any query from `sql/queries.sql`.
+
 ## Data sources
 
 - Wikipedia and Wikimedia APIs (free to use, CC BY-SA). We sent slow requests.
