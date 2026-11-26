@@ -43,6 +43,13 @@ python -m venv .venv
 .\.venv\Scripts\python -m pip install pandas numpy matplotlib requests vaderSentiment openpyxl lxml tabulate python-docx python-pptx pyspark==3.5.3 nbformat nbconvert nbclient ipykernel
 ```
 
+   On Mac or Linux, use these commands instead:
+
+```bash
+python3 -m venv .venv
+.venv/bin/python -m pip install pandas numpy matplotlib requests vaderSentiment openpyxl lxml tabulate python-docx python-pptx pyspark==3.5.3 nbformat nbconvert nbclient ipykernel
+```
+
 3. PySpark needs Java 17. Download the Java 17 JRE zip for Windows from https://adoptium.net/temurin/releases/?version=17
    and unzip it into the folder `C:\Users\<your name>\.jdks\`.
 4. Download the IMDb reviews file `aclImdb_v1.tar.gz` (84 MB) from https://ai.stanford.edu/~amaas/data/sentiment/
