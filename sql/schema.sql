@@ -1,3 +1,8 @@
+-- Release Day Radar: table definitions
+-- Units: columns ending in _cr are in crore rupees (1 crore = 10 million)
+--        prerelease_views_7d = Wikipedia views in the 7 days before release
+--        day_from_release    = 0 on release day, negative before it
+
 CREATE DATABASE IF NOT EXISTS release_day_radar CHARACTER SET utf8mb4;
 USE release_day_radar;
 
