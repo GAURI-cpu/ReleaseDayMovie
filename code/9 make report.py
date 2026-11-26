@@ -72,7 +72,7 @@ def TABLE(df, size=9):
 P("Release Day Radar", bold=True)
 doc.paragraphs[-1].runs[0].font.size = Pt(24)
 P("Case Study A, Data and Storytelling, Module 1")
-P("Team: Gauri (1RV23EC048) and Shivansh (1RV23EC138)")
+P("Team: Gauri (1RV23EC048) and Shivansh Shekhar (1RV23EC138)")
 from docx.oxml import OxmlElement
 from docx.oxml.ns import qn
 p = doc.add_paragraph()
@@ -259,7 +259,7 @@ P("We used Claude, an AI tool, to help us write and fix the Python, SQL and PySp
 H("Appendix B: Who Did What")
 TABLE(pd.DataFrame([
     ["Gauri (1RV23EC048)", "Got data from APIs, sentiment, PySpark, charts and Buzz Score, slides", "50%"],
-    ["Shivansh (1RV23EC138)", "Box office tables, cleaning log, film name matching, SQL tables and queries, Excel comparison, report", "50%"],
+    ["Shivansh Shekhar (1RV23EC138)", "Box office tables, cleaning log, film name matching, SQL tables and queries, Excel comparison, report", "50%"],
 ], columns=["Name (USN)", "Work done", "Share"]))
 H("Appendix C: All 25 Films")
 fl = films[["wiki_title", "language", "release_date", "worldwide_gross_cr", "day3_attention_ratio"]].copy()

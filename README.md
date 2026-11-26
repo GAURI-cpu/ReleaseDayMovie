@@ -2,7 +2,7 @@
 
 Case Study A, Data and Storytelling, Module 1
 
-Team: Gauri (1RV23EC048) and Shivansh (1RV23EC138)
+Team: Gauri (1RV23EC048) and Shivansh Shekhar (1RV23EC138)
 
 ## What is this project?
 

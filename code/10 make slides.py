@@ -55,7 +55,7 @@ def img(s, name, x=None, y=1.5, h=5.85, w=None):
 s = prs.slides.add_slide(BLANK)
 text(s, 0.8, 1.6, 11.5, 1, ["Release Day Radar"], 48, True)
 text(s, 0.8, 2.9, 11.5, 2, ["Do not judge a film only by its Friday buzz.", "Check if people are still searching for it on Monday."], 28)
-text(s, 0.8, 5.4, 11.5, 1.6, ["Case Study A, Data and Storytelling, Module 1", "Gauri (1RV23EC048) and Shivansh (1RV23EC138)", "GitHub: " + REPO], 18)
+text(s, 0.8, 5.4, 11.5, 1.6, ["Case Study A, Data and Storytelling, Module 1", "Gauri (1RV23EC048) and Shivansh Shekhar (1RV23EC138)", "GitHub: " + REPO], 18)
 s.notes_slide.notes_text_frame.text = ("Gauri: Good morning. We are the data team of a film company. "
     "Our answer is simple. Buzz before release does not help much. What matters is if people are still searching for the film on Monday.")
 
