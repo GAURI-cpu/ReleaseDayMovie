@@ -110,56 +110,50 @@ P("We took the top 5 films of 2025 from Hindi, Telugu, Tamil, Kannada and Malaya
 H("c. The Data We Used")
 H("Where We Got the Data (Source Register)", 2)
 TABLE(pd.DataFrame([
-    ["1. Box office tables", "en.wikipedia.org, pages 'List of Hindi films of 2025' (also Telugu, Tamil, Kannada, Malayalam)", "26 Nov 2026", "Wikipedia API, then read the table with pandas", "Structured (HTML table)", "Free to use (CC BY-SA). We sent requests slowly."],
-    ["2. Daily page views", "wikimedia.org page views API", "26 Nov 2026", "API gives JSON, one number for each day", "Semi-structured (JSON)", "Free, no key needed"],
-    ["3. Film details and edit history", "en.wikipedia.org API", "26 Nov 2026", "API gives JSON", "Semi-structured (JSON)", "Free to use (CC BY-SA)"],
-    ["4. Critic review text", "'Critical reception' part of each film's Wikipedia page", "26 Nov 2026", "Taken from source 3 and cleaned", "Unstructured (text)", "Free to use (CC BY-SA)"],
-    ["5. IMDb 50K reviews", "ai.stanford.edu/~amaas/data/sentiment/", "26 Nov 2026", "Downloaded zip file", "Unstructured (text files)", "Free for study"],
-], columns=["Source", "Link", "Date", "How we got it", "Type", "Rules for use"]), size=8)
+    ["1", "Box office tables", "Wikipedia ('List of Hindi films of 2025' and the same page for Telugu, Tamil, Kannada, Malayalam)", "HTML table", "Yes, free (CC BY-SA)"],
+    ["2", "Daily page views", "Wikimedia page views API", "JSON", "Yes, free, no key"],
+    ["3", "Film details", "Wikipedia API", "JSON", "Yes, free (CC BY-SA)"],
+    ["4", "Critic reviews", "Wikipedia film pages", "Text", "Yes, free (CC BY-SA)"],
+    ["5", "IMDb 50K reviews", "ai.stanford.edu", "Text files", "Yes, for study"],
+], columns=["No.", "Data", "Where from", "Format", "Allowed to use?"]), size=9)
+P("We took all the data on 26 Nov 2026. For sources 1 to 4 we used the Wikipedia API. For source 5 we downloaded a zip file.")
 P("We also tried Reddit, YouTube and IMDb reviews. Reddit blocked us. YouTube and TMDb need a personal key. "
   "IMDb does not allow copying its reviews. So we used Wikipedia page views as our buzz number. "
   "It shows how many people searched for the film on each day.")
 
 H("All the Columns We Used (Data Inventory)", 2)
 TABLE(pd.DataFrame([
-    ["film_id", "Made by us", "Nominal", "Structured"],
-    ["language", "Source 1", "Nominal", "Structured"],
-    ["worldwide_gross_cr (money earned)", "Source 1", "Continuous", "Structured"],
-    ["gross_raw (text like '₹797.34 crore')", "Source 1", "Text, changed to continuous", "Structured"],
-    ["release_date", "Source 3", "Date", "Semi-structured"],
-    ["runtime_min", "Source 3", "Discrete", "Semi-structured"],
-    ["budget_cr", "Source 3", "Continuous (many empty)", "Semi-structured"],
-    ["opening_day_cr", "Source 3 text", "Continuous (many empty)", "Unstructured"],
-    ["views per day", "Source 2", "Discrete (count)", "Semi-structured"],
-    ["edits per day", "Source 3", "Discrete (count)", "Semi-structured"],
-    ["day_from_release", "Made by us", "Discrete", "Structured"],
-    ["sentence_text (review line)", "Source 4 and 5", "Text", "Unstructured"],
-    ["vader_compound (sentiment score)", "Made by us", "Continuous (-1 to +1)", "Structured"],
-    ["sentiment_label (neg, neu, pos)", "Made by us", "Ordinal", "Structured"],
-    ["aspect (music, story, acting...)", "Made by us", "Nominal", "Structured"],
-    ["IMDb label (pos or neg)", "Source 5", "Nominal", "Structured"],
-    ["Day 3 ratio", "Made by us", "Continuous", "Structured"],
-    ["Buzz Score", "Made by us", "Continuous", "Structured"],
-], columns=["Column", "From", "Data type", "Shape"]), size=9)
-P("Meaning of data types: Nominal means names or groups, like language. Ordinal means groups in an order, "
-  "like negative, neutral, positive. Discrete means whole numbers we count, like views. "
-  "Continuous means numbers with decimals, like money in crore.")
+    ["Film name", "Name of the film", "Nominal", "Structured"],
+    ["Language", "Hindi, Tamil, etc.", "Nominal", "Structured"],
+    ["Money earned", "Total money in crore", "Continuous", "Structured"],
+    ["Release date", "Date the film came", "Date", "Semi-structured"],
+    ["Runtime", "Length in minutes", "Discrete", "Semi-structured"],
+    ["Budget", "Cost of the film (many empty)", "Continuous", "Semi-structured"],
+    ["Opening day money", "Money on day 1 (many empty)", "Continuous", "Unstructured"],
+    ["Views per day", "People who opened the page", "Discrete", "Semi-structured"],
+    ["Edits per day", "Changes made to the page", "Discrete", "Semi-structured"],
+    ["Day number", "Days before or after release", "Discrete", "Structured"],
+    ["Review line", "One line from a review", "Text", "Unstructured"],
+    ["Review score", "From -1 to +1", "Continuous", "Structured"],
+    ["Review type", "Negative, neutral, positive", "Ordinal", "Structured"],
+    ["Topic", "Music, story, acting, etc.", "Nominal", "Structured"],
+    ["IMDb label", "Positive or negative", "Nominal", "Structured"],
+    ["Day 3 ratio", "Monday views / Friday views", "Continuous", "Structured"],
+    ["Buzz Score", "Our own score", "Continuous", "Structured"],
+], columns=["Column", "Meaning", "Data type", "Shape"]), size=9)
+P("Nominal means names or groups. Ordinal means groups in an order. "
+  "Discrete means whole numbers we count. Continuous means numbers with decimals.")
 
 H("Our 3 Vs (V Profile)", 2)
 peak = buzz.loc[buzz[buzz.day_from_release == 0].views.idxmax()]
 TABLE(pd.DataFrame([
-    ["Volume (how much data)", f"25 films. {len(buzz):,} rows of daily data. {len(crit)} critic lines. 50,000 IMDb reviews. "
-                               f"About 8 MB of JSON files and 84 MB of IMDb files. PySpark used {int(spark_rows):,} rows of text."],
-    ["Velocity (how fast data comes)", f"On release day, {peak.film_id.replace('_2025', '').title()} got {int(peak.views):,} views. That is about "
-                                       f"{int(peak.views / 24):,} views every hour. One page got 155 edits in one day. "
-                                       f"Most films lose half their views in about {S['median_half_life']:.0f} days. So buzz comes fast and goes fast."],
-    ["Variety (how many types of data)", "This was our biggest problem. Data for one film came in 5 types: HTML tables, 2 types of JSON, wiki code, normal text and text files. "
-                                         "One film had 3 names. Money came as '₹1,350.83 crore', '₹90–130 crore' or in US dollars."],
-    ["How it changed our tools", "Because of Variety, first we made one common name (key) for each film and a cleaning log. "
-                                 "We used json_normalize for JSON, read_html for tables, and SQL to join everything. "
-                                 "Because of Velocity, we kept data for each day, not just one number for each film. "
-                                 "Because of Volume, we used PySpark for the 50,000+ text rows."],
-], columns=["V", "Our data"]), size=9)
+    ["Volume", "How much data", f"25 films, {len(buzz):,} daily rows, {len(crit)} critic lines, 50,000 IMDb reviews (about 92 MB)"],
+    ["Velocity", "How fast data comes", f"{peak.film_id.replace('_2025', '').title()} got {int(peak.views):,} views on release day (about {int(peak.views / 24):,} per hour)"],
+    ["Variety", "How many types of data", "HTML, JSON, wiki code, text. One film had 3 names."],
+], columns=["V", "Meaning", "Our data"]), size=10)
+P("Variety was our biggest problem. Money came in many forms, like '₹1,350.83 crore', '₹90–130 crore' or US dollars. "
+  "So first we made one common name for each film and wrote a cleaning log. "
+  "Because of Velocity, we kept data for every day. Because of Volume, we used PySpark for the 50,000+ text rows.")
 
 H("d. How We Did It, Step by Step (Pipeline)")
 for s in ["Step 1 (1 collect data.py): get data from Wikipedia and save it as it is.",
@@ -175,7 +169,9 @@ for s in ["Step 1 (1 collect data.py): get data from Wikipedia and save it as it
 
 H("e. How We Cleaned the Data (Cleaning Log)")
 P("Each row is one cleaning step we did.")
-TABLE(log[["step", "area", "problem", "rows_affected", "action", "why"]], size=8)
+cl = log[["step", "problem", "rows_affected", "action", "why"]].copy()
+cl.columns = ["No.", "Problem we found", "Rows", "What we did", "Why"]
+TABLE(cl, size=8)
 H("Same Step in Excel and in pandas", 2)
 P("Step: change '₹1,350.83 crore' into the number 1350.83.")
 P("In Excel we used a formula with SUBSTITUTE and VALUE (file: outputs/excel cleaning step.xlsx). "
@@ -263,11 +259,15 @@ H("Appendix B: Who Did What")
 TABLE(pd.DataFrame([
     ["Gauri (1RV23EC048)", "Got data from APIs, sentiment, PySpark, charts and Buzz Score, slides", "50%"],
     ["Shivansh (1RV23EC138)", "Box office tables, cleaning log, film name matching, SQL tables and queries, Excel comparison, report", "50%"],
-], columns=["Member (USN)", "Work done", "Share"]))
+], columns=["Name (USN)", "Work done", "Share"]))
 H("Appendix C: All 25 Films")
-fl = films[["film_id", "language", "release_date", "worldwide_gross_cr", "prerelease_views_7d", "day3_attention_ratio", "critic_tone"]].copy()
+fl = films[["wiki_title", "language", "release_date", "worldwide_gross_cr", "day3_attention_ratio"]].copy()
+fl["wiki_title"] = fl["wiki_title"].str.replace(r" \(.*\)", "", regex=True)
+fl["release_date"] = pd.to_datetime(fl["release_date"]).dt.strftime("%d-%m-%Y")
+fl["worldwide_gross_cr"] = fl["worldwide_gross_cr"].round(0).astype(int)
 fl["day3_attention_ratio"] = fl["day3_attention_ratio"].round(2)
-fl.columns = ["Film", "Language", "Release date", "Money (Rs crore)", "Views 7 days before", "Day 3 ratio", "Critic score"]
+fl.insert(0, "No.", range(1, len(fl) + 1))
+fl.columns = ["No.", "Film", "Language", "Release date", "Money (Rs crore)", "Monday / Friday views"]
 TABLE(fl, size=8)
 
 out = ROOT / "report" / "Release Day Radar Report.docx"
