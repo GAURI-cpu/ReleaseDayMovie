@@ -63,6 +63,12 @@ Run everything with one command:
 & ".\run all.ps1"
 ```
 
+On Mac or Linux:
+
+```bash
+./"run all.sh"
+```
+
 This runs these steps in order:
 
 1. `1 collect data.py`: gets data from Wikipedia.
