@@ -51,8 +51,7 @@ python -m venv .venv
 Run everything with one command:
 
 ```powershell
-& ".un all.ps1"
-un all.ps1"
+& ".\run all.ps1"
 ```
 
 This runs these steps in order:
