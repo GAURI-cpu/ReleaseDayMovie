@@ -6,6 +6,7 @@ from pptx.enum.shapes import MSO_SHAPE
 from common import ROOT, OUT, CHARTS
 
 S = json.loads((OUT / "key numbers.json").read_text(encoding="utf-8"))
+REPO = (ROOT / "repo link.txt").read_text().strip()
 BLACK, GREY = RGBColor(0, 0, 0), RGBColor(0x55, 0x55, 0x55)
 prs = Presentation()
 prs.slide_width, prs.slide_height = Inches(13.333), Inches(7.5)
@@ -45,7 +46,7 @@ def img(s, name, x=1.6, y=1.65, h=5.6, w=None):
 s = prs.slides.add_slide(BLANK)
 text(s, 0.8, 1.6, 11.5, 1, ["Release Day Radar"], 48, True)
 text(s, 0.8, 2.9, 11.5, 2, ["Do not judge a film by its Friday buzz.", "Check if people are still looking for it on Monday."], 28)
-text(s, 0.8, 5.6, 11.5, 1.2, ["Case Study A, Data and Storytelling, Module 1", "Gauri and Shivansh"], 18)
+text(s, 0.8, 5.6, 11.5, 1.2, ["Case Study A, Data and Storytelling, Module 1", "Gauri and Shivansh", "GitHub: " + REPO], 18)
 s.notes_slide.notes_text_frame.text = ("Gauri: Good morning. We are the data team of a film company. "
     "Our answer is simple. Buzz before release does not tell us much. What matters is if people are still searching for the film on Monday.")
 
@@ -136,5 +137,6 @@ text(s, 7.4, 1.8, 5.5, 5.5, [
     "A link is not a cause"], 18, True)
 
 out = ROOT / "report" / "Release Day Radar Slides.pptx"
+text(s, 0.8, 6.7, 12, 0.5, ["Code and data: " + REPO], 14)
 prs.save(out)
 print("saved", out, len(prs.slides), "slides")
