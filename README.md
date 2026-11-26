@@ -108,6 +108,10 @@ sqlite3 "data/clean/database.sqlite"
 
 Then type `.tables` to see the tables, or run any query from `sql/queries.sql`.
 
+## Team
+
+Who did which part is written in [report/Team Contribution.md](report/Team%20Contribution.md).
+
 ## Data sources
 
 - Wikipedia and Wikimedia APIs (free to use, CC BY-SA). We sent slow requests.
