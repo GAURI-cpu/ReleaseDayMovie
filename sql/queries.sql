@@ -1,3 +1,6 @@
+-- Release Day Radar: analysis queries (Q1 to Q7)
+-- Results of these queries are saved in outputs/sql results.md by code/5 sql.py
+
 -- Q1: Each film with its views before release and its money (JOIN)
 SELECT f.film_id, f.language, f.prerelease_views_7d, b.worldwide_gross_cr
 FROM films f
