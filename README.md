@@ -64,7 +64,8 @@ This runs these steps in order:
 6. `6 pyspark.py`: PySpark job on 50,217 text rows.
 7. `7 charts.py`: makes the charts.
 8. `8 excel vs pandas.py`: Excel and pandas comparison.
-9. `9 make report.py` and `10 make slides.py`: make the report and slides.
+9. `11 make notebook.py` and `12 take screenshots.py`: run the chart code in a notebook and take screenshots.
+10. `9 make report.py` and `10 make slides.py`: make the report and slides.
 
 ## MySQL
 

@@ -42,11 +42,14 @@ def slide(title, notes):
     return s
 
 
-def img(s, name, x=1.6, y=1.65, h=5.6, w=None):
+def img(s, name, x=None, y=1.5, h=5.85, w=None):
+    shot = OUT / "screenshots" / name
+    path = str(shot if shot.exists() else CHARTS / name)
     if w:
-        s.shapes.add_picture(str(CHARTS / name), Inches(x), Inches(y), width=Inches(w))
+        s.shapes.add_picture(path, Inches(x), Inches(y), width=Inches(w))
     else:
-        s.shapes.add_picture(str(CHARTS / name), Inches(x), Inches(y), height=Inches(h))
+        pic = s.shapes.add_picture(path, 0, Inches(y), height=Inches(h))
+        pic.left = int((prs.slide_width - pic.width) / 2)
 
 
 s = prs.slides.add_slide(BLANK)

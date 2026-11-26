@@ -45,7 +45,8 @@ def B(t):
 
 
 def IMG(name, w=16):
-    doc.add_picture(str(CHARTS / name), width=Cm(w))
+    shot = OUT / "screenshots" / name
+    doc.add_picture(str(shot if shot.exists() else CHARTS / name), width=Cm(w))
 
 
 def TABLE(df, size=9):
