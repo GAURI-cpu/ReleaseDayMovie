@@ -1,0 +1,940 @@
+{
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025111700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 77
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025111800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 378
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 390
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 417
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 726
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 719
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 688
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 598
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 608
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 579
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 587
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 596
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 674
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 667
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1012
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1677
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1684
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1736
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5422
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4061
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3779
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3105
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3284
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6314
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40395
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 36011
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 27404
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20601
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17135
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15610
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12888
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11276
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10047
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10176
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10279
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9566
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9582
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9582
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8840
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8200
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7800
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7210
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5746
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5138
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3941
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3827
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3932
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3938
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4560
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3591
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3029
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2963
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3369
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3157
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3178
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2931
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2390
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2160
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2198
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1738
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1950
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2177
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1722
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1737
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1553
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1458
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1969
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2143
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1940
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1754
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1516
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1318
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1275
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1241
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1123
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1122
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 940
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 931
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 914
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 884
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 894
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 862
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 937
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 774
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 822
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 846
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 725
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 730
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 986
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1037
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1297
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 938
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 790
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 856
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 820
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 854
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 848
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 747
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 798
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 737
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 620
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 736
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "The_Devil_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 869
+  }
+ ]
+}

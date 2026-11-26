@@ -1,0 +1,142 @@
+{
+ "warnings": {
+  "main": {
+   "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+  },
+  "parse": {
+   "*": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+  }
+ },
+ "parse": {
+  "title": "The Devil (2025 film)",
+  "pageid": 76931141,
+  "redirects": [],
+  "sections": [
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Synopsis",
+    "number": "1",
+    "index": "1",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 3482,
+    "anchor": "Synopsis",
+    "linkAnchor": "Synopsis"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Cast",
+    "number": "2",
+    "index": "2",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 5509,
+    "anchor": "Cast",
+    "linkAnchor": "Cast"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Production",
+    "number": "3",
+    "index": "3",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 6980,
+    "anchor": "Production",
+    "linkAnchor": "Production"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Music",
+    "number": "4",
+    "index": "4",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 8170,
+    "anchor": "Music",
+    "linkAnchor": "Music"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Marketing",
+    "number": "5",
+    "index": "5",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 10290,
+    "anchor": "Marketing",
+    "linkAnchor": "Marketing"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Release",
+    "number": "6",
+    "index": "6",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 11688,
+    "anchor": "Release",
+    "linkAnchor": "Release"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Reception",
+    "number": "7",
+    "index": "7",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 13185,
+    "anchor": "Reception",
+    "linkAnchor": "Reception"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Box office",
+    "number": "7.1",
+    "index": "8",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 13199,
+    "anchor": "Box_office",
+    "linkAnchor": "Box_office"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Critical reception",
+    "number": "7.2",
+    "index": "9",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 16386,
+    "anchor": "Critical_reception",
+    "linkAnchor": "Critical_reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "References",
+    "number": "8",
+    "index": "10",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 20199,
+    "anchor": "References",
+    "linkAnchor": "References"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "External links",
+    "number": "9",
+    "index": "11",
+    "fromtitle": "The_Devil_(2025_film)",
+    "byteoffset": 20227,
+    "anchor": "External_links",
+    "linkAnchor": "External_links"
+   }
+  ],
+  "showtoc": "",
+  "wikitext": {
+   "*": "{{Short description|Indian action film}}\n{{Use dmy dates|date=October 2026}}\n{{Use Indian English|date=December 2025}}\n{{Infobox film\n| image          = The Devil (2025 film).jpg\n| caption        = Theatrical release poster\n| director       = [[Prakash (director)|Prakash]]\n| writer         = Prakash\n| producer       = {{plainlist|\n* Prakash\n* J. Jayamma\n}}\n| starring       = {{plainlist|\n* [[Darshan (Kannada actor)|Darshan]]\n* Rachana Rai\n* [[Mahesh Manjrekar]]\n* [[Achyuth Kumar]]\n* [[Sharmiela Mandre]]\n}}\n| cinematography = Sudhakar S. Raj\n| editing        = [[Harish Komme]]\n| music          = [[B. Ajaneesh Loknath]]\n| studio         = {{plainlist|\n* Vaishno Studios\n* Jai Mata Combines\n}}\n| released       = {{Film date|2025|12|11|df=y}}\n| country        = India\n| runtime        = 169 minutes\n| language       = [[Kannada]]\n| gross          = {{INR|43 crore}} <ref>{{cite news |last1=Sharadhaa |first1=A. |title=Makers of Darshan's The Devil celebrate piracy-free run |url=https://www.cinemaexpress.com/kannada/news/2026/Jan/02/makers-of-darshans-the-devil-celebrate-piracy-free-run |access-date=3 January 2026 |work=[[Cinema Express]] |date=2 January 2026}}</ref>\n}}\n\n'''''The Devil''''' is a 2025 Indian [[Kannada]]-language [[Political film|political]] [[action thriller]] film written and directed by [[Prakash Veer (director)|Prakash Veer]] and produced by Veer and J. Jayamma under the banners of Sri Jaimatha Combines, Vaishno Studios, and Saregama.<ref>{{Cite web |date=3 November 2023 |title=Challenging Star Darshan's new movie is titled 'Devil: The Hero' |url=https://thesouthfirst.com/entertainment/challenging-star-darshans-new-movie-is-titled-devil-the-hero/ |access-date=18 May 2024 |website=The South First}}</ref> The film features [[Darshan Thoogudeepa|Darshan]] in a dual role as hero and villain, supported by Rachana Rai, [[Mahesh Manjrekar]], [[Achyuth Kumar]], [[Sharmiela Mandre]], [[Roger Narayan]], [[Shobaraj]], and [[Srinivas Prabhu]].<ref name=\":0\">{{Cite news |date=16 February 2024 |title=Darshan Thoogudeepa's 'Devil: The Hero' teaser released |url=https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/darshan-thoogudeepas-devil-the-hero-teaser-released/articleshow/107752679.cms |access-date=18 May 2024 |work=The Times of India |issn=0971-8257}}</ref><ref>{{Cite web |date=15 November 2023 |title=Darshan's first look from 'Devil-The Hero' out, Challenging Star eyes another blockbuster |url=https://thesouthfirst.com/entertainment/darshans-first-look-from-devil-the-hero-out-challenging-star-eyes-another-blockbuster/ |access-date=18 May 2024 |website=The South First}}</ref><ref>{{Cite web |date=5 February 2024 |title=Devil Movie: ಡೆವಿಲ್ ನಲ್ಲಿ ದರ್ಶನ್ ಹೀರೋಯಿನ್ ಯಾರು? ಡೈರೆಕ್ಟರ್ ಕೊಟ್ರು ಉತ್ತರ |url=https://kannada.news18.com/news/entertainment/sandalwood-actor-darshan-acted-devil-movie-heroine-new-updates-rvj-dvp-1557188.html |access-date=18 May 2024 |website=News18 ಕನ್ನಡ |language=kn}}</ref>\n\n[[Principal photography]] for the film began in [[Bengaluru]] on 22 March 2024 but was temporarily halted in mid‑2024, when [[Murder of Renukaswamy|Darshan was arrested]]; filming resumed in February 2025. The cinematography is handled by Sudhakar S. Raj, and the music is composed by [[B. Ajaneesh Loknath]].\n\n''The Devil'' premiered in theatres in [[Karnataka]] on 11 December 2025, with a runtime of 169 minutes. It received mixed-to-negative reviews from critics. The film is streaming from July 17th 2026 on [[Zee5]].\n\n==Synopsis==\nThe film opens with Chief Minister Rajashekar being sentenced to prison on corruption charges, which have been orchestrated by his own nephews to undermine his political power. Desperate to retain control, Rajashekar tasks his trusted advisor, [[Indian Administrative Service|IAS]] officer Anant Nambiar, with finding his son Dhanush in London and bringing him to India to become the next chief minister.\n\nDhanush, a privileged and entitled young man, returns to a divided welcome. He is arrogant and violent, prioritising personal gain over public service. When he refuses to accept the responsibility and belittles Nambiar, Nambiar executes a daring plan: he recruits Krishna, a lookalike from Gandhinagar who runs a small eatery and aspires to be an actor, and convinces him to assume Dhanush's identity and lead the political campaign under supervision.\n\nUpon entering the political scene, \"Dhanush\"—actually Krishna—instantly wins over the public with his genuine compassion. He connects emotionally with the masses, for instance by personally serving midday meals in government schools—a gesture that signals sincerity rather than political posturing. Meanwhile, Krishna grows closer to Rukmini, who sees him as a kind-hearted soul, and his warmth begins to soften her heart. Conflict emerges when the real Dhanush returns to India unexpectedly, overshadowing Krishna's growing acceptance. Dhanush's chaotic re-entry leads to confusion and emotional tension—especially when Rukmini mistakenly engages with him, leading to her abduction and a brewing rivalry between the two lookalikes. Nambiar uses the situation to manipulate both men while shoring up political support, blurring ethical lines in the process.\n\nStriving to protect Rukmini and expose the truth, Krishna faces moral dilemmas and physical threats from Dhanush and the corrupt elements around him. Ultimately, the narrative converges on who is more deserving to claim the position of chief minister: the genuine everyman or the entitled heir.\n\n==Cast==\n{{Cast listing|\n* [[Darshan (Kannada actor)|Darshan]] in a [[double role]] as \n** Dhanush Rajashekhar aka Devil \n** Dhanush Rajashekhar aka Krishna\n* Rachana Rai as Rukmini<ref>{{Cite web |title=Rachana Rai announced as lead actress in Darshan's 'Devil: The Hero' |url=https://www.udayavani.com/english-news/coastal-beauty-rachana-rai-announced-as-lead-actress-in-darshans-devil-the-hero |access-date=18 May 2024 |website=udayavani.com}}</ref><ref>{{Cite web |date=18 May 2024 |title=Devil: ಚಾಲೆಂಜಿಂಗ್ ಸ್ಟಾರ್ ʻಡೆವಿಲ್ ದಿ ಹೀರೋʼ ಚಿತ್ರಕ್ಕೆ ನಾಯಕಿ ಯಾರು ಗೊತ್ತೇ?? |url=https://zeenews.india.com/kannada/entertainment/devil-the-hero-film-heroine-selected-211650 |access-date=18 May 2024 |website=Zee News Kannada |language=kn |trans-title=Devil: Do you know who the heroine is from the film 'Devil the Hero', starring Challenging Star?}}</ref>\n* [[Mahesh Manjrekar]] as Chief Minister Rajashekar<ref>{{Cite web |date=10 April 2024 |title=Devil Movie: ಮತ್ತೊಮ್ಮೆ ಕನ್ನಡಕ್ಕೆ ಬಂದ ಬಾಲಿವುಡ್ ನಟ |url=https://kannada.news18.com/news/entertainment/bollywood-actor-mahesh-manjrekar-joined-the-kannada-devil-movie-team-rvj-dvp-1647870.html |access-date=25 May 2024 |website=News18 ಕನ್ನಡ |language=kn |trans-title=Devil Movie: Bollywood actor returns to Kannada again}}</ref>\n* [[Achyuth Kumar]] as Anant Nambiar\n* [[Sharmiela Mandre]]\n* [[Roger Narayan]]\n* [[Shobaraj|Shobhraj]]\n* [[Srinivas Prabhu]]\n* [[Tulasi (actress)|Thulasi]]\n* Huli Karthik\n* Chandu Gowda\n* [[Gilli Nata]]\n}}\n\n==Production==\nThe film was officially announced on 2 November 2023, and filming began on 22 March 2024, in [[Bengaluru]].<ref>{{Cite web |last=Service |first=Express News |date=16 March 2024 |title=Darshan to begin shooting for Prakash Veer's Devil on March 22 |url=https://www.newindianexpress.com/entertainment/kannada/2024/Mar/16/darshan-to-begin-shooting-for-prakash-veers-devil-on-march-22 |access-date=18 May 2024 |website=The New Indian Express}}</ref> The project faced a major setback in mid-2024, when Darshan was arrested in connection with [[Renukaswamy|Renukaswamy's murder]]. In February 2025, filming resumed.<ref>{{cite news |title=Darshan's The Devil back on track following legal troubles? |url=https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/darshans-the-devil-back-on-track-following-legal-troubles/articleshow/118275605.cms |work=The Times of India |date=16 February 2025}}</ref><ref>{{cite news |title='The Devil' Is Back, Teaser Unveiled on Darshan's Birthday |url=https://www.timesnownews.com/entertainment-news/kannada/the-devil-is-back-teaser-unveiled-on-darshan-s-birthday-article-118297476/ |work=Times Now |date=16 February 2025}}</ref>\n\n==Music==\n[[B. Ajaneesh Loknath]] composed the score for the film,<ref>{{Cite web |title=Ajaneesh B Loknath roped in to score music for Darshan's next with Milana Prakash? |url=https://www.ottplay.com/news/ajaneesh-b-loknath-roped-in-to-score-music-for-darshans-next-with-milana-prakash/f3a2a47c91518 |access-date=25 May 2024 |website=OTTPlay}}</ref> with audio rights going to [[Saregama]].<ref>{{Cite web |last=Sharadhaa |first=A. |date=13 February 2024 |title=Darshan's Devil – The Hero secures audio rights for a huge price, before filming |url=https://www.cinemaexpress.com/kannada/news/2024/Feb/13/darshans-devil--the-herosecures-audio-rights-for-a-huge-price-before-filming-52005.html |access-date=18 May 2024 |website=Cinema Express}}</ref> The first single, \"Idre Nemdiyaag Irbek\", was released in August 2025, and shortly after, it clocked over 13 million views on [[YouTube]].<ref>{{cite web|url=https://www.newindianexpress.com/entertainment/kannada/2025/Sep/08/kannadanews2025sep08darshans-the-devil-track-idre-nemdiyag-irbek-dominates-streaming-platforms|title=Darshan's The Devil track 'Idre Nemdiyag Irbek' dominates streaming platforms|work=The New Indian Express|date=8 September 2025}}</ref>\n\n{{track listing\n| headline     = Track listing\n| extra_column = Singer(s)\n| total_length = \n| title1       = Devil Teaser Theme\n| lyrics1      = Instrumental\n| extra1       = B. Ajaneesh Loknath\n| length1      = 1:06\n| title2       = The Devil Motion Picture Theme\n| lyrics2      = Instrumental\n| extra2       = B. Ajaneesh Loknath\n| length2      = 1:06\n| title3       = Idre Nemdiyaag Irbek\n| lyrics3      = [[Aniruddha Sastry]]\n| extra3       = Deepak Blue\n| length3      = 4:19\n| title4       = Onde Ondu Sala\n| lyrics4      = Pramod Maravanthe\n| extra4       = [[Kapil Kapilan]], [[Chinmayi Sripaada]]\n| length4      = 3:55\n| title5       = Alhomora – The True Emperor\n| lyrics5      = Aniruddha Sastry\n| extra5       = Aniruddha Sastry\n| length5      = 3:13\n| title6       = Yeno Onthara Chanda\n| lyrics6      = Pramod Maravanthe\n| extra6       = [[Abby V]], Harshika Devanath\n| length6      = 4:48\n}}\n\n==Marketing==\nThe first glimpse of the film was released on 15 February 2024, and coincided with Darshan's birthday.<ref>{{Cite web |title=First glimpse of Challenging Star Darshan's Devil to be unveiled on this day |url=https://www.ottplay.com/news/first-glimpse-of-challenging-star-darshans-devil-to-be-unveiled-on-this-day/3577e75acc161 |access-date=18 May 2024 |website=OTTPlay}}</ref><ref>{{Cite web |date=16 February 2024 |title=Darshan Unleashes Swag in Upcoming Kannada Movie Devil's Glimpse; Actor's New Avatar Sparks Fan Frenzy |url=https://www.thedailyjagran.com/entertainment/darshan-unleashes-swag-in-upcoming-kannada-movie-devil-glimpse-actor-new-avatar-sparks-fan-frenzy-10133996 |access-date=18 May 2024 |website=English Jagran}}</ref> ''[[The Times of India]]'' wrote, \"With devilish dialogues and intense action sequences, the actor captivates audiences with his portrayal of a character still in mystery.\"<ref name=\":0\" /> A [[behind-the-scenes]] video was released on 10 May 2024.<ref name=\":3\">{{Cite web |last=Service |first=Express News |date=11 May 2024 |title=Darshan recovering from hand injury, to resume shooting for 'Devil – The Hero' by May-end |url=https://www.newindianexpress.com/entertainment/kannada/2024/May/11/darshan-recovering-from-hand-injury-to-resume-shooting-for-devil-the-hero-by-may-end |access-date=18 May 2024 |website=The New Indian Express}}</ref>\n\n==Release==\n''The Devil'' was released on 11 December 2025, moved forward by one day from its initially planned 12 December launch to accommodate fan demand. The Devil is set to start streaming from July 17th 2026 on [[ZEE5]].<ref>{{cite news |title=Release date of The Devil advanced due to Darshan fans' demand|url=https://www.newindianexpress.com/entertainment/kannada/2025/Nov/22/kannadanews2025nov21release-date-of-the-devil-advanced-due-to-darshan-fans-demand |work=The New Indian Express |date=22 November 2025}}</ref><ref>{{cite news |title=The Devil release advanced: Darshan Thoogudeepa's film team respond to massive fan demand |url=https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/the-devil-release-advanced-darshan-thoogudeepas-film-team-respond-to-massive-fan-demand/articleshow/125501107.cms |work=The Times of India |date=22 November 2025}}</ref><ref>{{cite web|url=https://www.cinemaexpress.com/kannada/news/2025/Dec/08/darshans-the-devil-is-set-to-have-the-biggest-fdfs-opening-in-karnataka|title=Darshan's The Devil is set to have the biggest fdfs opening in Karnataka|work=Cinema Express|date=11 December 2025}}</ref><ref>{{cite web|url=https://www.news18.com/movies/regional-cinema/the-devil-darshan-fans-celebrate-film-release-as-actor-remains-lodged-in-karnataka-jail-in-murder-case-9762839.html|title=The Devil: Darshan fans celebrate film release as actor remains lodged in Karnataka jail in murder case|work=News18.com|date=11 December 2025}}</ref>\n\n==Reception==\n===Box office===\n''The Devil'' was reported to have netted around ₹10 crore (100 million)<ref>{{cite web|title=Darshan's The Devil First Day Collections |url=https://www.deccanchronicle.com/entertainment/darshan-thoogudeepas-the-devil-opens-to-record-opening-1923406 |website=deccanchronicle.com |date=12 December 2025 |access-date=15 December 2025}}</ref> on its first day, with gross earnings around ₹13.8 crore (138 million).<ref>{{cite web|title=ದರ್ಶನ್ ಚಿತ್ರದ ಮೊದಲ ದಿನದ ಕಲೆಕ್ಷನ್ ಎಷ್ಟು ಗೊತ್ತಾ? |url=https://udayavani.com/sandalwood-news/do-you-know-how-much-darshans-movie-earned-on-the-first-day-598144?lang=kn |website=udayavani.com |date=13 December 2025 |access-date=15 December 2025 |language=kn |trans-title=Devil Movie: Do you know the first day collection of Darhan's movie?}}</ref> However, some sources have claimed earnings of ₹21 crore (210 million) for the first two days,<ref>{{cite web|title=ಡೆವಿಲ್ ಸಿನಿಮಾ 2 ದಿನಗಳಲ್ಲಿ ಎಷ್ಟು ಗಳಿಸಿತು? ಸಾರಥಿಯ ಟ್ರೆಂಡ್ ಮತ್ತೆ ಪುನರಾವರ್ತನೆಯಾಗಿದೆ. |url=https://kannada.news18.com/news/entertainment/devil-box-office-success-darshan-movie-earns-21-crore-in-2-days-dvp-ws-l-2253720.html |website=kannada.news18.com |date=14 December 2025 |access-date=15 December 2025 |language=kn |trans-title=Devil Movie: How much did Devil movie earn in 2 days? Sarathi's trend repeats again}}</ref> while others estimated three-day earnings to be only ₹17.15 crore (171.5 million).<ref>{{cite web|title=The Devil Box Office Collection Day 3: Darshan's film crosses Rs 17 crore, strong weekend hold continues |url=https://www.financialexpress.com/life/entertainment-the-devil-box-office-collection-day-3-darshans-film-crosses-rs-17-crore-strong-weekend-hold-continues-4076322/lite/?ieAmpSSOAccessTkn |website=financialexpress.com |date=14 December 2025 |access-date=15 December 2025}}</ref> First-weekend earnings were reported to be around ₹25 crore (250 million).<ref name=\":25\">{{cite web|title=Darshan's pull lights up single screens as The Devil mints over Rs 25 crore at box office|url=https://www.cinemaexpress.com/kannada/news/2025/Dec/15/darshans-pull-lights-up-single-screens-as-the-devil-mints-over-rs-25-crore-at-box-office|website= [[Cinema Express]]|date=15 December 2025 |access-date=15 December 2025}}</ref> While several sources reported that the movie had earned ₹260 million at the end of three weeks,<ref>{{cite news |last1=Hegde|first1=Lakshmi |title=Mark VS 45: 7 ದಿನಗಳಲ್ಲಿ ಮಾರ್ಕ್ ಮತ್ತು 45 ಸಿನಿಮಾಗಳ ಗಳಿಕೆ ಎಷ್ಟು?; ಯಾವ ಚಿತ್ರದ ಕಲೆಕ್ಷನ್ ಹೆಚ್ಚಿದೆ?|url=https://kannada.timesnownews.com/entertainment/mark-vs-45-what-is-the-collection-of-mark-and-45-kannada-movies-in-7-days-article-153379466|access-date=3 January 2026 |work=[[Times Now]] |date=1 January 2026|language=kn|trans-title=Mark VS 45: How much did Mark and 45 earn in 7 days?; Which film has the highest collection?}}</ref> a few claimed it had grossed ₹430 million in 25 days.<ref>{{cite news |last1=Sharadhaa |first1=A. |title=Makers of Darshan's The Devil celebrate piracy-free run |url=https://www.cinemaexpress.com/kannada/news/2026/Jan/02/makers-of-darshans-the-devil-celebrate-piracy-free-run |access-date=3 January 2026 |work=[[Cinema Express]] |date=2 January 2026}}</ref>\n\n===Critical reception===\n''The Devil'' opened with mixed-to-negative reviews from critics.<ref name=\":6\" /><ref name=\":7\" /> ''[[The Times of India]]'' gave it 2.5 out of 5 stars and wrote, \"The Devil is a decent one-time watch for fans of mass cinema- just don't go in with high expectations.\"<ref name=\":1\">{{Cite web |title=The Devil Movie Review: Darshan's dual act powers a patchy but massy entertainer |url=https://timesofindia.indiatimes.com/entertainment/kannada/movie-reviews/the-devil/movie-review/125907405.cms |access-date=12 December 2025 |website=The Times of India}}</ref> ''[[The Indian Express]]'' gave it 1.5 out of 5 stars, writing, \"The latest film with Darshan, 48, is not only lazy and lacklustre in its writing and execution, but it is also objectionable in the way it treats its women.\"<ref name=\":2\">{{Cite web |date=11 December 2025 |title=The Devil movie review: Challenging Star Darshan returns with an archaic, problematic extravaganza |url=https://indianexpress.com/article/entertainment/movie-review/the-devil-movie-review-challenging-star-darshan-returns-with-an-archaic-problematic-extravaganza-10415062/ |access-date=12 December 2025 |website=The Indian Express}}</ref> Vivek MV of ''[[The Hindu]]'' wrote, \"''The Devil'' has a lot to offer for ardent fans. That's an often-used expression to indirectly sum up a film.\"<ref name=\":4\">{{Cite news |last=M.V |first=Vivek |date=11 December 2025 |title='The Devil' movie review: Darshan hits and misses in a film that tests his stardom |url=https://www.thehindu.com/entertainment/movies/the-devil-movie-review-darshan-prakash-veer-the-devil-review-stardom-fans-hits-and-misses/article70384177.ece |archive-url=https://web.archive.org/web/20251211113853/https://www.thehindu.com/entertainment/movies/the-devil-movie-review-darshan-prakash-veer-the-devil-review-stardom-fans-hits-and-misses/article70384177.ece |url-status=live |archive-date=11 December 2025 |access-date=12 December 2025 |work=The Hindu |url-access=limited |issn=0971-751X}}</ref>\n\nSruthi Raman of ''[[The Hollywood Reporter India]]'' wrote, \"Prakash Veer's Kannada film twists and stretches a half-decent idea into dreadful form.\"<ref name=\":5\">{{Cite web |title='The Devil' Movie Review: Darshan's Film Is Devilishly Dated |url=https://www.hollywoodreporterindia.com/reviews/theatrical/the-devil-movie-review-darshan-and-rachana-rais-kannada-film-is-devilishly-shrill |access-date=12 December 2025 |website=The Hollywood Reporter India}}</ref> Prathibha Joy of [[OTT Play]] gave the film 1.5 out of 5 stars and wrote, \"Darshan vs Darshan is the bait, but is it worth a bite? Would you spend 3 hours on an outdated tale that's far from entertaining and has absolutely nothing by way of USPs?\"<ref name=\":6\">{{Cite web |title=The Devil review: Darshan vs Darshan in age-old snooze-fest tale of power & love |url=https://www.ottplay.com/review/the-devil-movie-review-darshan-vs-darshan-in-outdated-snooze-fest-tale-of-power-and-love/83ac0b505a387 |access-date=12 December 2025 |website=OTTPlay}}</ref> Sanjay Ponnappa of ''[[India Today]]'' gave it 1.5 out of 5 stars and wrote, \"Overall, the film is such a letdown that there's barely anything good to say about it. There are several scenes where the actor pays homage to his people – his \"celebrities\" – and those moments may offer some satisfaction to die-hard fans. For a casual viewer, ''The Devil'' can feel like hell for almost three hours.\"<ref name=\":7\">{{Cite web |last=Ponnappa |first=Sanjay |date=11 December 2025 |title=The Devil review: Darshan's political drama falls flat, offering only disappointment |url=https://www.indiatoday.in/movies/reviews/story/darshan-the-devil-film-review-dual-role-disappointing-plot-karnataka-2834460-2025-12-11 |access-date=12 December 2025 |website=India Today}}</ref>\n\n==References==\n{{Reflist}}\n\n==External links==\n* {{IMDb title}}\n\n{{Prakash (film director)}}\n\n{{DEFAULTSORT:Devil: The Hero (2024 Film)}}\n[[Category:2025 action films]]\n[[Category:2025 Indian films]]\n[[Category:2025 Kannada-language films]]\n[[Category:Indian action films]]\n[[Category:Films scored by B. Ajaneesh Loknath]]"
+  }
+ }
+}

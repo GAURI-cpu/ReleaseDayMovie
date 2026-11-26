@@ -1,0 +1,153 @@
+{
+ "warnings": {
+  "main": {
+   "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+  },
+  "parse": {
+   "*": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+  }
+ },
+ "parse": {
+  "title": "Sarvam Maya",
+  "pageid": 20106271,
+  "redirects": [],
+  "sections": [
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Plot",
+    "number": "1",
+    "index": "1",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 4852,
+    "anchor": "Plot",
+    "linkAnchor": "Plot"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Cast",
+    "number": "2",
+    "index": "2",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 8465,
+    "anchor": "Cast",
+    "linkAnchor": "Cast"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Production",
+    "number": "3",
+    "index": "3",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 10030,
+    "anchor": "Production",
+    "linkAnchor": "Production"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Development",
+    "number": "3.1",
+    "index": "4",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 10048,
+    "anchor": "Development",
+    "linkAnchor": "Development"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Music",
+    "number": "4",
+    "index": "5",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 12135,
+    "anchor": "Music",
+    "linkAnchor": "Music"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Release",
+    "number": "5",
+    "index": "6",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 13207,
+    "anchor": "Release",
+    "linkAnchor": "Release"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Theatrical",
+    "number": "5.1",
+    "index": "7",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 13221,
+    "anchor": "Theatrical",
+    "linkAnchor": "Theatrical"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Home media",
+    "number": "5.2",
+    "index": "8",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 13963,
+    "anchor": "Home_media",
+    "linkAnchor": "Home_media"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Reception",
+    "number": "6",
+    "index": "9",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 14848,
+    "anchor": "Reception",
+    "linkAnchor": "Reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Accolades",
+    "number": "7",
+    "index": "10",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 18228,
+    "anchor": "Accolades",
+    "linkAnchor": "Accolades"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "References",
+    "number": "8",
+    "index": "11",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 21127,
+    "anchor": "References",
+    "linkAnchor": "References"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "External links",
+    "number": "9",
+    "index": "12",
+    "fromtitle": "Sarvam_Maya",
+    "byteoffset": 21157,
+    "anchor": "External_links",
+    "linkAnchor": "External_links"
+   }
+  ],
+  "showtoc": "",
+  "wikitext": {
+   "*": "{{Use Indian English|date=December 2025}}\n{{Use dmy dates|date=December 2025}}\n{{Infobox film\n| name           = Sarvam Maya\n| image          = Sarvam Maya.jpg\n| caption        = Theatrical release poster\n| director       = Akhil Sathyan\n| writer         = Akhil Sathyan\n| starring       = [[Nivin Pauly]]<br/>[[Riya Shibu]]<br/>[[Preity Mukhundhan]]<br />[[Aju Varghese]]<br />[[Janardhanan (actor)|Janardhanan]]\n| producer       = Ajayya Kumar<br/>Rajeev Menon\n| cinematography = Sharan Velayudhan\n| editing        = Akhil Sathyan<br>Rathin Radhakrishnan\n| music          = [[Justin Prabhakaran]]\n| studio         = Firefly Films<br>Akhil Sathyan Films\n| distributor    = Central Pictures\n| released       = {{Film date|2025|12|25|df=y}}\n| runtime        = 146 minutes<ref>{{Cite web |date=18 December 2025 |title=''Sarvam Maya'' (12A) |url=https://www.bbfc.co.uk/release/sarvam-maya-q29sbgvjdglvbjpwwc0xmdm0ntk4 |access-date=18 December 2025 |website=[[British Board of Film Classification]] }}</ref>\n| country        = India\n| language       = Malayalam\n| budget         = {{INR|30 crore}}<ref>{{Cite web |date=5 January 2026 |title= Sarvam Maya earns over 3 times its budget, becomes first Nivin Pauly film to achieve major record.\n|url=https://indianexpress.com/article/entertainment/malayalam/sarvam-maya-earns-over-3-times-its-budget-becomes-first-nivin-pauly-film-to-achieve-major-record-10456423/lite/|website=[[The Indian Express]]}}</ref>\n| gross          = {{INR|150 crore}}<ref>{{Cite web |date=3 February 2026 |title= 'Sarvam Maya' box office collection day 39: Nivin Pauly's film crosses Rs 150 crore worldwide\n|url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/box-office/sarvam-maya-box-office-collection-day-39-nivin-paulys-film-crosses-rs-150-worldwide/articleshow/127877395.cms|language=ml}}</ref>\n}}\n'''''Sarvam Maya''''' ({{Translation|Everything is a delusion}}) is a 2025 Indian [[Malayalam cinema|Malayalam]]-language [[Supernatural (genre)|supernatural]] [[fantasy film|fantasy]] [[Romantic movie|romantic]] [[comedy film]] written and directed by Akhil Sathyan.<ref>{{cite web|title=Nivin Pauly plays lead in Akhil Sathyan's horror-comedy Sarvam Maya|website=The Times of India|url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/nivin-pauly-plays-lead-in-akhil-sathyans-horror-comedy-sarvam-maya/articleshow/122187896.cms}}</ref> Produced by Firefly Films, the film stars [[Nivin Pauly]], [[Riya Shibu]] and [[Preity Mukhundhan]] in the lead roles along with, [[Aju Varghese]], [[Janardhanan (actor)|Janardhanan]], [[Raghunath Paleri]], [[Madhu Warrier]],[[Vineeth|Vineeth Radhakrishnan]], and [[Methil Devika]] in supporting roles.<ref>{{cite web|title=Sarvam Maya poster: Nivin Pauly and Aju Varghese celebrate 15 years of friendship|website=The Times of India|url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-poster-nivin-pauly-and-aju-varghese-celebrate-15-years-of-friendship-with-hearty-laughs-read-more/articleshow/122628408.cms}}</ref> The film is produced by Ajayya Kumar and Rajeev Menon under Firefly Productions.<ref>{{cite web |title=Nivin Pauly's film with Akhil Sathyan titled 'Sarvam Maya'; first look out |url=https://www.thehindu.com/entertainment/movies/nivin-paulys-film-with-akhil-sathyan-titled-sarvam-maya-first-look-out/article69763118.ece |archive-url=https://web.archive.org/web/20250702080435/https://www.thehindu.com/entertainment/movies/nivin-paulys-film-with-akhil-sathyan-titled-sarvam-maya-first-look-out/article69763118.ece |url-status=live |archive-date=2 July 2025 |website=The Hindu  |url-access=limited |date=2 July 2025}}</ref><ref>{{cite web |title=Nivin Pauly's Sarvam Maya wraps up filming |url=https://www.newindianexpress.com/entertainment/malayalam/2025/Nov/13/malayalamnews2025nov12nivin-paulys-sarvam-maya-wraps-up-filming |website=The New Indian Express  |date=13 November 2025}}</ref>\n\n''Sarvam Maya'' released worldwide on 25 December 2025 in theatres, coinciding with [[Christmas]].<ref>{{cite web|title=Nivin Pauly's fantasy movie 'Sarvam Maya' locks its release date|website=Onmanorama|url=https://www.onmanorama.com/entertainment/entertainment-news/2025/11/20/nivin-pauly-sarvam-maya-movie-release-date-locked.html}}</ref><ref>{{cite web|title=ക്രിസ്മസ് കളറാക്കാൻ നിവിൻ പോളി; അഖിൽ സത്യന്റെ 'സർവ്വം മായ' റിലീസ് തിയതി എത്തി|website=Asianet News|url=https://www.asianetnews.com/entertainment/nivin-pauly-movies-sarvam-maya-release-on-christmas-december-25th-2025-articleshow-v4l5ntl}}</ref> The film received critical acclaim. It has emerged as a commercial success and became [[List of Malayalam films of 2025#Box office collection|fourth highest-grossing Malayalam film of 2025]] and one of the [[List of highest-grossing Malayalam films|highest-grossing Malayalam films]] of all time.\n\n== Plot ==\nPrabhendu Namboothiri is an aspiring guitarist born into a traditional Brahmin priest family in [[Palakkad]] who is part of a musical troupe. Though he was born into a Brahmin family, he is now an atheist completely staying away from traditions, temple and rituals. With the troupe about to go on tour to [[Europe]], his visa application is rejected due to budget constraints, and he returns to his hometown of Palakkad. Unable to find stable work, he agrees to temporarily assist his cousin Roopesh, who works as a priest and begins to earn money. Despite his atheistic views, Prabhendu performs well due to his extensive training in the Vedas. After Roopesh meets with a freak accident, he requests Prabhendu to take over his existing commitments. One of these is an exorcism ritual for a teenage boy, Avinash, who claims to see a young woman constantly approaching him and suffers from a [[Anorexia (symptom)|loss of appetite]]. To Prabhendu's surprise, the ritual appears successful, and Avinash returns to normal. Now he earns large amounts of money too.\n\nSoon after, Prabhendu begins experiencing strange incidents, such as his WhatsApp profile picture changing unexpectedly and unfamiliar items being ordered from his [[Amazon (company)|Amazon]] account. One night, he encounters a mysterious young woman in his room who abruptly disappears. These encounters continue, and the woman eventually reveals that she is the spirit exorcised from Avinash. Visible only to Prabhendu, she has no memory of her identity or past. After assisting him in an audition for a [[Hindi cinema|Bollywood]] music director, the two develop a close emotional bond, and he nicknames her “Delulu.”\n\nDelulu supports Prabhendu in his musical pursuits and encourages him to reconnect with his estranged father following the death of his mother. Meanwhile, she attempts to recover her lost memories. After Prabhendu moves to [[Mumbai]], he grows closer to Saadhya, the manager who helped him secure his opportunity. As Delulu gradually develops romantic feelings for Prabhendu, he hesitates, stating that such a relationship is impossible and expressing his feelings for Saadhya instead.\n\nFollowing a near-fatal road accident, Delulu regains her memories. She recalls that her real name is Maya Mathew Manjooran and that she lived in [[Kuttikkanam]], [[Idukki district|Idukki]]. She had been in love with her senior and was traveling with her family to confess her feelings when she met with a vehicular accident and was declared brain-dead. It is revealed that Avinash had accompanied her younger brother to the hospital upon hearing of the accident.\n\nAfter fully recalling her past, Maya embraces Prabhendu, allowing him to experience her memories. As he comes to understand her life and emotions, he sheds a tear. With her story acknowledged and her existence understood, Maya disappears peacefully.\n\nFollowing this, Prabhendu confides in his uncle, Prahladan about Maya. He reflects on how Maya's parents were never able to see the man she loved and expresses a desire to offer them some form of emotional closure. Acting on this, Prabhendu later travels to Kuttikkanam and meets Maya's mother Annie, introducing himself as someone close to her. When she asks if he was the person Maya loved, Prabhendu pauses before saying yes to her, choosing to comfort her family.\n\nAs he leaves the house, he feels a gentle breeze, recalling Maya's earlier description of it as a sign of her presence. In the end, guided by her memories and influence, Prabhendu fulfills his dream of becoming a musician, with Saadhya in his life.\n\n== Cast ==\n{{Cast listing|\n* [[Nivin Pauly]] as Prabhendhu N. Namboothiri (Prabha/Indu)\n* [[Riya Shibu]] as Maya Mathew Manjooran (Delulu)\n* [[Preity Mukhundhan]] as Saadhya \n* [[Aju Varghese]] as Roopesh Namboothiri (Rupa), Prabhendhu's cousin\n* [[Janardhanan (actor)|Janardhanan]] as Prahladan Namboothiri, Prabhendhu's elder uncle (paternal)\n* [[Raghunath Paleri]] as Neelakandan Namboothiri, Prabhendhu's father\n* [[Madhu Wariar]] as Deepankuran N. Namboothiri (Deepu), Prabhendhu's elder brother\n* Arun Ajikumar as Sreerag, a drug peddler \n* [[Vineeth]] as Vinod Mathew Manjooran, Delulu's father\n* [[Methil Devika]] as Annie Mathew Manjooran, Delulu's mother\n* Dhruvan Sankar as Jacob (Chacko) Mathew Manjooran, Delulu's brother\n* [[Anand Ekarshi]] as Faisal\n* Jaya Kurup as Roopesh's mother\n* [[Althaf Salim]] as Delivery boy\n* Vijeesh as Sreekuttan, Roopesh's assistant\n* Saumya Bhagyan Pilla as Thulasi\n* [[Reshmi Boban]] as Deepthi, Avinash's mother\n* [[Srikant Murali]] as Krishnan Panicker\n* [[Vijilesh Karayad]] as Animon\n* [[Manikandan Pattambi]] as Saji Pattambi\n* [[Chembil Ashokan]] as [[Tabla]] Chacko \n* [[Niyas Backer]] as Client \n* Nandan Unni as the Passport Verification Assistant\n* RJ Twinkle Sheethal as Receptionist girl (Chockichosky)\n* Aniyappan as House Owner\n* Viji Viswanathan as Malu, Deepu's wife\n* Basil P Reji as Kuttoos / Avinash \n* [[Salim Hassan]] as Paulose\n* [[Alphonse Puthren]] as Dr. Rafael (cameo appearance)\n* [[Priya Prakash Varrier]] as Prabhendu's co-passenger through whom Delulu communicates (cameo appearance)\n}}\n\n== Production ==\n\n=== Development ===\nIn December 2023, [[Nivin Pauly]] announced he was collaborating with director Akhil Sathyan for the latter's sophomore directorial. Sathyan's debut film, ''[[Pachuvum Athbutha Vilakkum]]'' (2023), was initially set to feature Nivin as the lead actor before he was replaced with [[Fahadh Faasil]].<ref>{{Cite web |title=Nivin Pauly joins Akhil Sathyan's 'humour-driven fantasy' after Fahadh Faasil's Pachuvum Athbhutha Vilakkum {{!}} Exclusive |url=https://www.ottplay.com/news/nivin-pauly-joins-akhil-sathyans-upcoming-fantasy-comedy-after-fahadh-faasils-pachuvum-athbhutha-vilakkum-exclusive/ea25fe6d4f613 |access-date=25 December 2025 |website=[[OTT Play]]}}</ref> Sathyan confirmed the project the following May.<ref>{{Cite news |title=Akhil Sathyan's next to feature Nivin Pauly |url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/akhil-sathyans-next-to-feature-nivin-pauly/articleshow/110085346.cms |access-date=25 December 2025 |work=The Times of India |issn=0971-8257}}</ref> The official title, ''Sarvam Maya'', was announced in July 2025.<ref>{{cite web|title=Nivin Pauly and Akhil Sathyan's film titled 'Sarvam Maya'|website=South First|url=https://thesouthfirst.com/entertainment/malayalam/nivin-pauly-and-akhil-sathyans-film-titled-sarvam-maya/}}</ref> The theatrical release date poster was revealed on 20 November 2025.<ref>{{cite web|title='Sarvam Maya' release date: Nivin Pauly returns in horror-comedy mode; New poster promises 'Spiritual' fun|website=The Times of India|url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/sarvam-maya-release-date-nivin-pauly-returns-in-horror-comedy-mode-new-poster-promises-spiritual-fun/articleshow/125450475.cms}}</ref> [[Principal photography]] wrapped in November 2025.<ref>{{cite web |date=26 September 2025 |title='The Maya is locked...': Nivin Pauly drops major update on 'Sarvam Maya' |url=https://english.mathrubhumi.com/movies-music/news/nivin-pauly-drops-major-update-on-sarvam-maya-gosmev09 |access-date=13 February 2026 |website=Mathrubhumi}}</ref>\n\n==Music==\nThe music and background score is composed by [[Justin Prabhakaran]].\n{{track listing\n| headline      = Track listing\n| extra_column  = Singer(s)\n| title1        = Chiri Thottu\n| length1       = 4:32\n| lyrics1       = [[Manu Manjith]], Aron Mathew (English)\n| extra1        = [[Chinmayi Sripada]], Justin Prabhakar, Weldon\n| title2        = Vellarathaaram\n| length2       = 4:39\n| lyrics2       = Manu Manjith\n| extra2        = [[Vineeth Sreenivasan]]\n| title3        = Puthu Mazha\n| length3       = 4:22\n| lyrics3       = Manu Manjith\n| extra3        = [[Shakthisree Gopalan]]\n| title4        = Mayajaalame\n| length4       = 4:27\n| lyrics4       = Manu Manjith\n| extra4        = [[Sooraj Santhosh]]\n| title5        = Nearer My God To Thee - Delulu's Goodbye\n| length5       = 2:53\n| lyrics5       = Sarah Flower Adams\n| extra5        = Justin Prabhakaran, Sarah Flower Adams\n| title6        = Nokkada Nammude - Fight Remix\n| length6       = 1:38\n| lyrics6       = [[Kunchan Nambiar]]\n| extra6        = Kalamandalam Prasoon, Kalamandalam Kavya, Geethanandan\n}}\n\n== Release ==\n=== Theatrical ===\n''Sarvam Maya'' was released on 25 December 2025, coinciding with [[Christmas]] with a clean [[U certificate]] from [[Central Board of Film Certification|CBFC]].<ref>{{cite web |date=20 November 2025 |title=Nivin Pauly's fantasy movie 'Sarvam Maya' locks its release date |url=https://www.onmanorama.com/entertainment/entertainment-news/2025/11/20/nivin-pauly-sarvam-maya-movie-release-date-locked.html |website=Onmanorama}}</ref><ref>{{cite web |date=19 November 2025 |title=ക്രിസ്മസ് കളറാക്കാൻ നിവിൻ പോളി; അഖിൽ സത്യന്റെ 'സർവ്വം മായ' റിലീസ് തിയതി എത്തി |url=https://www.asianetnews.com/entertainment/nivin-pauly-movies-sarvam-maya-release-on-christmas-december-25th-2025-articleshow-v4l5ntl |website=Asianet News}}</ref>\n\n=== Home media ===\nThe post-theatrical digital streaming rights of ''Sarvam Maya'' were acquired by [[JioHotstar]]. The film began streaming on the platform from 30 January 2026.<ref>{{cite news |title=സർവ്വം മായ ഓടിടി അവകാശം സ്വന്തമാക്കി വമ്പൻ; അറിയാം എന്ന് മുതൽ സ്ട്രീം ചെയ്യുമെന്ന്|url=https://www.kairalinewsonline.com/entertainment/nivin-pauly-movie-sarvam-maya-ott-release-nj1 |work=Kairali News Online |access-date=31 December 2025}}</ref> The satellite rights of the film is acquired by [[Asianet (TV channel)|Asianet]] and premiered on 12 April 2026.<ref>{{cite news |title=Sarvam Maya to Prakambanam: Check out the Malayalam TV premieres this Vishu 2026|url=https://timesofindia.indiatimes.com/tv/news/malayalam/sarvam-maya-to-prakambanam-check-out-the-malayalam-tv-premieres-this-vishu-2026/articleshow/130206106.cms |work=The Times of India|access-date=8 May 2026}}</ref>\n\n==Reception==\n''Sarvam Maya'' received positive reviews from critics.\n\nSajin Shrijith of [[The Week (Indian magazine)|''The Week'']] gave 4/5 stars and wrote \"The film marks the triumphant return of Nivin Pauly to his beloved charming persona in a feel-good fantasy directed by Akhil Sathyan, who presents a heartwarming 'ghost-as-angel' story, perfect for the holiday season\"<ref>{{Cite web |title='Sarvam Maya' review: Nivin Pauly returns with loads of charm in this perfect holiday movie |url=https://www.theweek.in/review/movies/2025/12/25/sarvam-maya-review-nivin-pauly-returns-with-loads-of-charm-in-this-perfect-holiday-movie.html |access-date=25 December 2025 |website=The Week}}</ref> Gayathiri Krishna of ''[[OTTplay]]'' gave 3.5/5 stars and wrote \"Nivin Pauly and Aju Varghese are portrayed in Akhil Sathyan's film in a way that appeals to Malayalis. Additionally, Riya Shibu is a real find.\"<ref>{{Cite web |title=Sarvam Maya Review: Akhil Sathyan's film is more comedic than scary with a 'classic' Nivin Pauly |url=https://www.ottplay.com/review/sarvam-maya-review-akhil-sathyan-nivin-pauly-riya-shibu-aju-varghese-film/60e90abb85860 |access-date=25 December 2025 |website=ottplay.com}}</ref> Janani K of ''[[India Today]]'' gave 3/5 stars and wrote \"''Sarvam Maya'' is a wholesome film with a lot of heart. The pace of the film may not be everyone's cup of tea, but ''Sarvam Maya'' is a film that deserves to receive as much love as it gives.\"<ref>{{Cite web |last=K |first=Janani |date=25 December 2025 |title=Sarvam Maya review: Nivin Pauly's ghost story is irresistible, full of charm |url=https://www.indiatoday.in/movies/reviews/story/sarvam-maya-review-nivin-pauly-horror-comedy-faith-grief-healing-ghost-story-2841564-2025-12-25 |access-date=25 December 2025 |website=India Today }}</ref> Risha Ganguly of ''[[Times Now]]'' gave 3/5 stars and wrote \"For viewers looking for a festive release that offers light chills, gentle laughs and introspection, ''Sarvam Maya'' proves to be a decent choice.\"<ref>{{cite web |title=Sarvam Maya movie review: Nivin Pauly film is a gentle mix of faith, fear and fun |url=https://www.timesnownews.com/entertainment-news/reviews/sarvam-maya-movie-review-nivin-pauly-film-is-gentle-mix-of-faith-fear-fun-review-153342581 |website=Times Now |date=25 December 2025 |access-date=25 December 2025}}</ref>\n\n''[[Onmanorama]]'' termed it a modest fantasy that relies on character dynamics and situational humour rather than melodrama.<ref>{{cite web |title=Sarvam Maya movie review: Nivin Pauly, Akhil Sathyan deliver a warm fantasy |url=https://www.onmanorama.com/entertainment/entertainment-news/2025/12/25/sarvam-maya-movie-review-nivin-pauly-akhil-sathyan-malayalam-cinema.html |website=Onmanorama |date=25 December 2025 |access-date=25 December 2025}}</ref> ''[[Zoom (Indian TV channel)|Zoom TV]]'' wrote that the film offers a restrained blend of belief and anxiety, focusing more on atmosphere and performances than conventional scares.<ref>{{cite web |title=Sarvam Maya film review: Nivin Pauly's movie offers a soft blend of belief, anxiety and enjoyment |url=https://www.zoomtventertainment.com/reviews/sarvam-maya-film-review-nivin-paulys-movie-offers-a-soft-blend-of-belief-anxiety-and-enjoyment-release-date-trailer-songs-cast-review-153346106 |website=Zoom |date=25 December 2025 |access-date=25 December 2025}}</ref>\n\n== Accolades ==\n{| class=\"wikitable\"\n|+\n!Award\n!Ceremony date\n!Category\n!Recipients\n!Result\n!Ref.\n|-\n| rowspan=\"1\" |\tJFW Movie Awards\n| rowspan=\"1\" |10 February 2026\n|Man of the Year\n|[[Nivin Pauly]]\n|{{won}}\n| rowspan=\"1\" style=\"text-align: center;\" |<ref>{{cite web|url=https://jfwonline.com/article/jfw-movie-awards-2026-shines-bright-women-led-cinema-music-and-emotions-take-centre-stage/|title=JFW Movie Awards 2026 shines bright: Women-led cinema, music and emotions take centre stage|website=JFW Online|date=10 February 2026|access-date=21 July 2026}}</ref>\n|-\n| rowspan=\"2\" |\t[[Inca Awards|Indian National Cine Academy Awards]]\n| rowspan=\"2\" |15–16 April 2026\n|Best Actor - Malayalam\n|Nivin Pauly\n|{{won}}\n| rowspan=\"2\" style=\"text-align: center;\" |<ref>{{cite web|url=https://inca.in/winners|title=INCA Awards Official Winners|website=INCA Awards|access-date=2026-07-11|archive-url=https://web.archive.org/web/20260711065320/https://inca.in/winners|archive-date=2026-07-11|url-status=live}}</ref><ref>{{cite web|url=https://www.cinebuster.in/inca-announces-the-winners-of-their-first-edition-of-awards/|title=INCA announces the winners of their first edition of Awards!|website=CineBuster|date=9 April 2026|access-date=21 July 2026}}</ref>\n|-\n|Best Debut Actress\n|[[Riya Shibu]]\n|{{won}}\n|-\n| rowspan=\"2\" |\t[[Kerala Film Critics Association Awards]]\n| rowspan=\"2\" |29 April 2026\n|Best Popular Film\n|Sarvam Maya\n|{{won}}\n| rowspan=\"2\" style=\"text-align: center;\" |<ref>{{cite web|url=https://www.filmibeat.com/malayalam/news/2026/kerala-film-critics-awards-2025-full-winners-list-mohanlal-named-best-actor-echo-wins-best-film-514047.html|title=Kerala Film Critics Awards 2025 Full Winners List: Mohanlal Named Best Actor, Eko Wins Best Film|website=Filmibeat|date=29 April 2026|access-date=21 July 2026}}</ref>\n|-\n|Best Newcomer Talents – Actress\n|Riya Shibu\n|{{won}}\n|-\n| rowspan=\"11\" | [[14th South Indian International Movie Awards]]\n| rowspan=\"11\" | 13 September 2026\n| [[SIIMA Award for Best Film – Malayalam |Best Film – Malayalam]]\n| Sarvam Maya\n| {{won}}\n|\n|-\n| [[SIIMA Award for Best Director – Malayalam|Best Director – Malayalam]]\n| Akhil Sathyan\n| {{nom}}\n|-\n| Best Cinematographer – Malayalam\n| Sharan Velayudhan\n| {{nom}}\n|-\n| [[SIIMA for Best Actor – Malayalam|Best Actor – Malayalam]]\n| Nivin Pauly\n| {{won}}\n|-\n| [[SIIMA Award for Best Actress – Malayalam|Best Actress – Malayalam]]\n| rowspan=2| Riya Shibu\n| {{nom}}\n|-\n| [[SIIMA Critics Award for Best Actress – Malayalam|Critics Award for Best Actress – Malayalam]]\n| {{won}}\n|-\n| Best Comedian – Malayalam\n| Aju Varghese\n| {{won}}\n|-\n| Best Debut Producer – Malayalam\n| Firefly Films\n| {{nom}}\n|-\n| Best Music Director – Malayalam\n| Justin Prabhakaran\n| {{won}}\n|-\n| Best Male Playback Singer – Malayalam\n| Vineeth Sreenivasan\n| {{nom}}\n|-\n| Best Female Playback Singer – Malayalam\n| Shakthisree Gopalan\n| {{won}}\n|-\n|}\n\n== References ==\n{{reflist}}\n\n==External links==\n* {{IMDb title|tt32362695}}\n\n[[Category:2025 films]]\n[[Category:2025 Malayalam-language films]]\n[[Category:2025 Indian films]]\n[[Category:Indian comedy horror films]]\n[[Category:Films shot in Palakkad]]"
+  }
+ }
+}

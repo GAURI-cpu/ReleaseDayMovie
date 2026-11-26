@@ -1,0 +1,1273 @@
+{
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2024110100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2024111800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2024120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2024122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025030600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025032000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025040300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025040400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025042500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025050300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025050700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025100100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025101200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025101500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025101700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025102000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025102300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025103100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025110100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025110300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025110400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025110500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025110600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 0
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025110700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 178
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 444
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 392
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 538
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 442
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 380
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 382
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 337
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 284
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 336
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 403
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 420
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 445
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 364
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 484
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 493
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 480
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 645
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 541
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 536
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 593
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 539
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 504
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 479
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 550
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 535
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 618
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 589
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1388
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2226
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1537
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1601
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3044
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5060
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5559
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33049
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40069
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34724
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 35052
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34477
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 31578
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25914
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 27127
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32491
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37529
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43106
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 30942
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23537
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20411
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16971
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15342
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17438
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19092
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14512
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12959
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13880
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13775
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12412
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12893
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12119
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9610
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8059
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7466
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7221
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7455
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8136
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8331
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6969
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5855
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5439
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8520
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51044
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65286
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 63247
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 40818
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33859
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28864
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25021
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 24794
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28788
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 29042
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18166
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15343
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13332
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13122
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12830
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16315
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15855
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10657
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9889
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9381
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8792
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8860
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11490
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7463
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6242
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5587
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5032
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5373
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sarvam_Maya",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6616
+  }
+ ]
+}

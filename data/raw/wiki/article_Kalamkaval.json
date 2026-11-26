@@ -1,0 +1,197 @@
+{
+ "warnings": {
+  "main": {
+   "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+  },
+  "parse": {
+   "*": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+  }
+ },
+ "parse": {
+  "title": "Kalamkaval",
+  "pageid": 80044855,
+  "redirects": [],
+  "sections": [
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Plot",
+    "number": "1",
+    "index": "1",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 2641,
+    "anchor": "Plot",
+    "linkAnchor": "Plot"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Cast",
+    "number": "2",
+    "index": "2",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 6146,
+    "anchor": "Cast",
+    "linkAnchor": "Cast"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Production",
+    "number": "3",
+    "index": "3",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 7575,
+    "anchor": "Production",
+    "linkAnchor": "Production"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Development",
+    "number": "3.1",
+    "index": "4",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 7593,
+    "anchor": "Development",
+    "linkAnchor": "Development"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Filming and casting",
+    "number": "3.2",
+    "index": "5",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 11329,
+    "anchor": "Filming_and_casting",
+    "linkAnchor": "Filming_and_casting"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Music",
+    "number": "4",
+    "index": "6",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 14569,
+    "anchor": "Music",
+    "linkAnchor": "Music"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Track listing",
+    "number": "4.1",
+    "index": "7",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 15527,
+    "anchor": "Track_listing",
+    "linkAnchor": "Track_listing"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Marketing",
+    "number": "5",
+    "index": "8",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 15706,
+    "anchor": "Marketing",
+    "linkAnchor": "Marketing"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Release",
+    "number": "6",
+    "index": "9",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 17881,
+    "anchor": "Release",
+    "linkAnchor": "Release"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Theatrical",
+    "number": "6.1",
+    "index": "10",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 17896,
+    "anchor": "Theatrical",
+    "linkAnchor": "Theatrical"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Box office",
+    "number": "6.2",
+    "index": "11",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 19574,
+    "anchor": "Box_office",
+    "linkAnchor": "Box_office"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Home media",
+    "number": "6.3",
+    "index": "12",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 20188,
+    "anchor": "Home_media",
+    "linkAnchor": "Home_media"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Reception",
+    "number": "7",
+    "index": "13",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 20712,
+    "anchor": "Reception",
+    "linkAnchor": "Reception"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Critical reception",
+    "number": "7.1",
+    "index": "14",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 20727,
+    "anchor": "Critical_reception",
+    "linkAnchor": "Critical_reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "References",
+    "number": "8",
+    "index": "15",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 26175,
+    "anchor": "References",
+    "linkAnchor": "References"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "External links",
+    "number": "9",
+    "index": "16",
+    "fromtitle": "Kalamkaval",
+    "byteoffset": 26203,
+    "anchor": "External_links",
+    "linkAnchor": "External_links"
+   }
+  ],
+  "showtoc": "",
+  "wikitext": {
+   "*": "{{Short description|2025 film by Jithin K. Jose}}\n{{Use dmy dates|date=December 2025}}\n{{Infobox film\n| name           = Kalamkaval\n| image          = Kalamkaval.jpg\n| caption        = Theatrical release poster\n| director       = Jithin K. Jose\n| producer       = <!--Producer name not credited in the film-->\n| writer         = Jithin K. Jose<br />Jishnu Sreekumar\n| starring       = [[Mammootty]]<br />[[Vinayakan]]<!--Cast order per poster billing-->\n| music          = [[Mujeeb Majeed]]\n| cinematography = Faisal Ali\n| editing        = Praveen Prabhakar\n| studio         = Mammootty Kampany\n| distributor    = Wayfarer Films\n| released       = {{Film date|2025|12|05|df=y}}\n| runtime        = 144 minutes<ref>{{cite web |title=Kalamkaval |url=https://cbfcindia.gov.in/cbfcAdmin/search-result.php?recid=Q0EwOTA2MTAyMDI1MDAwMzY= |website=Central Board of Film Certification |access-date=3 December 2025}}</ref>\n| country        = India\n| language       = Malayalam \n| budget         = <!--Must be attributed to a reliable published source with an established reputation for fact-checking. No blogs, no IMDb.-->\n| gross          = <!--Must be attributed to a reliable published source with an established reputation for fact-checking. Additionally, the source should not use another unreliable source (such as Sacnilk.com) as their own source. See WP:ICTFSOURCES table for identifying reliable sources. Please do not add predictions or figures not mentioned in the source. The figures published by the makers of the film are PRIMARY sources and hence aren't reliable per Wikipedia policies.-->{{Estimation}} {{INR|83}} crore<ref name=\"bo\">{{Cite web |title= മഹാവിജയവുമായി വീണ്ടുമൊരു മമ്മൂട്ടി ചിത്രം; 83 കോടി ആഗോള ഗ്രോസ് പിന്നിട്ട് കളങ്കാവൽ|url=https://www.mathrubhumi.com/movies-music/news/mammootty-kalamkaval-83-crore-global-gross-glicy0vc}}</ref>\n}}\n\n'''''Kalamkaaval: The Venom Beneath''''' (or simply ''Kalamkaaval'') is a 2025 Indian [[Malayalam]]-language <!--Do not add unsourced genre.-->[[psychological thriller film|psychological crime thriller film]] directed by debutant Jithin K. Jose, who also co-wrote the screenplay with Jishnu Sreekumar. The film is produced by Mammootty Kampany and stars   [[Mammootty]]  and [[Vinayakan]] along with [[Rajisha Vijayan]], [[Gayatri Arun]], [[Shruti Ramachandran]] and Gibin Gopinath,  in supporting roles. The film's soundtrack album was composed by [[Mujeeb Majeed]]. \n\n''Kalamkaval'' was released in theatres on 5 December 2025. The film became a blockbuster and emerged as the [[List of Malayalam films of 2025#Box office collection|fifth highest-grossing Malayalam film of 2025]].\n\n==Plot==\nThe story focuses on a serial killer named Stanley Das, who mainly targets unmarried women. The film opens in 2005 [[Nagercoil]]. We are introduced to a middle aged man (later revealed as Stanley Das), who is a father of 2 kids. He takes his mistress to a hotel and kills her when she brings up the topic of marrying her after divorcing his current wife.\n\nMovie shifts to 2012 [[Thiruvananthapuram|Trivandrum]], where Sub-Inspector Jayakrishnan investigates what initially appears to be a routine case of local unrest following the elopement of a young woman. As the inquiry deepens, Jayakrishnan begins noticing inconsistencies that suggest the incident is only a surface-level distraction. His team uncovers a long-running pattern of missing women across rural areas—divorced, widowed, or unmarried—each last seen with the same unidentified man. Further analysis reveals a disturbing alternation pattern: whenever a murder occurs in Kerala, the next takes place in rural [[Nagercoil]]. In between the investigations, we see scenes of the same middle aged man befriending the \"missing\" women on public buses, using them for sex, and killing them off in various ways, mainly by giving them [[cyanide]] laced pills under the pretext of preventing a possible pregnancy.\n\nThe investigation reveals that each victim's phone is used to lure the next, forming a continuous chain. To strengthen the probe near the inter-state region, the team brings in a [[Tamil Nadu Police|Tamil police officer]] (who is fluent in Malayalam) posted at the closest jurisdiction near the Trivandrum–Tamil Nadu border—Stanley Das, who in fact is the actual killer. Stanley starts working with Jayakrishnan.\n\nDespite trying multiple tactics to trap the killer, the team repeatedly fails, since Stanley knows Jayakrishnan's next step. Suspicion briefly falls on a fellow constable, Mani, when a victim's phone is discovered hidden in his bedroom, leading the team to believe they may finally have the culprit. Jayakrishnan tracks down Divya, one of Stanley's victims who managed to stay alive because she did not consume the cyanide laced pills. She looks at Mani's photo and says he is not her lover, much to Jayakrishnan's disappointment. Meanwhile, Stanley finds out about this, kills Mani and threatens Divya not to cooperate with the police.\n\nJayakrishnan then interrogates a bus conductor working in the route Divya used to take. The driver recalls seeing a man repeatedly traveling with Divya, and explains his facial features to a police sketch artist. Stanley hears about this and rushes to the spot afraid that the bus driver will expose him, but the sketch is of someone different.\n\nStanley attempts to kill his next victim, Shiny, by taking her to a lodge at [[Kottayam]]. Suspecting scrutiny from the cashier, he steps out under the pretext of smoking and unexpectedly encounters Jayakrishnan at the main counter. Jayakrishnan hands him a paper supposedly containing the suspect's sketch and Stanley is shocked to see his face in the sketch. We see a flashback of Divya and the bus driver actually recalling Stanley's face correctly, but Jayakrishnan hides that from Stanley. Knowing he is exposed, Stanley tries to kill Jayakrishnan, ending with Jayakrishnan overpowering Stanley and smashes his head on the floor and placing his presumably dead body into the trunk of his car. The film closes with the car driving away, only for the trunk to begin opening from the inside, indicating that Stanley is alive.\n\n==Cast==\n{{Cast listing|\n* [[Mammootty]] as [[Sub-inspector|SI]] Stanley Das {{Small|([[Crime Branch]], [[Tamil Nadu Police]])}}, (Based on [[Mohan Kumar (serial killer)|Mohan Kumar]]. The main antagonist and the central character)\n* [[Vinayakan]] as [[Sub-inspector|SI]] \"[[Owl|Nath]]\" Jayakrishnan {{Small|([[Special branch#India|Special Branch]], [[Kerala Police]])}}\n* [[Rajisha Vijayan]] as Divya\n* [[Gayatri Arun]] as Shiny\n* [[Dhanya Ananya]] as Abhijitha\n* [[Shruti Ramachandran]] as Deepa\n* Gibin Gopinath as Anand, Jayakrishnan's assistant \n* Seema Sindhu Krishnan as Nisha, wife of Stanley Das\n* [[Azees Nedumangad]] as [[Sub-inspector|SI]] Babu Vijayan\n* [[Kunchan (actor)|Kunchan]] as Retd. Forensic Surgeon Joseph\n* [[Biju Pappan]] as [[Superintendent of Police|SP]] Thomas Abraham [[Indian Police Service|IPS]]\n* [[Malavika Menon]] as Babitha\n* [[Malavika Nair]] as Nandhini\n* Megha Thomas as Sindu\n* [[Vaishnavi Saikumar]] as Anagha\n* [[Ilavarasu]] as Nandhakumar\n* [[Kollam Thulasi]] as James, Anagha's father-in-law\n* Sudhi Kozhikode as Anagha's brother-in-law\n* Ranjini George as Leela  \n* Aravind SK as Vimal\n* Bibin Perumbillikunnel\n* Harisankar S. G.\n* R. J. Sooraj as mobile shop owner\n* Sindhu Varma as Sunitha\n* Seema Sindhu Krishnan as Nisha\n* Devadevan Vijayaraghavan as Bobby\n* Abee Suhana as Vimala\n* N. P. Nisa as Vidhya\n* Mullayarasi as Pooja\n* Amritha as Deepika\n* Catherine Mariya as Mridula\n}}\n\n== Production ==\n\n=== Development ===\nReports for Mammootty's upcoming film came on 25 May 2024 soon after the release of his film ''[[Turbo (2024 film)|Turbo]]''. It will be directed by Jithin K. Jose in his directorial debut, who previously worked as a writer in the film [[Kurup (film)|''Kurup'']]''.'' Other details on crew that included were cinematographer [[Jomon T. John]] and music director [[Sushin Shyam]].<ref>{{Cite web |date=9 May 2024 |title=Mammootty's Next Movie With Kurup Director To Begin On May 25 |url=https://www.timesnownews.com/entertainment-news/malayalam/mammoottys-next-movie-with-kurup-director-to-begin-on-may-25-article-109979799 |access-date=5 December 2025 |website=timesnownews.com }}</ref> In September 2024, [[Vinayakan]] was reported to play a prominent role in the film that brings together Mammootty and the former after a while, and was last acted together in ''[[Daivathinte Swantham Cleetus]]'' (2013). Their past works were in ''[[Big B (film)|Big B]]'' (2007) and [[Best Actor (film)|''Best Actor'']] (2010). As per reports, Vinayakan's role was originally meant for [[Prithviraj Sukumaran]]. [[Roby Varghese Raj]]'s inclusion was also reported in 2024.<ref>{{Cite web |title=Mammootty to play villain against Vinayakan |url=https://www.onmanorama.com/entertainment/entertainment-news/2024/09/21/mammootty-to-play-villain-against-vinayakan.html |access-date=5 December 2025 |website=onmanorama.com }}</ref> Filming commenced on 25 September 2025, under the working title ''Production No. VII'' that marks the seventh production venture of Mammootty Kampany. The screenplay is co-written by Jishnu Sreekumar and Jithin K. Jose himself. The yet to be titled film's technical team after changes included cinematographer Faisal Ali and editor Praveen Prabhakar. [[Wayfarer Films]] will distribute the film in [[Kerala]].<ref>{{Cite web |title=Mammootty and Vinayakan team up; new film announcement sparks excitement |url=https://www.onmanorama.com/entertainment/entertainment-news/2024/09/26/mammootty-vinayakan-team-up-jithin-k-jose-malayalam-movie.html |access-date=5 December 2025 |website=onmanorama.com }}</ref>\n\nThe official title ''Kalamkaval'' was announced by makers on 15 February 2025, that has a tagline \"the venom beneath.\"<ref>{{cite web |title='കളങ്കാവൽ' മമ്മൂട്ടി കമ്പനിയുടെ ഏഴാമത്തെ ചിത്രത്തിന്റ് ഫസ്റ്റ് ലുക്ക് എത്തി|date=15 February 2025 |url=https://www.kairalinewsonline.com/kalamkaval-mammootty-new-movie-first-look-poster-nj1 |website=kairalinewsonline.com |access-date=24 May 2025}}</ref><ref>{{cite web |title=Kalamkaval: Mammootty to unleash himself in another 'never-seen-before' avatar soon |date=16 February 2025 |url=https://indianexpress.com/article/entertainment/malayalam/kalamkaval-mammootty-to-unleash-himself-in-another-never-seen-before-avatar-soon-9839019/ |website=The Indian Express |access-date=24 May 2025}}</ref> The film would also have music composer [[Mujeeb Majeed]] while the action sequences are choreographed by stunt director Action Santhosh.<ref>{{cite web |title=First look of Kalamkaval out, promises a 'NEVER SEEN BEFORE ... |date=15 February 2025 |url=https://english.mathrubhumi.com/movies-music/news/kalamkaval-mammootty-vinayakan-movie-first-look-edeaf630 |website=mathrubhumi.com |access-date=24 May 2025}}</ref> Last year in an interview with [[John Brittas]], Mammootty said that the film would be another attempt at experimenting with roles he had not done before.<ref>{{cite web |title=What kind of character is Mammootty playing in 'Kalamkaval'? |website=[[The Week (Indian magazine)|The Week]] |url=https://www.theweek.in/news/entertainment/2025/02/16/what-kind-of-character-is-mammootty-playing-in-kalamkaval.html|access-date=24 May 2025}}</ref>\n\n=== Filming and casting ===\nFilming started with a muhurth puja ceremony on 25 September 2024 in [[Nagercoil]].<ref>{{Cite news |date=25 September 2024 |title=Mammootty and Vinayakan starrer goes on floors in Nagercoil |url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/mammootty-and-vinayakan-starrer-goes-on-floors-in-nagercoil/articleshow/113676120.cms |access-date=5 December 2025 |work=The Times of India |issn=0971-8257}}</ref> Mammoooty joined the set on 2 October 2024.<ref>{{Cite web |date=2 October 2024 |title=Mammootty joins the sets of his new film with Vinayakan |url=https://www.cinemaexpress.com/malayalam/news/2024/Oct/02/mammootty-joins-the-sets-of-his-new-film-with-vinayakan |access-date=5 December 2025 |website=Cinema Express }}</ref>  The film completed its shoot on 9 November 2024.<ref>{{Cite news |date=9 November 2024 |title=Shoot of Mammootty and Vinayakan's film wrapped up |url=https://www.thehindu.com/entertainment/movies/shoot-of-mammootty-and-vinayakans-film-wrapped-up/article68848986.ece |access-date=5 December 2025 |work=The Hindu  |issn=0971-751X}}</ref> It was extensively across locations in Tamil Nadu.<ref>{{Cite web |title='Kalamkaval' release pushed; Mammootty–Vinayakan film awaits new date |url=https://www.onmanorama.com/entertainment/entertainment-news/2025/11/22/kalamkaval-release-date-pushed-mammootty-vinayakan.html |access-date=5 December 2025 |website=onmanorama.com }}</ref>\n\n[[Rajisha Vijayan]], who did her last role in ''[[Madhura Manohara Moham]]'' is one of the leading lady in her first association with [[Mammootty]], making her comeback after 2 years. [[Gayatri Arun]] is another female lead in her second collaboration with Mammootty after ''[[One (2021 film)|One]]'', where he played the role of the [[Chief Minister of Kerala]].<ref>{{cite web |title=21 heroines in Mammootty's upcoming film; 'Kurup' writer's directorial debut |url=https://keralakaumudi.com/en/news/mobile/news.php?id=1516950 |website=keralakaumudi.com |access-date=24 May 2025}}</ref> Gibin Gopinath, [[Shruti Ramachandran]], [[Azees Nedumangad]], [[Kunchan]], [[Biju Pappan]], [[Malavika Menon]] formed rest of the cast.<ref>{{Cite web |title=Kalamkaval OTT Release Date: Mammootty–Vinayakan Starrer To Stream On SonyLIV | url=https://www.news18.com/movies/south-cinema/kalamkaval-ott-release-date-mammootty-vinayakan-starrer-to-stream-on-sonyliv-aa-9825644.html  |access-date=2026-04-28 |work=News18}}</ref>\n\nDirector Jithin K Jose revealed that actor Prithviraj Sukumaran was initially considered for the role that Vinayakan has played. When Jithin narrated the script to Prithviraj, he suggested that in either of the roles, Mammootty could fit in. However, due to Prithviraj's busy schedule with [[L2: Empuraan|''L2'' : ''Empuraan'']] and other films during that time, Jithin looked for other options. It was then later Mammootty who recommended to give the role to Vinayakan.<ref>{{Cite web|url=https://english.mathrubhumi.com/movies-music/news/prithviraj-suggested-mammootty-for-kalamkaval-movie-reveals-director-jithin-k-jose-c0qp20xm|title=Prithviraj suggested Mammootty for 'Kalamkaval', says director Jithin K Jose|date=13 November 2025|website=@mathrubhumi}}</ref>\n\n==Music==\nMujeeb Majeed composed the music for the film.<ref>{{cite web |title=Kalamkaval: First Look Poster Of Mammootty's Film Out Now |url=https://www.ndtv.com/entertainment/kalamkaval-check-out-first-look-poster-of-mammootty-s-film-7723531 |website=ndtv.com |access-date=24 May 2025}}</ref> Mammootty's grandson, Adyan Sayeed, sung the song \"Redback\" for the film in his second playback after ''[[Rorschach (film)|Rorschach]]''.<ref name=\":0\">{{Cite web |date=3 December 2025 |title='Kalamkaval' surprise reveal: Mammootty's grandson Adyan sings for the film {{!}} VIDEO |url=https://english.mathrubhumi.com/movies-music/news/kalamkaval-mammootty-vinayakan-release-grandson-sing-qcwex3hp |access-date=9 December 2025 |website=@mathrubhumi }}</ref>\n\n{{Infobox album\n| name         = Kalamkaval\n| type         = soundtrack\n| artist       = Mujeeb Majeed\n| released     = November 2025\n| genre        = [[Feature film soundtrack]]\n| length       = 1:52\n}}\n\n===Track listing===\n{{Track listing\n|total_length = 1:52\n|extra_column = Singer(s)\n|title1 = Nilaa Kaayum\n|extra1 = Sindhu Delson\n|lyrics1 = Vinayak Sasikumar\n|length1 = 1:52\n}}\n\n==Marketing==\nThe first look of the film was released on 16 February 2025.<ref>{{cite web |title=വിനായകന് വില്ലൻ മമ്മൂക്കയോ?; ഞെട്ടിക്കാന്‍ 'കളങ്കാവൽ'|date=15 February 2025 |url=https://www.manoramanews.com/entertainment/first-look/2025/02/15/mammootty-and-vinayakan-movie-named-as-kalamkaval-look-viral.html|website=manoramanews.com|access-date=24 May 2025}}</ref><ref>{{cite web |title='Kalamkaval' first look out: Mammootty and Vinayakan set for an intense face-off |url=https://www.onmanorama.com/entertainment/entertainment-news/2025/02/16/mammootty-new-movie-kalamkaval-vinayakan-jithin-k-jose.html|website=onmanorama.com|access-date=24 May 2025}}</ref> The second look was released on 20 April 2025.<ref>{{cite web |title=Mammootty teases grey role in 'Kalamkaval' second look reveal |date=20 April 2025 |url=https://english.mathrubhumi.com/movies-music/news/mammootty-kalamkaval-second-look-poster-c14c537a |website=mathrubhumi.com |access-date=24 May 2025}}</ref><ref>{{cite web |title=Second look poster of Mammootty-Vinayakan starrer Kalamkaval unveiled  |website=[[Cinema Express]] |date=20 April 2025 |url=https://www.cinemaexpress.com/malayalam/news/2025/Apr/20/second-look-poster-of-mammootty-vinayakan-starrer-kalamkaval-unveiled|access-date=24 May 2025}}</ref> The official teaser was released on 28 August 2025.<ref>{{Cite news |date=28 August 2025 |title='Kalamkaval' teaser: Mammootty and Vinayakan lock horns; intense thriller promises fiery showdown. |url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kalamkaval-teaser-mammootty-and-vinayakan-lock-horns-intense-thriller-promises-fiery-showdown-/articleshow/123556519.cms |access-date=28 August 2025 |work=The Times of India |issn=0971-8257}}</ref> A pre-release teaser was released on 1 December 2025.<ref>{{Cite news |date=1 December 2025 |title=Kalamkaval teaser: Mammootty hints at his darkest role yet, says 'Killing a human gives greatest pleasure'|url=https://indianexpress.com/article/entertainment/malayalam/kalamkaval-movie-new-teaser-mammootty-and-vinayakan-may-be-2-sides-of-same-coin-watch-10396537/ |access-date=1 December 2025 |work=The Indian Express}}</ref>\n\n== Release ==\n\n=== Theatrical ===\nThe film received a UA 16+ \ncertification from [[Central Board of Film Certification|CBFC]].<ref>{{cite web |title=Kalamkaval clears censor: Mammootty and Vinayakan's thriller nears release |url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kalamkaval-clears-censor-mammootty-and-vinayakans-thriller-nears-release/articleshow/124750873.cms |work=[[The Times of India]] |access-date=28 October 2025 |date=23 October 2025}}</ref> The film was likely to release in theatres on 9 October 2025,<ref>{{Cite news |date=6 August 2025 |title='Kalamkaval' release: Mammootty's film to hit the big screens on October – Reports |url=https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/kalamkaval-release-mammoottys-film-to-hit-the-big-screens-on-october-reports/articleshow/123139134.cms |access-date=9 December 2025 |work=The Times of India |issn=0971-8257}}</ref> and then scheduled for a different date and was originally going to be on 27 November 2025.<ref>{{cite web |title=Kalamkaval Second Look Tomorrow |url=https://www.asianetnews.com/entertainment-news/kalamkaval-malayalam-movie-second-look-poster-release-date-announced-mammootty-jithin-k-jose-suz1e9 |website=asianetnews.com |access-date=24 May 2025}}</ref> However, it was then postponed to 5 December 2025.<ref>{{cite web |title=Kalamkaval: Is Mammootty and Vinayakan's crime thriller being postponed from November release?|url=https://www.pinkvilla.com/entertainment/south/kalamkaval-is-mammootty-and-vinayakans-crime-thriller-being-postponed-from-november-release-1398592 |website=pinkvilla.com |date=20 November 2025 |access-date=20 November 2025}}</ref>\n\n=== Box office ===\nThe film grossed over [[Dollar sign|$]]3&nbsp;million (₹26.87 crores in 2025) from GCC countries. [[Australian dollar|A$]]150 thousand (₹88.77 lakhs in 2025) from Australia. The film sold over 1 million tickets on BookMyShow. The film grossed ₹75 crores in its 3rd week.<ref>{{Cite web |title=Mammootty's international dominance: Kalamkaval becomes actor's No. 1 overseas hit post-COVID |url=https://english.mathrubhumi.com/movies-music/news/kalamkaval-mammootty-overseas-box-office-record-q1t79647 |access-date=21 December 2025 |website=english.mathrubhumi.com |date=20 December 2025 }}</ref>\n\n===Home media===\nThe post theatrical digital rights of the film is acquired by [[SonyLIV]]. The film began streaming on the platform from 16 January 2026.<ref>{{cite web |title=Kalamkaval OTT Release: Where To Watch Mammootty's Crime Thriller After Its Theatrical Run|url=https://www.timesnownews.com/entertainment-news/web-series/kalamkaval-ott-release-where-to-watch-mammoottys-crime-thriller-after-its-theatrical-run-article-153254681 |website=timesnownews.com |date=6 December 2025 |access-date=6 December 2025}}</ref>\n\n==Reception==\n\n===Critical reception===\n''Kalamkaval'' received positive reviews from critics.\n\nS. R. Praveen of ''[[The Hindu]]'' wrote, \"Apart from fine performances from Mammootty and Vinayakan, mind games and character dynamics propel Jithin K Jose’s slow-burn thriller\".<ref>{{cite web |last1=Praveen |first1=S. R. |title=Kalamkaval movie review: Mammotty-Vinayakan slow burn thriller |url=https://www.thehindu.com/entertainment/movies/kalamkaval-movie-review-mammotty-vinayakan-slow-burn-thriller-jithin-k-jose-cyanide-mohan/article70361688.ece |website=The Hindu |date=5 December 2025 |access-date=7 December 2025}}</ref> Janani K. of ''[[India Today]]'' rated 3/5 and wrote, \"''Kalamkaval'' offers enough twists, strong performances, and atmospheric filmmaking to warrant a watch, even if the runtime tests patience occasionally.\"<ref>{{cite web |title=Mammootty Kalamkaval review: Mammootty transforms into monster, Vinayakan anchors thriller |url=https://www.indiatoday.in/movies/reviews/story/mammootty-kalamkaval-review-psychological-thriller-malayalam-crime-drama-2831364-2025-12-05 |website=India Today |date=5 December 2025 |access-date=7 December 2025}}</ref> Anjana George of ''[[The Times of India]]'' rated 3/5 and wrote, \"''Kalamkaval'' is a film elevated by its lead actors and its atmospheric world, even if the storytelling occasionally falters. It remains a watch for Mammootty's enigmatic presence and the unsettling psychological duel at its core.<ref>{{cite web |title=Kalamkaval Movie Review: A slow-burn investigative thriller with compelling performances |url=https://timesofindia.indiatimes.com/entertainment/malayalam/movie-reviews/kalamkaval/movie-review/125790923.cms |website=The Times of India |access-date=7 December 2025}}</ref> Anandu Suresh of ''[[The Indian Express]]'' rated 2./5 and wrote, \"Mammootty once again shows he's the biggest threat to stardom; but the crime thriller fails him\".<ref>{{cite web |title=Kalamkaval review: Mammootty once again shows he's the biggest threat to stardom; but the crime thriller fails him|url=https://indianexpress.com/article/entertainment/movie-review/kalamkaval-review-mammootty-film-is-yet-another-run-of-the-mill-serial-killer-thriller-10403213/lite/ |website=The Indian Express |date=5 December 2025 |access-date=7 December 2025}}</ref>\n\nLatha Srinivasan of ''[[NDTV]]'' rated 3.5/5 and wrote, \"Technically, the film is sound with masterly editing, invigorating background and songs, and cinematography. There are numerous artistes who come in various roles but these are not fully explored. All in all, it is Mammootty's highly 'devilish' act against Vinayakan's underplayed cop role that makes this a compelling watch.<ref>{{cite web |title=Kalamkaval Review: Mammootty and Vinayakan's performances make this thriller a compelling watch |url=https://www.ndtv.com/entertainment/kalamkaval-review-mammootty-and-vinayakans-performances-make-this-thriller-a-compelling-watch-3-5-stars-9757456 |publisher=NDTV |access-date=7 December 2025}}</ref> Princy Alexander of ''[[Onmanorama]]'' wrote, \" ''Kalamkaval'' may not reconstruct the full complexity of a true-crime tale. But as a cinematic experience, it delivers a dark, measured, and unnerving output.\"<ref>{{cite web |title=Kalamkaval review: Mammootty's slow-burner brilliance again|url=https://www.onmanorama.com/entertainment/movie-reviews/2025/12/05/mammootty-kalamkaval-review-thriller-tropes-movie-review.html |website=Onmanorama |access-date=7 December 2025}}</ref>  Sajin Shrijith of ''[[The Week (Indian magazine)|The Week]]'' rated 4.5/5 and wrote, \"An unforgettable Mammootty and a sturdy Vinayakan in a haunting, surprise-laden thriller\".<ref>{{cite web |title=Kalamkaval review: An unforgettable Mammootty and a sturdy Vinayakan in a haunting surprise-laden thriller |url=https://www.theweek.in/review/movies/2025/12/05/kalamkaval-review-an-unforgettable-mammootty-and-a-sturdy-vinayakan-in-a-haunting-surprise-laden-thriller.html |website=The Week |access-date=7 December 2025}}</ref>\n\nGautham S. of ''[[Pinkvilla]]'' rated 3.5/5 and highlighted Mammootty's portrayal but found the narrative predictable.<ref>{{cite web |title=Kalamkaval review: Mammootty dominates as a chilling villain in a rather predictable crime thriller |url=https://www.pinkvilla.com/entertainment/south/kalamkaval-review-mammootty-dominates-as-a-chilling-villain-in-a-rather-predictable-crime-thriller-1398940 |website=Pinkvilla |date=5 December 2025 |access-date=7 December 2025}}</ref> Rohit Panikker of ''[[Filmfare]]'' rated 3.5/5 and described it as a slow-burning crime mystery with emphasis on mood and silence.<ref>{{cite web |title=Kalamkaval review: Mammootty steps into the shadows in a slow-burning crime mystery |url=https://www.filmfare.com/reviews/south-movies/kalamkaval-review-mammootty-steps-into-the-shadows-in-a-slow-burning-crime-mystery-79832.html |website=Filmfare |access-date=7 December 2025}}</ref> Vishal Menon of ''[[The Hollywood Reporter India]]'' stated that Mammootty appeared \"like never before\" in a genre-driven thriller, praising the film's atmosphere and its screenwriting.<ref>{{cite web |title=Kalamkaval Movie Review: Mammootty like never before in this genre-defining thriller |url=https://www.hollywoodreporterindia.com/reviews/theatrical/kalamkaval-movie-review-mammootty-like-never-before-in-this-genre-defining-thriller |website=Hollywood Reporter India |access-date=7 December 2025}}</ref>\n\n==References==\n{{Reflist}}\n\n==External links==\n* {{IMDb title|33500164}}\n\n[[Category:2025 Malayalam-language films]]\n[[Category:2025 Indian films]]\n[[Category:Indian crime thriller films]]\n[[Category:Films shot in India]]\n[[Category:Films set in Kanyakumari]]\n[[Category:Films shot in Kanyakumari]]\n[[Category:Films set in Tirunelveli]]\n[[Category:Films shot in Tirunelveli]]\n[[Category:Films set in Thiruvananthapuram]]\n[[Category:Films shot in Thiruvananthapuram]]\n[[Category:Films set in the 2000s]]\n[[Category:Films set in the 2010s]]\n[[Category:Fiction about the Kerala Police]]\n[[Category:Indian serial killer films]]\n[[Category:Films scored by Mujeeb Majeed]]"
+  }
+ }
+}

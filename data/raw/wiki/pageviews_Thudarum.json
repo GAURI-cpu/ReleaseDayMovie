@@ -1,0 +1,4126 @@
+{
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024112200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 128
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024112900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 92
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 108
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 55
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 60
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 44
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 45
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 52
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 62
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 74
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 56
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 69
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 93
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 66
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 84
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 101
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 126
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 116
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2024123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 95
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 236
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 417
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 828
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 664
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 482
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 401
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 546
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 499
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 502
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 436
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 426
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 462
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 481
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 474
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 505
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 539
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 582
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 723
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1000
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 912
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 608
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 690
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 537
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 402
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 438
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 432
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 428
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 831
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 529
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 271
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 273
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 226
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 218
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 327
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 323
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 326
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 600
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 712
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 760
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 586
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 553
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 366
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 288
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 259
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 494
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 548
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 599
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 740
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1747
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1711
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1080
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1155
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1748
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1333
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 675
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 585
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 491
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 588
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 375
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 324
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 334
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 457
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 552
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025030900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 432
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 306
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 304
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 339
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 624
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 452
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 381
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 409
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 299
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 321
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025031900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 462
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 590
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1238
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1104
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 999
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1378
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1089
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6239
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3329
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2542
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025032900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2129
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025033000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1893
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025033100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1543
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1635
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1401
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1250
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 923
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 932
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1132
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2009
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025040900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1643
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1950
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1824
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2025
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1842
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1667
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1694
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1795
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1950
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1884
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025041900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1789
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2203
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2359
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3679
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4996
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7380
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67987
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 99122
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 96733
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 84656
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025042900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67704
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025043000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 68895
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 58957
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 49585
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 53940
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54840
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50258
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47188
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 35681
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 31748
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025050900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32038
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43226
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47313
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37046
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33298
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34309
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28188
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25947
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25074
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 27575
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025051900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26135
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21859
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20471
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16741
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16032
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17307
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16404
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16562
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16196
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13793
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025052900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17146
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025053000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 83711
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025053100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 98764
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 86682
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51019
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 36143
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 31272
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 27346
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25993
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33100
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32054
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19956
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16447
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14938
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12671
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12913
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17636
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10981
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9735
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9028
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9196
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9434
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11461
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7931
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6789
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6691
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6397
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6473
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8625
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9351
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5534
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5031
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4735
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4614
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5272
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6306
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6978
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4766
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4803
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4561
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4179
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4425
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5682
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5735
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3986
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3575
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3542
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3986
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3698
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5164
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7580
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4607
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4221
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4190
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3939
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4446
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5223
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3815
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3481
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3347
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3231
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3296
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3732
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4231
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2972
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2781
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2652
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2453
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2774
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3526
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3809
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2827
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2450
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2511
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3517
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3949
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5539
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3967
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2691
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2457
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2298
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2490
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3003
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3153
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2361
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2363
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2526
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3072
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3213
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3685
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4181
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3498
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4042
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5629
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5372
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9965
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6865
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6244
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5811
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5877
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5446
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4542
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4487
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5013
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5034
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3935
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3917
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3158
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2776
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3778
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4205
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2796
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2646
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2551
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2453
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2947
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3299
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3081
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025092900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2350
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025093000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2359
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2395
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2749
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2658
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2968
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3319
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2501
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2092
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025100900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1973
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1867
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2300
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2363
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1891
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1733
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1621
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1584
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1754
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2134
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025101900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2265
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2096
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2040
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1908
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2002
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2013
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2338
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2695
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2101
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1721
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025102900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1472
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025103000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1658
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025103100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1815
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2260
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2143
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1634
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1524
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1515
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1590
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1615
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1826
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025110900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2125
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1408
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1196
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1232
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1310
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1140
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1349
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1522
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1180
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1147
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1145
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1169
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1046
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1717
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1564
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1338
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1198
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1023
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1039
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1082
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1434
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1517
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1327
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1255
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1388
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1624
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1762
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1846
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2055
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1530
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1692
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1517
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1425
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1410
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1443
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1725
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1345
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1171
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1195
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1339
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1307
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1436
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1797
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1548
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1557
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1595
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3054
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2197
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2373
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2494
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2220
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2111
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2155
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2305
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2199
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2377
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2701
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1976
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1872
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1766
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1670
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1679
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1887
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2236
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2286
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1729
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1510
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1949
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2018
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2032
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2123
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1566
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1478
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1327
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1306
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1631
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1753
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1669
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1246
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1091
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1318
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1436
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1529
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1625
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1242
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1089
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1047
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 922
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1062
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1170
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1371
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 916
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 866
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 808
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 842
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1099
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1110
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 859
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1138
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 983
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 890
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 969
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1265
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1297
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 899
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 841
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 743
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 742
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 877
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Thudarum",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 908
+  }
+ ]
+}

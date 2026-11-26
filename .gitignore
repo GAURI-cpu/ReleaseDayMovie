@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+data/raw/imdb50k/
+spark-warehouse/
+outputs/_pip_pyspark.log
+*.pyc
+~$*

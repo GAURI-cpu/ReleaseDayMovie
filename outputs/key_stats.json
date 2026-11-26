@@ -1,0 +1,57 @@
+{
+ "n_chart1": 22,
+ "pearson_log": 0.5,
+ "spearman": 0.55,
+ "r2": 0.25,
+ "median_half_life": 6.0,
+ "conversion_by_lang": {
+  "Telugu": 1.333,
+  "Kannada": 1.484,
+  "Tamil": 1.668,
+  "Hindi": 4.767,
+  "Malayalam": 7.139
+ },
+ "aspects": {
+  "length": {
+   "n": 6,
+   "tone": 0.162,
+   "neg": 0.5
+  },
+  "vfx_action": {
+   "n": 10,
+   "tone": 0.163,
+   "neg": 0.2
+  },
+  "story": {
+   "n": 51,
+   "tone": 0.184,
+   "neg": 0.353
+  },
+  "music": {
+   "n": 16,
+   "tone": 0.306,
+   "neg": 0.375
+  },
+  "acting": {
+   "n": 39,
+   "tone": 0.385,
+   "neg": 0.179
+  },
+  "direction": {
+   "n": 9,
+   "tone": 0.528,
+   "neg": 0.0
+  }
+ },
+ "buzz_index_r": 0.47,
+ "loo_hit_rate": 0.6,
+ "loo_median_abs_err": 40.0,
+ "n_chart6": 22,
+ "spearman_day3_vs_overperf": 0.61,
+ "hold_n": 11,
+ "hold_beat": 8,
+ "hold_median_x": 1.69,
+ "drop_n": 11,
+ "drop_beat": 3,
+ "drop_median_x": 0.63
+}

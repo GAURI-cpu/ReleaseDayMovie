@@ -1,0 +1,197 @@
+{
+ "warnings": {
+  "main": {
+   "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+  },
+  "parse": {
+   "*": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+  }
+ },
+ "parse": {
+  "title": "Mirai (2025 film)",
+  "pageid": 80636458,
+  "redirects": [],
+  "sections": [
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Plot",
+    "number": "1",
+    "index": "1",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 5359,
+    "anchor": "Plot",
+    "linkAnchor": "Plot"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Cast",
+    "number": "2",
+    "index": "2",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 6977,
+    "anchor": "Cast",
+    "linkAnchor": "Cast"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Production",
+    "number": "3",
+    "index": "3",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 9145,
+    "anchor": "Production",
+    "linkAnchor": "Production"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Development",
+    "number": "3.1",
+    "index": "4",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 9201,
+    "anchor": "Development",
+    "linkAnchor": "Development"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Filming",
+    "number": "3.2",
+    "index": "5",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 10252,
+    "anchor": "Filming",
+    "linkAnchor": "Filming"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Music",
+    "number": "4",
+    "index": "6",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 10786,
+    "anchor": "Music",
+    "linkAnchor": "Music"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Marketing",
+    "number": "5",
+    "index": "7",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 13056,
+    "anchor": "Marketing",
+    "linkAnchor": "Marketing"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Release",
+    "number": "6",
+    "index": "8",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 13912,
+    "anchor": "Release",
+    "linkAnchor": "Release"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Theatrical",
+    "number": "6.1",
+    "index": "9",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 13927,
+    "anchor": "Theatrical",
+    "linkAnchor": "Theatrical"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Distribution",
+    "number": "6.2",
+    "index": "10",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 14395,
+    "anchor": "Distribution",
+    "linkAnchor": "Distribution"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Home media",
+    "number": "6.3",
+    "index": "11",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 15007,
+    "anchor": "Home_media",
+    "linkAnchor": "Home_media"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Reception",
+    "number": "7",
+    "index": "12",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 16356,
+    "anchor": "Reception",
+    "linkAnchor": "Reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Accolades",
+    "number": "8",
+    "index": "13",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 18650,
+    "anchor": "Accolades",
+    "linkAnchor": "Accolades"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Notes",
+    "number": "9",
+    "index": "14",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 19549,
+    "anchor": "Notes",
+    "linkAnchor": "Notes"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "References",
+    "number": "10",
+    "index": "15",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 19575,
+    "anchor": "References",
+    "linkAnchor": "References"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "External links",
+    "number": "11",
+    "index": "16",
+    "fromtitle": "Mirai_(2025_film)",
+    "byteoffset": 19605,
+    "anchor": "External_links",
+    "linkAnchor": "External_links"
+   }
+  ],
+  "showtoc": "",
+  "wikitext": {
+   "*": "{{Short description|2025 Indian film by Karthik Gattamneni}}\n{{Use dmy dates|date=October 2025}}\n{{Use Indian English|date=October 2025}}\n{{Infobox film\n| image          = Mirai (2025 film) poster.jpg\n| caption        = Theatrical release poster\n| director       = [[Karthik Gattamneni]]\n| writer         = Karthik Gattamneni\n| screenplay     = Manibabu Karanam\n| producer       = {{Plain list|\n* T. G. Vishwa Prasad\n* Krithi Prasad\n}}\n| starring       = {{Plain list|\n* [[Teja Sajja]]\n* [[Manchu Manoj]]\n* [[Jagapathi Babu]]\n* [[Jayaram]]\n* [[Shriya Saran]]\n* [[Ritika Nayak]]\n}}\n| cinematography = Karthik Gattamneni\n| editing        = [[A. Sreekar Prasad]]\n| music          = Gowra Hari\n| studio         = People Media Factory\n| distributor    = [[Mirai (2025 film)#Distribution|see below]]\n| country        = India\n| language       = Telugu\n| runtime        = 169 minutes<ref>{{cite web |access-date=10 September 2025 |title=Mirai gets U/A certificate, Teja Sajja calls it experience of emotion and devotion |date=9 September 2025 |url=https://www.indiatoday.in/movies/regional-cinema/story/mirai-gets-ua-certificate-teja-sajja-calls-it-experience-of-emotion-devotion-2784299-2025-09-09 |publisher=[[India Today]]}}</ref>\n| budget         = {{INR|60}} crore<ref>{{Cite web |last=Prakash |first=B. V. S. |date=2024-05-01 |title=Teja Sajja Mirai boasts of Rs 60 cr budget? |url=https://www.deccanchronicle.com/entertainment/tollywood/teja-sajja-mirai-boasts-of-rs-30-cr-budget-891896 |access-date=2025-08-28 |website=www.deccanchronicle.com }}</ref>\n| released       = {{Film date|2025|09|12|df=y}}\n| gross          = {{INR|141–150}} crore<ref>{{cite web |title=Mirai OTT release: When and where to watch Teja Sajja, Manchu Manoj's fantasy film |url=https://www.hindustantimes.com/entertainment/telugu-cinema/mirai-ott-release-when-and-where-to-watch-teja-sajja-manchu-manojs-fantasy-film-jiohotstar-101759842878438.html |website=Hindustan Times |access-date=13 October 2025  |date=7 October 2025}}</ref><ref>{{cite web |title=Mirai Starts Streaming on OTT With Changes |url=https://www.deccanchronicle.com/entertainment/mirai-starts-streaming-on-ott-with-changes-1909136 |website=www.deccanchronicle.com |access-date=13 October 2025  |date=10 October 2025}}</ref>\n}}\n\n'''''Mirai''''' is a 2025 Indian [[Telugu language|Telugu]]-language [[fantasy film|fantasy]] [[action-adventure film]] written and directed by [[Karthik Gattamneni]].<ref>{{Cite web |title='Mirai' trailer: Underdog Teja Sajja fights against evil with Lord Ram's help, internet gets goosebumps |url=https://www.hindustantimes.com/entertainment/telugu-cinema/mirai-trailer-underdog-teja-sajja-fights-against-evil-with-lord-rams-help-internet-gets-goosebumps-watch-101756368125924.html |website=Hindustan Times |date=28 August 2025 |access-date=29 August 2025}}</ref><ref name=\":0\">{{Cite news |last=ANI |date=2025-08-27 |title=Teja Sajja-starrer 'Mirai' gets new release date; trailer to be out soon |url=https://www.thehindu.com/entertainment/movies/teja-sajja-starrer-mirai-gets-new-release-date-trailer-to-be-out-soon/article69982130.ece |access-date=2025-08-28 |work=The Hindu  |issn=0971-751X}}</ref><ref name=\":1\">{{Cite web |title=Teja Sajja's Mirai Gets A New Release Date. Fans Say 'Eagerly Waiting' |url=https://www.news18.com/movies/telugu-cinema/teja-sajjas-mirai-gets-a-new-release-date-fans-say-eagerly-waiting-9531136.html |access-date=2025-08-28 |website=News18 }}</ref><ref>{{Cite web |last=Harsh |first=B. H. |date=2024-10-19 |title=Teja Sajja's Mirai to make table profit pre-release: Reports |url=https://www.cinemaexpress.com/telugu/news/2024/Oct/19/teja-sajjas-mirai-to-make-table-profit-pre-release-reports |access-date=2025-06-02 |website=Cinema Express }}</ref> Produced by TG Vishwa Prasad and Krithi Prasad for People Media Factory, the film stars [[Teja Sajja]], [[Manchu Manoj]], [[Jagapathi Babu]], [[Jayaram]], [[Shriya Saran]] and [[Ritika Nayak]] in important roles.<ref>{{Cite web |title=Mirai official Telugu trailer |url=https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/mirai-official-telugu-trailer/amp_videoshow/123564236.cms |website=The Times of India |access-date=29 August 2025}}</ref><ref>{{Cite web |title=Mirai trailer reactions: Fans say it has surpassed expectations, hail the VFX in Teja Sajja's film |url=https://www.timesnownews.com/entertainment-news/telugu/mirai-trailer-reactions-fans-say-it-has-surpassed-our-expectations-hail-the-vfx-in-teja-sajjas-film-lord-rama-manchu-manoj-article-152537926/amp |website=Times Now |date=28 August 2025 |access-date=29 August 2025}}</ref><ref>{{Cite web |title='Mirai' trailer: Teja Sajja's superhero movie with Manoj Manchu, Karthik Ghattamaneni release date announced |url=https://www.thehindu.com/entertainment/movies/mirai-trailer-tejja-sajja-superhero-movie-manoj-manchu-karthik-ghattamaneni-release-date/article69984539.ece |website=The Hindu |date=28 August 2025 |access-date=29 August 2025}}</ref>\n\n''Mirai'' was released worldwide on 12 September 2025 to positive reviews from critics who praised the film's acting and visual effects, but criticised the humour and emerged as a commercial success at the box office and emerged as [[List of Telugu films of 2025|fourth-highest grossing Telugu film of 2025]]. A sequel titled ''Mirai: Jaithraya'' is in development.\n\n== Plot ==\nVedha Prajapati is a young orphan who indulges in pickpocketing for his livelihood. Vibha, a sanyasi whom Vedha is trying to woo, makes him realise that he is the prophesied protector of the nine sacred scriptures or granthas of [[Ashoka|Emperor Ashoka]]. After the [[Kalinga War]], Emperor Ashoka turned his powers into the nine granthas, which possess the power to turn mortals into deities. The Black Sword, a ruthless group led by Mahabir Lama, seeks to claim the granthas and plunge the world into darkness. He succeeds in capturing eight of the nine granthas, becoming immensely powerful in the process. However, he fails to attain the ninth and most powerful of the granthas, ''Amaragrandha''. His quest for it clashes with Vedha, who is revealed to be the son of the protector of the same grandha, Ambika Prajapati. To kill Mahabir Lama, Vedha then realises that he must attain the divine superweapon of ''Mirāi'', which is later revealed to be the [[Sharnga|Kodanda]] of [[Lord Ram]]. The rest of the story unfolds as Vedha embarks on a journey to wield ''Mirāi'', including encountering the divine eagle [[Sampati]], who is protecting the ''Mirāi,'' along with understanding his true identity and purpose. In the mid-credits scene, a mysterious man is introduced. He is revealed to have the power of [[Midas touch]]. He becomes obsessed with the powers of ''Mirāi'', after learning about Mahabir Lama's death. Then he vows to seek the superweapon for his own enrichment and also states 'I will deliver the justice that was refused in Treta Yuga in this modern age', possibly hinting at a sequel.\n\n== Cast ==\n{{Cast listing|\n* [[Teja Sajja]] as Vedha Prajapati\n* [[Manchu Manoj]] as Mahabir Lama / Black Sword\n** Karthikeya Dev as young Mahabir\n* [[Jagapathi Babu]] as Angama Bali\n* [[Jayaram]] as Agasthya Muni \"AG\"\n* [[Shriya Saran]] as Ambika Prajapati, Vedha's mother\n* [[Ritika Nayak]] as Vibha, Vedha's love interest\n* [[Raj Zutshi]] as Banshi\n* Tanja Keller as Yuca, Mahabir's henchwoman<ref>{{Cite web |title=Lord Rama or Lord Krishna? Mirai Teaser Final Frame Sparks Fan Frenzy Online |url=https://zeenews.india.com/people/lord-rama-or-lord-krishna-mirai-teaser-final-frame-sparks-fan-frenzy-online-2908446.html |access-date=2025-06-12 |website=Zee News }}</ref>\n* [[Rathna Shekar Reddy]] as Kyza\n* [[Getup Srinu]] as Memesh, Vedha's companion \n* [[Pawan Chopra]] as K. N. Bagchi\n* [[Raghu Ram]] as Dasu Daddy\n* [[Sunil Thapa]] as Gyan Purja\n* [[Kishore Tirumala]] as [[Circle Inspector|CI]] Ashok\n* [[Venkatesh Maha]] as Vikram\n* Gaurav Bora as [[Lord Rama]]\n* Manoj Dugireddy as [[Ashoka]]\n* Sai Krishna Reddy as Sridhar\n* Madee Manepalli as Mapu\n* Viva Raghava as Sebastian\n* Muskaan Arora as Zoya\n* Anji Valguman as Hola\n* Manik Reddy as Mitai\n* Niranjan Kolanu as Kamba\n* Bunny Arumalla as Lateef\n* Badal Bhatta as Karikaludu\n* Killi Kranthi as Lalu Chaubey\n* [[Prabhas]] as the narrator ([[Voice-over|voiceover]])<ref>{{cite web |access-date=11 September 2025 |title=Is Prabhas Making Never Cameo In Mirai? Teja Sajja Teases 'REBELLIOUS SURPRISE' In Superhero Film  |date=11 September 2025 |url=https://www.timesnownews.com/entertainment-news/telugu/is-prabhas-making-cameo-in-mirai-teja-sajja-teases-rebellious-surprise-in-superhero-film-article-152784037 |publisher=Times Now}}</ref>\n* [[Rana Daggubati]] as a mysterious man with Midas touch (cameo appearance)<ref>{{cite web |access-date=12 September 2025 |title=BREAKING: Mirai ends with the promise of a sequel titled Mirai: Jaithraya; to feature Rana Daggubati in an evil avatar |url=https://www.bollywoodhungama.com/news/bollywood/breaking-mirai-ends-promise-sequel-titled-mirai-jaithraya-feature-rana-dagubatti-evil-avatar |website=[[Bollywood Hungama]] |date=12 September 2025 }}</ref>\n}}\n*\n\n== Production ==\n{{Expand section|date=November 2025}}\n\n=== Development ===\n''Mirai'' was officially announced on 18 April 2024 with a title promo.<ref name=\"toi-titlepromo\">{{Cite web |date=18 April 2024 |title=Teja Sajja's next with Karthik Gattamneni is titled 'Mirai' |url=https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/teja-sajjas-next-with-karthik-gattamneni-is-titled-mirai-check-out-the-title-promo/articleshow/109395044.cms |access-date=6 August 2025 |website=The Times of India}}</ref> It was initially planned for release on 18 April 2025 but was postponed.<ref name=\"toi-postponed\">{{Cite web |date=22 February 2025 |title=Teja Sajja's action-adventure 'Mirai' gets postponed |url=https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/teja-sajjas-action-adventure-mirai-gets-postponed-heres-the-new-release-date/articleshow/118475898.cms |access-date=6 August 2025 |website=The Times of India}}</ref> The budget reportedly increased from ₹30–40 crore to about ₹60 crore, owing to extensive VFX and plans for a pan-India release.<ref name=\"toi-postponed\" />\n\n=== Filming ===\nFilming took place at [[Ramoji Film City]], Sri Lanka and other Hyderabad locations, with night shoots for talkie portions concluding in December 2024.<ref name=\"toi-manoj\">{{Cite web |date=18 May 2024 |title='Mirai' makers to reveal Manchu Manoj's character from the film on Monday |url=https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mirai-makers-to-reveal-manchu-manojs-character-from-the-film-on-monday/articleshow/110227593.cms |access-date=6 August 2025 |website=The Times of India}}</ref>\n\n== Music ==\n\n{{Infobox album\n| name         = Mirai\n| type         = soundtrack\n| artist       = Gowra Hari\n| released     = 4 September 2025\n| recorded     = 2024–2025\n| studio       =\n| genre        = [[Feature film soundtrack]]\n| language     = [[Telugu language|Telugu]]\n| producer     = Gowra Hari\n| label        = [[Tips Music]]\n| prev_title   = [[Hanu-Man]]\n| prev_year    = 2024\n| year         = 2025\n| next_title   =\n| next_year    = 2026\n}}\n\nThe soundtrack is composed by Gowra Hari, following his success with ''[[Hanu-Man]]'' (2024). The first single, \"Vibe Undi\" sung by [[Armaan Malik]], was released in July 2025.<ref name=\"toi-songteaser\">{{Cite web |title=Mirai {{!}}Song Teaser - Vibe Undi|url=https://timesofindia.indiatimes.com/videos/entertainment/regional/telugu/mirai-song-teaser-vibe-undi/videoshow/122894039.cms |access-date=6 August 2025 |website=The Times of India}}</ref><ref>{{Cite web |title=Teja Sajja brings casual charm to 'Vibe Undi,' the energetic new single from Mirai |url=https://www.cinemaexpress.com/telugu/news/2025/Jul/26/teja-sajja-brings-casual-charm-to-vibe-undi-the-energetic-new-single-from-mirai |website=Cinema Express |date=26 July 2025 }}</ref> The second single, \"Jaithraya\" sung by [[Shankar Mahadevan]], was released on 8 September 2025.\n\n{{Track listing\n| headline      = Track listing\n| extra_column  = Singer(s)\n| title1        = Rudhira Magadha\n| length1       = 0:59\n| extra1        = Sai Charan Bhaskaruni, Chaithu Satsangi, Harshavardhan Chavali\n| lyrics1       = Karthik Gattamneni\n| title2        = Vibe Undi\n| length2       = 3:23\n| extra2        = [[Armaan Malik]]\n| lyrics2       = [[Krishna Kanth]]\n| title3        = Jaithraya\n| length3       = 2:56\n| extra3        = [[Shankar Mahadevan]]\n| lyrics3       = [[Chandrabose (lyricist)|Chandrabose]]\n| title4        = The Mother Song\n| length4       = 2:11\n| extra4        = Harini Ivaturi, Saicharan Bhaaskaruni, Chaitu Satsangi, Harshavardhan Chavali\n| lyrics4       = Gowra Hari\n| title5        = Sri Raama Sambhavam\n| length5       = 2:25\n| extra5        = Chorus\n| lyrics5       = Gowra Hari\n| title6        = The Black Sword Anthem\n| length6       = 1:24\n| extra6        = Saicharan Bhaskaruni\n| lyrics6       = Gowra Hari\n| total_length = 13:18\n}}\n\n== Marketing ==\nThe first-look poster was released on 18 April 2024. A teaser launched on 28 May 2025 introduced the mythical setting and visual scale.<ref>{{Cite web |last=Sistu |first=Suhas |date=2025-05-28 |title=Teja Sajja's 'Mirai' teaser wows with mythical scale and stunning visuals |url=https://www.thehansindia.com/cinema/teja-sajjas-mirai-teaser-wows-with-mythical-scale-and-stunning-visuals-974926 |access-date=2025-06-12 |website=www.thehansindia.com }}</ref> The trailer was released on 28 August 2025.<ref>{{Cite web |date=2025-08-28 |title=Mirai Trailer: Its Teja Sajja Vs. Manchu Manoj In An Epic Battle Of Good Against Evil |url=https://www.timesnownews.com/entertainment-news/telugu/mirai-trailer-its-teja-sajja-vs-manchu-manoj-in-an-epic-battle-of-good-against-evil-article-152537012 |access-date=2025-08-28 |website=Times Now }}</ref>\n\n== Release ==\n\n=== Theatrical ===\nThe film initially scheduled for a release on 18 April 2025. It was announced with first glimpse of the movie but was delayed due to production delays, eventually released theatrically worldwide on 12 September 2025.<ref name=\":0\" /> Mirai Released in Japan in August 21st 2026<ref>https://www.koimoi.com/box-office/mirai-japan-box-office-day-1-beats-dhurandhar-2-other-indian-biggies-in-pre-sales-can-it-enter-top-10-opening-day-footfalls/</ref>.\n\n=== Distribution ===\n[[Mythri Movie Makers]] acquired the Nizam distribution rights. [[Dharma Productions]] acquired the North India distribution rights.<ref>{{Cite web |title=Karan Johar comes onboard for Teja Sajja's Mirai |url=https://www.cinemaexpress.com/telugu/news/2025/Aug/14/karan-johar-comes-onboard-for-teja-sajjas-mirai |website=Cinema Express |date=14 August 2025 }}</ref> [[AGS Entertainment]] and [[Hombale Films]] acquired the Tamil Nadu and Karnataka distribution rights, respectively, while Sree Gokulam Movies acquired the distribution rights for Kerala.{{Citation needed|date=January 2026}}\n\n=== Home media ===\nThe film began streaming on [[JioHotstar]] from 10 October 2025 in Telugu and dubbed versions of Tamil, Kannada and Malayalam languages.<ref>{{cite web |access-date=4 October 2025 |title=Jio Hotstar Announces Mirai OTT Release Date |date=4 October 2025 |url=https://www.deccanchronicle.com/entertainment/jio-hotstar-announces-mirai-ott-release-date-1907911 |publisher=Deccan Chronicle}}</ref><ref name=\"'Mirai' OTT: When and where to watch Teja Sajja and Manchu Manoj’s mythological action drama\">{{cite news |title='Mirai' OTT: When and where to watch Teja Sajja and Manchu Manoj's mythological action drama |url=https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/mirai-ott-when-and-where-to-watch-teja-sajja-and-manchu-manojs-mythological-action-drama/articleshow/124307699.cms |access-date=17 October 2025 |work=The Times of India |date=4 October 2025 }}</ref> Later, the Hindi version began streaming on the platform from 7 November 2025.<ref>{{cite web |access-date=2 November 2025 |title=Mirai OTT release update: When and where to watch Teja Sajja's blockbuster movie Hindi version online |url=https://m.economictimes.com/magazines/panache/mirai-ott-release-update-when-and-where-to-watch-teja-sajjas-blockbuster-movie-hindi-version-online/articleshow/125030486.cms |publisher=The Economic Times}}</ref>\n\n==Reception==\n''[[The Times of India]]'' gave the film 3.5 stars out of 5, praising the performances, visuals, action sequences and cinematography, while feeling the screenplay faltered at times, the comedic detours slowed down the pacing, and that the climax was predictable.<ref>{{cite web|url=https://timesofindia.indiatimes.com/entertainment/telugu/movie-reviews/mirai/movie-review/123859061.cms|title=Mirai Movie Review: A visually striking fantasy with occasional drag|website=[[Times of India]]|access-date=13 September 2025}}</ref> Reviewing the Hindi version, ''[[Bollywood Hungama]]'' gave the film 3 stars out of 5 and praised the story, direction, performances and cinematography, while remarking that the screenplay failed to make the desired impact, and that the humour did not land properly.<ref>{{cite web|url=https://www.bollywoodhungama.com/movie/mirai/critic-review/mirai-movie-review/mirai-works-due-to-the-mythological-factor/|title=Mirai Movie Review: MIRAI works due to the mythological factor.|website=[[Bollywood Hungama]]|date=12 September 2025 |access-date=12 September 2025}}</ref> Neeshita Nyayapati from ''[[Hindustan Times]]'' found the production design and visual effects impressive, but was critical of the humour and the way it was blended with the seriousness of the proceedings.<ref>{{cite web|url=https://www.hindustantimes.com/entertainment/telugu-cinema/mirai-movie-review-teja-sajja-manchu-manojs-anime-style-film-works-when-it-isnt-indulgent-101757669260614.html|title=Mirai movie review: Teja Sajja, Manchu Manoj's Anime-style film works when it isn't indulgent|website=[[Hindustan Times]]|date=12 September 2025 |access-date=12 September 2025}}</ref> Sangeetha Devi Dundoo from ''[[The Hindu]]'' felt that while the film was ambitious in reframing an Indian superhero saga, it struggled to anchor its spectacle in compelling storytelling.<ref>{{cite web|last1=Dundoo |first1=Sangeetha Devi |url=https://www.thehindu.com/entertainment/movies/mirai-movie-review-director-karthik-gattamnenis-superhero-telugu-film-led-by-teja-sajja/article70037233.ece|title='Mirai' movie review: Teja Sajja-led superhero tale is visually slick but emotionally distant in storytelling|website=[[The Hindu]]|date=12 September 2025 |access-date=12 September 2025}}</ref>\n\n==Accolades==\n{| class=\"wikitable sortable plainrowheaders\"\n|-\n! scope=\"col\"| Award{{efn|Awards, festivals and organizations are in alphabetical order.}}\n! scope=\"col\"| Date of ceremony{{efn|Date is linked to the article about the awards held that year, wherever possible.}}\n! scope=\"col\"| Category\n! scope=\"col\"| Recipient(s)\n! scope=\"col\"| Result\n! scope=\"col\" class=\"unsortable\"| {{Abbr|Ref.|Reference}}\n|-\n! scope=\"row\" rowspan=\"2\"| [[Inca Awards|Indian National Cine Academy Awards]]\n| rowspan=\"5\" | 2026\n| Best Film- Telugu\n| T.G Viswa Prasad\n| {{won}}\n| <ref>{{cite web\n |url=https://inca.in/winners\n |title=INCA Awards Official Winners\n |website=inca\n |access-date=5 July 2026\n}}</ref>\n|-\n| Best VFX\n| People Media Factory VFX, Deccan Dreams\n| {{won}}\n| <ref>{{cite web\n |url=https://inca.in/winners\n |title=INCA Awards Official Winners\n |website=inca\n |access-date=5 July 2026\n}}</ref>\n|}\n\n== Notes ==\n{{notelist}}\n\n== References ==\n{{Reflist}}\n\n== External links ==\n* {{IMDb title|id=tt30858568|title=Mirai}}\n{{SIIMA Award for Best Film – Telugu}}\n[[Category:2025 films]]\n[[Category:2025 Indian films]]\n[[Category:2025 Telugu-language films]]\n[[Category:Indian action adventure films]]\n[[Category:Indian fantasy action films]]\n[[Category:Indian fantasy adventure films]]\n[[Category:Indian superhero films]]\n[[Category:2025 action adventure films]]\n[[Category:Telugu-language fantasy films]]\n[[Category:Telugu-language action films]]\n[[Category:2025 fantasy adventure films]]\n[[Category:2020s fantasy action films]]"
+  }
+ }
+}

@@ -1,0 +1,823 @@
+{
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 94
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 73
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 66
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 77
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 67
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 112
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 123
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1725
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1299
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 715
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 575
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 560
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 577
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 728
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 878
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1272
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2193
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1874
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1203
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 898
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 980
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1125
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1135
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 988
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1307
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4709
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5721
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5116
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4944
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3908
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3234
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2840
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3037
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2814
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2320
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3051
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2472
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2109
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3770
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4277
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3746
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3095
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3008
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2566
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2275
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1866
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3399
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3018
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3427
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5213
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3549
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3037
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2570
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4113
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23664
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20691
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16823
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12536
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9259
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7117
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5971
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4744
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4860
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4910
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3404
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3047
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2997
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2513
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2601
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2689
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3605
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2493
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2800
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3498
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3774
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3024
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2823
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2956
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2334
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1859
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1686
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1775
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1558
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1870
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1679
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1239
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1123
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1054
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 997
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 998
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Mark_(2025_film)",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1172
+  }
+ ]
+}

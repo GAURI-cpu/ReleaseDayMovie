@@ -1,0 +1,109 @@
+{
+ "warnings": {
+  "main": {
+   "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+  },
+  "parse": {
+   "*": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+  }
+ },
+ "parse": {
+  "title": "Junior (2025 film)",
+  "pageid": 80470085,
+  "redirects": [],
+  "sections": [
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Plot",
+    "number": "1",
+    "index": "1",
+    "fromtitle": "Junior_(2025_film)",
+    "byteoffset": 3467,
+    "anchor": "Plot",
+    "linkAnchor": "Plot"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Cast",
+    "number": "2",
+    "index": "2",
+    "fromtitle": "Junior_(2025_film)",
+    "byteoffset": 6065,
+    "anchor": "Cast",
+    "linkAnchor": "Cast"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Production",
+    "number": "3",
+    "index": "3",
+    "fromtitle": "Junior_(2025_film)",
+    "byteoffset": 6975,
+    "anchor": "Production",
+    "linkAnchor": "Production"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Music",
+    "number": "4",
+    "index": "4",
+    "fromtitle": "Junior_(2025_film)",
+    "byteoffset": 7056,
+    "anchor": "Music",
+    "linkAnchor": "Music"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Release and reception",
+    "number": "5",
+    "index": "5",
+    "fromtitle": "Junior_(2025_film)",
+    "byteoffset": 8950,
+    "anchor": "Release_and_reception",
+    "linkAnchor": "Release_and_reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Reception",
+    "number": "6",
+    "index": "6",
+    "fromtitle": "Junior_(2025_film)",
+    "byteoffset": 9785,
+    "anchor": "Reception",
+    "linkAnchor": "Reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "References",
+    "number": "7",
+    "index": "7",
+    "fromtitle": "Junior_(2025_film)",
+    "byteoffset": 10902,
+    "anchor": "References",
+    "linkAnchor": "References"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "External links",
+    "number": "8",
+    "index": "8",
+    "fromtitle": "Junior_(2025_film)",
+    "byteoffset": 10932,
+    "anchor": "External_links",
+    "linkAnchor": "External_links"
+   }
+  ],
+  "showtoc": "",
+  "wikitext": {
+   "*": "{{Short description|2025 Indian film by Radha Krishna Reddy}}\n{{Use dmy dates|date=October 2025}}\n{{Use Indian English|date=July 2025}}\n{{Infobox film\n| name           = Junior\n| image          = Junior (2025 film).jpg\n| caption        = Theatrical release poster\n| director       = Radha Krishna Reddy\n| writer         = Radha Krishna Reddy\n{{Infobox | decat = yes | child = yes\n    | label1= Dialogues by\n    | data1 = {{Ubl |Kalyan Chakravarthi}}\n}}\n| producer       = [[Sai Korrapati]]\n| starring       = {{plainlist|\n* Kireeti Reddy\n* [[Genelia D'Souza]]\n* [[Sreeleela]]\n* [[Ravichandran (Kannada actor)|V. Ravichandran]]\n}}\n| cinematography = [[K. K. Senthil Kumar]]\n| editing        = Niranjan Devaramane\n| music          = [[Devi Sri Prasad]]\n| studio         = [[Vaaraahi Chalana Chitram]]\n| distributor    = [[Mythri Movie Makers]]\n| released       = {{Film date|2025|07|18|df=y}}\n| runtime        = 154 minutes\n| country        = India\n| language       = {{plainlist|\n* Telugu\n* Kannada}}\n| budget         = {{INR}}25 crore<ref>{{Cite web |last=Shanigarapu |first=Chandu |title=శ్రీలీల గ్లామర్ పని చేసిందా? జూనియర్ మూవీకి మూడు రోజులు ఎన్ని కోట్లు వచ్చాయంటే? లాభాల్లోకి వెళ్లేనా? |url=https://www.hindustantimes.com/telugu/entertainment/junior-movie-box-office-day-3-collection-sreeleela-kiriti-genelia-121753021301886.html |access-date=5 August 2025 |website=[[Hindustan Times]]}}</ref>\n| gross          = {{INR}}16 crore<ref name=\"Sakshi\">{{Cite web |date=13 August 2025 |title=Kireeti Reddy's Junior Set for Prime Video OTT Release on August 15 |url=https://www.sakshipost.com/news/ott/kireeti-reddy-s-junior-set-prime-video-ott-release-august-15-440234 |access-date=20 August 2025 |website=[[Sakshi Post]]}}</ref><ref>{{Cite web |title=Junior box office collection day 7: Kireeti Reddy's film slow down but grosses Rs 16 crore |url=https://www.ottplay.com/news/junior-box-office-collection-day-7-kireeti-reddys-film-slow-down-but-posts-decent-numbers/38b5518c3e381 |access-date=26 July 2025 |website=OTTPlay }}</ref>\n}}\n\n'''''Junior''''' is a 2025 Indian [[action drama film|action drama]] film written and directed by Radha Krishna Reddy, and produced by [[Sai Korrapati]] through [[Vaaraahi Chalana Chitram]]. Shot simultaneously in [[Telugu language|Telugu]] and [[Kannada]] languages, the film features Kireeti Reddy, [[Genelia D'Souza]], [[Sreeleela]] and [[Ravichandran (Kannada actor)|V. Ravichandran]] in important roles.<ref>{{Cite web |last=Sharadhaa |first=A. |date=17 July 2025 |title=Kireeti Reddy: I'm here to carve my own path, and Junior is just the beginning |url=https://www.cinemaexpress.com/kannada/interviews/2025/Jul/17/kireeti-reddy-im-here-to-carve-my-own-path-and-junior-is-just-the-beginning |access-date=19 July 2025 |website=Cinema Express }}</ref><ref>{{Cite web |title=Sreeleela Marks Her Return To Kannada Films With Junior: 'Connected With The Story' |url=https://www.news18.com/movies/regional-cinema/sreeleela-marks-her-return-to-kannada-films-with-junior-connected-with-the-story-aa-9447159.html |access-date=19 July 2025 |website=News18 }}</ref>\n\nThe film was released on 18 July 2025.<ref>{{Cite web |title=Cinema Buzz Junior Movie: Kireeti Reddy's Debut Film 'Junior' to Release in July |url=https://www.deccanherald.com/entertainment/kannada-telugu-bilingual-film-junior-to-release-in-july-3542967 |access-date=18 July 2025 |website=Deccan Herald }}</ref> The film was a [[box office bomb]].<ref name=\"Sakshi\" />\n\n== Plot ==\nCollege is where Abhinav hopes to finally find some distance between him and his possessive father Kodandapani, after enduring a childhood of helicopter parenting. He dedicates the 4 years of his engineering degree to making memories, with teachers, friends and a special someone. Desperate to keep his father at arm's length and to woo his love-interest Spoorthy, Abhi lands an internship with a software giant Rise Solutions. After joining, he gets into beef with his headstrong manager Vijaya Soujanya, who happens to be the daughter of the company's chairman Gopal. Frustrated with Vijaya's rude and strict mannerisms, Abhi works with dedication and uncovers a scam within the company planted by Vijaya's rival. Vijaya gets appointed as CEO by the owner Gopal. Abhi is told will be dismissed by Vijaya after Vijaya takes the charge. Abhi grief struck tells his friend she cannot throw him like that.During the CEO announcement programme to everyone, a video is kept by abhis friend to praise Vijaya but the video gets scrapped and abhi is seen click his hand in success of giving a prick for Vijaya.\n\nAfter the programme, abhi goes and booze while abhis father Ravichandra comes in the gate asking gate keeper for abhi and this is seen by Gopal who calls abhi, Abhi uncovers secrets about his family from Gopal. He realizes that Vijaya is actually his elder sister and she was adopted by Gopal long before he was born, as his father was unable to bear her medical expenses and gave her up to Gopal and his wife. He also realizes that Vijaya turned cold because of this and despises both Gopal and her father. Abhi realises from doctor his father has Alzheimer's disease so can forget everyone including his surroundings also. Abhi takes pledge to care his father very well hereafter. Vijaya now as CEO gets advised by Gopal to clear the scam issue as it's a very important thing to clear. Vijaya tried to find out what happened in the village but finds nobody cooperating. Abhi finally takes everyone of the village to believe them by constant personal interactions.Vijaya finds abhi did everything to get villagers to cooperate and explain their needs. Later Vijaya visits the village and comes to abhi house, later Vijaya gets emotional, while same time a goon attack abhi but the hit goes to abhis father who gets hospitalised. Vijaya visits abhis father and abhis father now recognises and joins Vijaya but same time forgets abhi as son. Later abhis father is staying with Vijaya and abhi now stranger to abhis father continues his work with inside grief filled for his father.\n\n== Cast ==\n{{Cast listing|\n* Kireeti Reddy as K. Abhinav \"Abhi\"\n* [[Genelia D'Souza]] as Vijaya Soujanya, Abhi's sister\n* [[Sreeleela]] as Spoorthy, Abhi’s love-interest\n* [[Ravichandran (Kannada actor)|Ravichandran]] as Kodandapani\n* [[Rao Ramesh]] as Gopal\n* [[Sudha Rani]] as Shyamala\n* [[Achyuth Kumar]] as Vittalachari, [[Gram panchayat|Panchayat President]]\n* [[Satya (Telugu actor)|Satya]] as Manish Manjurekar\n* [[Harsha Chemudu]] as S. Kamal Hassan aka Kannan\n* [[Kiran Srinivas]] as Vijaya’s rival\n* Killi Kranthi\n* [[Girija Lokesh]] as Saroja’s grandmother\n* Govinde Gowda as Vittalachari’s assistant \n* Sharmitha Gowda as Gopal’s wife\n* [[Sivannarayana Naripeddi]] as a doctor\n* [[Suman Setty]] as Shopkeeper\n* Lakshman Tekumudi as Abhi’s friend\n* Geetha Bhaskar as a Villager\n* Inaya Sulthana as Saroja\n* [[Vaijanath Biradar]]\n* [[Brahmanandam]] (cameo appearance in the song \"Viral Vayyari\")\n}}\n\n==Production==\nIt marked Genelia return to Telugu film industry after 13 years.\n\n== Music ==\nThe soundtrack and background score is composed by [[Devi Sri Prasad]].<ref>{{Cite news |date=18 July 2025 |title='Junior': Kireeti Reddy and Sreeleela's electrifying dance moves wins over fans amid mixed plot reviews |url=https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/junior-kireeti-reddy-and-sreeleelas-electrifying-dance-moves-wins-over-fans-amid-mixed-plot-reviews/articleshow/122758192.cms |access-date=19 July 2025 |work=The Times of India |issn=0971-8257}}</ref>\n\n{{track listing\n| headline      = Telugu track listing\n| extra_column  = Singer(s)\n| total_length  = \n| all_music     = \n| title1        = Let's Live This Moment\n| length1       = 4:28\n| lyrics1       = [[Sri Mani]]\n| extra1        = [[Jaspreet Jasz]]\n| title2        = Viral Vayyari\n| length2       = 4:48\n| lyrics2       = Kalyan Chakravarthy\n| extra2        = Haripriya, Devi Sri Prasad\n| title3        = Junior Anthem\n| length3       = 3:16\n| lyrics3       = Kalyan Chakravarthy\n| extra3        = [[Yazin Nizar]]\n| title4        = Update Avvaale\n| length4       = 2:59\n| lyrics4       = Kalyan Chakravarthy\n| extra4        = [[Ram Miriyala]]\n| title5        = Jola Padina\n| length5       = 2:38\n| lyrics5       = Kalyan Chakravarthy\n| extra5        = Kareemullah\n}}\n\n{{track listing\n| headline      = Kannada track listing\n| extra_column  = Singer(s)\n| total_length  = \n| all_lyrics    = Pavan Bhat\n| all_music     = \n| title1        = Let's Live This Moment\n| length1       = 4:28\n| extra1        = [[Nakul Abhyankar]]\n| title2        = Viral Vayyari\n| length2       = 4:48\n| extra2        = Haripriya, Deepak Blue\n| title3        = Junior Anthem\n| length3       = 3:16\n| extra3        = Deepak Blue\n| title4        = Update Aagbeku\n| length4       = 2:59\n| extra4        = [[Santhosh Venky]]\n| title5        = Helo Devane\n| length5       = 2:38\n| extra5        = Santhosh Venky\n}}\n\n== Release and reception ==\n''Junior'' was released 18 July 2025.<ref>{{Cite web |last=Sistu |first=Suhas |date=17 July 2025 |title='Junior' pre-release event held; all set for release |url=https://www.thehansindia.com/cinema/junior-pre-release-event-held-all-set-for-release-988861 |access-date=19 July 2025 |website=thehansindia.com }}</ref> Telugu version was later released on [[Aha (streaming service)|Aha]] and [[Amazon Prime Video]] on 30 September 2025, and Kannada version was released on Namma Flix.<ref>{{Cite web |author=<!--Unlisted--> |date=30 September 2025 |title=Kireeti Reddy-Sreeleela starrer Junior now available for streaming |url=https://www.cinemaexpress.com/telugu/news/2025/Sep/30/kireeti-reddy-sreeleela-starrer-junior-now-available-for-streaming |access-date=1 October 2025 |website=Cinema Express }}</ref>\n\n== Reception ==\nSangeetha Devi Dundoo of ''[[The Hindu]]'' wrote, \"''Junior'' plays out like an extended showreel for Kireeti Reddy, highlighting his screen presence, dancing chops, aptitude for action, and ability to well up on cue\".<ref>{{Cite news |last=Dundoo |first=Sangeetha Devi |date=18 July 2025 |title='Junior' movie review: Genelia, Kireeti-starrer is a partly-entertaining, albeit dated drama |url=https://www.thehindu.com/entertainment/movies/junior-movie-review-genelia-kireeti-starrer-is-a-partly-entertaining-albeit-dated-drama/article69826037.ece |work=The Hindu }}</ref> BVS Prakash of ''[[Deccan Chronicle]]'' gave the film 1.5 out of 5 stars and felt that the film lacks \"novelty, emotional depth, or engaging drama\".Film turned out to be commercial failure and nothing new to offer audience<ref>{{Cite web |last=Prakash |first=B. V. S. |date=18 July 2025 |title=Junior Movie Review: A Tedious Star Launch with No Spark |url=https://www.deccanchronicle.com/entertainment/junior-movie-review-a-tedious-star-launch-with-no-spark-1892241 |access-date=18 July 2025 |website=Deccan Chronicle }}</ref>\n\n== References ==\n{{reflist}}\n\n== External links ==\n* {{IMDb title|30068605}}\n\n[[Category:2025 Indian films]]\n[[Category:2025 Telugu-language films]]\n[[Category:2025 films]]\n[[Category:2025 Kannada-language films]]\n[[Category:Films scored by Devi Sri Prasad]]\n[[Category:Vaaraahi Chalana Chitram films]]\n[[Category:Indian action drama films]]\n[[Category:Telugu-language action films]]\n[[Category:Telugu-language drama films]]\n[[Category:Indian multilingual films]]"
+  }
+ }
+}

@@ -1,0 +1,3901 @@
+{
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 145
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1688
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1940
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2236
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2474
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2670
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3008
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2896
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2024123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2651
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3280
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3547
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3269
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2943
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3286
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4624
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4239
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3516
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3365
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4423
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6832
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8466
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8104
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20025
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 24551
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21917
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 24175
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23175
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 24059
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 22186
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18108
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14812
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14557
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11798
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11256
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13282
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13583
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11229
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11280
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15906
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15356
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17172
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18578
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17618
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14871
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14636
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12008
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12297
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12262
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12012
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11738
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9292
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9446
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8102
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8796
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9602
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8177
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8334
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14415
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11363
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11253
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11226
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11022
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9737
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8608
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9194
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8188
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7918
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26494
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 31646
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 22174
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15462
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13775
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13417
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13010
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14668
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025030900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12659
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9991
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9628
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9394
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9433
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10383
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10036
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10691
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8049
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7234
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025031900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6856
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6395
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6231
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6597
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6845
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4788
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4558
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4368
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025032900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4991
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025033000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5475
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025033100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6995
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6014
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5262
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4689
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4293
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4396
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4735
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3694
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3332
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025040900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3227
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3414
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3351
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3844
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5196
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5730
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4025
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3703
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3935
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4502
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025041900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4739
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4635
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3606
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3368
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3082
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2959
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2944
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3098
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3694
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2659
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025042900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2904
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025043000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2801
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2902
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3310
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3206
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2905
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2391
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2840
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025050900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2980
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3274
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3520
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2983
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3052
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3046
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2801
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2674
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3382
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3615
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025051900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2877
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2570
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2477
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2295
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2210
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2935
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2820
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2338
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2158
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2261
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025052900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2529
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025053000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2689
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025053100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2871
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2817
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2044
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1743
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1687
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1638
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1639
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2207
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2954
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1935
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1855
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1880
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1730
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2365
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2060
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2334
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1931
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1913
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1818
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1796
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1737
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2018
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2203
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1970
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2027
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2096
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1869
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1901
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1962
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2318
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2310
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4056
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3262
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2136
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1988
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1951
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2207
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2003
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2024
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2166
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1766
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1740
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2020
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2233
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1765
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1620
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1593
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1938
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1788
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1850
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2251
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1804
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1813
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1903
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2087
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4133
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4011
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3139
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2587
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2245
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2325
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2142
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2601
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2316
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2555
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1951
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2240
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3147
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2665
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2066
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2057
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2351
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2025
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1715
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1636
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1543
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2150
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2644
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3306
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3068
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2681
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2117
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2169
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3414
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2811
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2772
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2172
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2058
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2393
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2058
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1952
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2136
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2087
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1784
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2257
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1772
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1542
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1690
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1724
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1944
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1574
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1562
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1484
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1533
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1520
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1746
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1871
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1528
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1494
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1524
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1592
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1415
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1553
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2284
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1646
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1540
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1443
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1476
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1779
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1938
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1929
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025092900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1794
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025093000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1918
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2255
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2436
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2271
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2060
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2638
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1917
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1429
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025100900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1402
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1326
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1597
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1742
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1846
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2490
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2090
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1500
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1446
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025101900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1447
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1477
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1303
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1397
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1723
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1622
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1463
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1702
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1251
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1381
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025102900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1502
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025103000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1147
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025103100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1010
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1085
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1124
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 895
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 857
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 964
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 878
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1063
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1366
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025110900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1630
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1128
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1029
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 974
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 998
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 911
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1038
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1230
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1025
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1076
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1054
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1051
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1348
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1081
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1406
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 991
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 918
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 917
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 924
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 954
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1269
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1658
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1472
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1176
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1106
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1050
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1097
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1490
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1357
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1060
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1138
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1094
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1257
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1691
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1912
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1622
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1568
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1429
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1441
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1204
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1233
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1887
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1337
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1315
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1191
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1576
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1534
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1649
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1914
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2248
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2112
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2183
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2093
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3347
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5498
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4361
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2945
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3112
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3616
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3685
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3519
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5030
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13052
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10347
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8052
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7192
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6422
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6066
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7043
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6039
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4765
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3496
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3818
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3176
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3136
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4136
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5142
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4085
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2640
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2483
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1914
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1876
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2948
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1932
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1799
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1893
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2033
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2021
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2041
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2205
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1735
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1841
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4034
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3159
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2946
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3294
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3264
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2061
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1956
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1612
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1598
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1525
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1766
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1891
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1154
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1076
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1084
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1106
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Sankranthiki_Vasthunam",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1170
+  }
+ ]
+}

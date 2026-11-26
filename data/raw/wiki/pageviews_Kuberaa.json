@@ -1,0 +1,3307 @@
+{
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 441
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1086
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 961
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 968
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 895
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 850
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 789
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 749
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 783
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 892
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025030900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 786
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 817
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 834
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 787
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 858
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 827
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 855
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 910
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 725
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 715
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025031900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 713
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 988
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1287
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1309
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1382
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1287
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1114
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1153
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1105
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 954
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025032900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1612
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025033000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3273
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025033100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3398
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3020
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2618
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2387
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2402
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2390
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2364
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2217
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1994
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025040900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2074
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2172
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2031
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2230
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2282
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2566
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3330
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2712
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2083
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2251
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025041900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1875
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3802
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2877
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2245
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1965
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1774
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1934
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1939
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1971
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1683
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025042900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1615
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025043000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1642
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1710
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1841
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1957
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2084
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2003
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1833
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1700
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1749
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025050900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1537
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1752
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2067
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1940
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1974
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2096
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1925
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2014
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2200
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2273
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025051900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2060
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1921
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2155
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2564
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2318
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2959
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8359
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6890
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4363
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3475
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025052900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3052
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025053000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2717
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025053100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2989
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3765
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5254
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4100
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3008
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3535
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3224
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3684
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4721
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5220
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8004
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9595
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7831
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8315
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6596
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14822
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20200
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15545
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19541
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28856
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 112806
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 125596
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 110587
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102233
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 79454
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 70907
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 57206
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50295
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 48186
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 46050
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32580
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25677
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21152
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17698
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16327
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15843
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19555
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21253
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17067
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15681
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16658
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13475
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10748
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10047
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9757
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12783
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 47220
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 51022
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 44206
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28681
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23685
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19538
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18498
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17291
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20317
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19673
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12088
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10224
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9212
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8491
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8425
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10532
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11380
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7434
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6532
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5862
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6535
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7722
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8190
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5478
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5029
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5114
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5488
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6727
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7258
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8140
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6131
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6012
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5036
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4456
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4670
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5116
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5131
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3705
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3475
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3845
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3354
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3440
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4017
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4240
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3694
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3339
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3515
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3472
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3877
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4920
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4508
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3311
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2731
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2592
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2568
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2778
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3344
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3547
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2803
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2696
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2777
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2763
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2787
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3002
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3385
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2472
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2220
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2269
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2132
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2463
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2957
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2857
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025092900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2274
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025093000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2518
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3803
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3992
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4059
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10310
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8398
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4018
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3394
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2870
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025100900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2649
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2653
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2571
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2680
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2290
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2146
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2194
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2141
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3946
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2774
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025101900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4038
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10644
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3571
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4782
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3358
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3354
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3592
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4009
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3565
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2930
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025102900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3001
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025103000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2659
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025103100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2233
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2467
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3329
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2063
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1914
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1939
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1875
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2897
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025110900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2701
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2282
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1966
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3006
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2184
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1931
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2080
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2334
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2611
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2667
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1752
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2872
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1554
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1773
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2072
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1909
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1932
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1573
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1687
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2423
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3213
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3045
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2653
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2611
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2113
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2200
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2155
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2143
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2597
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2501
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2172
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2541
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1592
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1602
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1629
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1642
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2557
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1425
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1262
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1218
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2072
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2144
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1311
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1253
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1805
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1449
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1365
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1422
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1626
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1375
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1570
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1337
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2042
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1479
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1383
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1128
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1095
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 968
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 932
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 979
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1079
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1255
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1142
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1192
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1080
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1535
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2465
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3278
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1648
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1236
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1232
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 937
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 985
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1239
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1615
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2607
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1440
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1344
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1555
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1557
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1477
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1645
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1094
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 912
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 959
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 795
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1404
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 872
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 880
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 771
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 833
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 986
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 753
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 758
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 838
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1057
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 785
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 728
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 733
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 715
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 796
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 797
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1203
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1015
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 873
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1324
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2259
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2507
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Kuberaa",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2473
+  }
+ ]
+}

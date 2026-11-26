@@ -1,0 +1,175 @@
+{
+ "warnings": {
+  "main": {
+   "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+  },
+  "parse": {
+   "*": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+  }
+ },
+ "parse": {
+  "title": "Sankranthiki Vasthunam",
+  "pageid": 78284881,
+  "redirects": [],
+  "sections": [
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Plot",
+    "number": "1",
+    "index": "1",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 5927,
+    "anchor": "Plot",
+    "linkAnchor": "Plot"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Cast",
+    "number": "2",
+    "index": "2",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 8202,
+    "anchor": "Cast",
+    "linkAnchor": "Cast"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Production",
+    "number": "3",
+    "index": "3",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 9981,
+    "anchor": "Production",
+    "linkAnchor": "Production"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Music",
+    "number": "4",
+    "index": "4",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 14584,
+    "anchor": "Music",
+    "linkAnchor": "Music"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Release",
+    "number": "5",
+    "index": "5",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 14988,
+    "anchor": "Release",
+    "linkAnchor": "Release"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Theatrical",
+    "number": "5.1",
+    "index": "6",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 15000,
+    "anchor": "Theatrical",
+    "linkAnchor": "Theatrical"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Distribution",
+    "number": "5.2",
+    "index": "7",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 15366,
+    "anchor": "Distribution",
+    "linkAnchor": "Distribution"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Home media",
+    "number": "5.3",
+    "index": "8",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 17066,
+    "anchor": "Home_media",
+    "linkAnchor": "Home_media"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Reception",
+    "number": "6",
+    "index": "9",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 18629,
+    "anchor": "Reception",
+    "linkAnchor": "Reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Accolades",
+    "number": "7",
+    "index": "10",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 21095,
+    "anchor": "Accolades",
+    "linkAnchor": "Accolades"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Sequel",
+    "number": "8",
+    "index": "11",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 24758,
+    "anchor": "Sequel",
+    "linkAnchor": "Sequel"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Notes",
+    "number": "9",
+    "index": "12",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 26031,
+    "anchor": "Notes",
+    "linkAnchor": "Notes"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "References",
+    "number": "10",
+    "index": "13",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 26057,
+    "anchor": "References",
+    "linkAnchor": "References"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "External links",
+    "number": "11",
+    "index": "14",
+    "fromtitle": "Sankranthiki_Vasthunam",
+    "byteoffset": 26085,
+    "anchor": "External_links",
+    "linkAnchor": "External_links"
+   }
+  ],
+  "showtoc": "",
+  "wikitext": {
+   "*": "{{Short description|2025 film by Anil Ravipudi}}\n{{Use dmy dates|date=January 2025}}\n{{Use Indian English|date=May 2022}}\n{{Infobox film\n| name           = Sankranthiki Vasthunam\n| image          = Sankranthiki Vasthunam.jpeg\n| caption        = Theatrical release poster\n| director       = [[Anil Ravipudi]]\n| writer         = Anil Ravipudi<br />S. Krishna<br />G. Adhinarayana\n| producer       = [[Dil Raju]]<br />Sirish\n| starring       = {{plainlist|\n* [[Venkatesh (actor)|Venkatesh]]\n* [[Aishwarya Rajesh]]\n* [[Meenakshi Chaudhary]]\n}}\n| cinematography = [[Sameer Reddy]]\n| editing        = Tammiraju\n| music          = [[Bheems Ceciroleo]]\n| studio         = [[Sri Venkateswara Creations]]\n| distributor    = [[#Distribution|see below]]\n| released       = {{Film date|2025|01|14|df=yes}}\n| runtime        = 144 minutes<ref>{{Cite web |title=CBFC {{!}} Search Film |url=https://cbfcindia.gov.in/cbfcAdmin/search-result.php?recid=Q0EwNzI3MTIyMDI0MDAwMTY= |access-date=18 January 2025 |website=[[Central Board of Film Certification]]}}</ref>\n| country        = India\n| language       = Telugu\n| budget         = {{INR|50 crore}}<ref name=\"auto\">{{Cite news |last=Dundoo |first=Sangeetha Devi |date=2025-04-04 |title=Digital platforms and Telugu cinema: Has the bubble burst? |url=https://www.thehindu.com/entertainment/movies/digital-platforms-and-telugu-cinema-has-the-bubble-burst/article69396060.ece |access-date=2025-04-04 |work=[[The Hindu]]  |issn=0971-751X}}</ref>\n| gross          = {{estimation}} {{INR|258–300 crore}}{{efn|name=\"bo\"|''[[The Financial Express (India)|The Financial Express]]''<ref>{{Cite web |date=2025-07-26 |title=Saiyaara becomes 2nd biggest movie of 2025; THESE are top 10 highest-grossing films of the year |url=https://www.financialexpress.com/life/entertainment/saiyaara-becomes-2nd-biggest-movie-of-2025-these-are-top-10-highest-grossing-films-of-the-year/3927364/ |access-date=2025-10-13 |website=The Financial Express }}</ref> reported ₹258 crore and ''[[NDTV]]'',<ref>{{Cite web |last=Srinivasan |first=Latha |date=2025-02-06 |title=Is South Cinema Finally Done With Violence? |url=https://www.ndtv.com/opinion/is-south-cinema-finally-done-with-violence-7649636 |access-date=2025-10-13 |website=[[NDTV]] }}</ref> ''[[News18]]'',<ref>{{Cite web |last=Sharma |first=Sameeksha |date=2025-03-03 |title=First Blockbuster Of 2025: This Telugu Movie Is Topping OTT Charts After Entering Rs 300-Crore Club |url=https://www.news18.com/movies/first-blockbuster-of-2025-this-telugu-movie-is-topping-ott-charts-after-entering-rs-300-crore-club-ws-ab-9247463.html |access-date=2025-10-13 |website=[[News18]] }}</ref> ''[[The Hans India]]'',<ref name=\"auto1\">{{Cite web |last=Sistu |first=Suhas |date=2025-01-30 |title=Venkatesh creates a record as 'Sankranthiki Vasthunnam' reaches 300 Cr milestone |url=https://www.thehansindia.com/cinema/tollywood/venkatesh-creates-a-record-as-sankranthiki-vasthunnam-reaches-300-cr-milestone-940962 |access-date=2025-10-13 |website=[[The Hans India]] }}</ref> ''[[The Hindu]]'',<ref>{{Cite web |date=2025-07-02 |title=Telugu cinema 2025: Hits prove elusive as the industry struggles to regain momentum |url=https://www.thehindu.com/entertainment/movies/telugu-cinema-2025-hits-prove-elusive-as-the-industry-struggles-to-regain-momentum/article69758700.ece |access-date=2025-10-13 |website=[[The Hindu]] }}</ref> ''[[The Economic Times]]'' have reported the {{INR|300 crore}} gross.<ref>{{Cite news |date=2025-02-11 |title=Sankranthiki Vasthunnam sequel announced. When will the superhit Telegu movie be released? |url=https://economictimes.indiatimes.com/magazines/panache/sankranthiki-vasthunnam-sequel-announced-when-will-the-superhit-telegu-movie-be-released/articleshow/118135526.cms?from=mdr |access-date=2025-10-13 |work=[[The Economic Times]] |issn=0013-0389}}</ref>}}\n}}\n\n'''''Sankranthiki Vasthunam''''' ({{translation|We are coming for [[Sankranthi]]}}) is a 2025 Indian [[Telugu-language|Telugu]]-language [[action comedy film]] written and directed by [[Anil Ravipudi]] and produced by [[Sri Venkateswara Creations]]. It stars [[Venkatesh (actor)|Venkatesh]], [[Aishwarya Rajesh]], and [[Meenakshi Chaudhary]]. The film follows YD Raju (Venkatesh), an ex-police offficer whose happy life is upended when Meenakshi (Chaudhary), his former girlfriend, also a police officer, seeks his help to rescue an abducted [[Non resident Indian|NRI]] [[Chief executive officer|CEO]] from a criminal gang. Throughout the mission, he finds himself caught in the crossfire between his suspicious wife Bhagyam (Aishwarya) and his former girlfriend.\n\nLaunched with the working title ''SVC 58'' or ''VenkyAnil3'', the official title to be announced in November 2024. The film features music composed by [[Bheems Ceciroleo]] and cinematography by [[Sameer Reddy]]. [[Principal photography]] took place in [[Rajahmundry|Rajamahendravaram]], [[Hyderabad]], [[Kasaragod]], [[Dehradun]], [[Mussoorie]], and [[Rishikesh]].\n\n''Sankranthiki Vasthunam'' was released on 14 January 2025, coinciding with the [[Makar Sankranti|Sankranti]] festival, where it received generally positive reviews from both critics and audiences. It was a massive box office success, grossing over {{INR|258–300 crore}} worldwide and emerged as the [[List of Telugu films of 2025|second-highest grossing Telugu film of the year]].{{efn|name=\"bo\"}}<ref>{{Cite web|url=https://www.moneycontrol.com/entertainment/regional/year-ender-2025-top-10-highest-grossing-films-of-tollywood-photo-gallery-13735194.html|title=Year Ender 2025: Top 10 highest grossing films of Tollywood|last=Tanmayi|first=Bhawana|work=[[Moneycontrol]]|date=2025-12-20|accessdate=2026-05-24|archive-date=2025-12-23|archive-url=https://web.archive.org/web/20251223110707/https://www.moneycontrol.com/entertainment/regional/year-ender-2025-top-10-highest-grossing-films-of-tollywood-photo-gallery-13735194.html|url-status=live}}</ref>\n\n== Plot ==\nSatya Akella, a prominent global businessman, arrives in India at the invitation of [[Chief Minister of Telangana|Telangana Chief Minister]] Keshava for what is meant to be a strategic business retreat. During a visit to a secluded farmhouse, he is kidnapped by Biju Pandey's gang, who plan to use him as leverage to secure the release of Biju's imprisoned brother, Papa Pandey. However, the unyielding jailer George Antony refuses to free Papa without formal government authorization—something the Chief Minister is unwilling to provide, fearing political fallout.\n\nWith the situation spiraling, police officer Meenakshi turns to her former lover, YD Raju, a retired encounter specialist known for his unorthodox methods. Now married to Bhagyam and a father of four, living in [[Rajahmundry|Rajamahendravaram]], is reluctantly drawn back into action. Suspicious of their history, Bhagyam insists on joining the mission, bringing along her son, her father, and even their household worker, turning a high-stakes rescue into a chaotic family operation.\n\nThe team infiltrates the prison and engineers a brawl to have Papa Pandey hospitalized, then cleverly manipulates George Antony and his subordinate Manikya Rao to extract him. But their plan derails when Papa accidentally falls off a cliff during a bizarre altercation with Bhagyam and is ultimately killed in a freak accident. Forced to improvise, Raju disguises Papa's corpse and puppeteers it to deceive Biju Pandey, while tensions flare between Bhagyam and Meenakshi.\n\nThe deception unravels amid a violent gang shootout, and Biju discovers his brother's death. In the ensuing chaos, Raju eliminates Biju and dismantles his gang, successfully rescuing Akella. Yet instead of returning him immediately, Raju leverages the situation to confront the Chief Minister. He demands justice for his former teacher, who was falsely accused and humiliated by an MLA (Keshava's own uncle) or else the truth about the kidnapping will be exposed.\n\nThe teacher is publicly cleared, Akella returns safely to the United States. Raju resumes his family life, only to discover that Meenakshi has been transferred to his village as their new neighbor, reigniting unresolved tensions and setting the stage for further turmoil.\n\n==Cast==\n{{castlist|\n* [[Venkatesh (actor)|Venkatesh]] as ex-[[Deputy Commissioner of Police|DCP]] Yadagiri Damodara Raju [[Indian Police Service|IPS]] \"Sinaraju\" alias YD Raju / Yama Dharma Raju \n** Karthikeya Dev as young YD Raju\n* [[Aishwarya Rajesh]] as Bhagyalakshmi \"Bhagyam\" Sinaraju, Raju's wife\n* [[Meenakshi Chaudhary]] as [[Assistant Commissioner|ACP]] C. Meenakshi IPS \"Meenu\", Raju's ex-girlfriend\n* [[P. Sai Kumar]] as [[Police Constable|Constable]] P. Manikya Rao\n* [[Naresh (actor)|Naresh]] as Keshava, Ganesh's younger brother and [[Chief Minister of Telangana|CM]] of Telangana\n* [[VTV Ganesh]] as T. V. Ganesh, Keshava's elder brother, Party President\n* [[Sarvadaman D. Banerjee]] as [[Schoolmaster]] Yadagiri\n* [[Upendra Limaye]] as [[Prison officer|Jailer]] George Antony\n* [[Srinivas Avasarala]] in a dual role as Satya Akella and Prem\n* Bheemala Revanth Pavan Sai Subhash as Bulli Raju, Raju and Bhagyam's son\n* [[Muralidhar Goud]] as Bhagyam's father\n* [[Srikanth Iyengar]] as [[Member of the Legislative Assembly|MLA]]\n* Vadlamani Srinivas as [[Inspector-general of police#India|IG]] Srinivasa Rao\n* [[Srinivasa Reddy]] as Sreenu, Keshava's family doctor\n* [[Babloo Prithiveeraj]] as Pankaj Pandey\n* [[Rajitha]] as Bhagyam’s mother\n* Anand Ramaraju as Bhagyam’s brother-in-law\n* Pammi Sai as Raju and Bhagyam’s house-worker\n* Pradeep Kabra as Papa Pandey\n* Mahesh Balaraj as Bijju Pandey, Nayak’s rival\n* [[Anantha Sriram]] as Prem Pandey\n* [[Satya Prakash (actor)|Satya Prakash]] as Billu Nayak\n* [[Amit Tiwari]] as Chota Nayak, Billu’s brother\n* Anand Raj as [[Member of the Legislative Assembly (India)|MLA]] \n* [[Bheems Ceciroleo]] in a cameo appearance as DJ in \"Blockbuster Pongal\"\n* [[Anil Ravipudi]] as Raju’s neighbour in a cameo appearance\n}}\n\n==Production==\n[[Anil Ravipudi]]'s third collaboration with [[Venkatesh (actor)|Venkatesh]] after ''[[F2: Fun and Frustration]]'' (2019) and ''[[F3: Fun and Frustration]]'' (2022) was announced in July 2024. The film was initially tentatively titled ''SVC 58'' or ''VenkyAnil3''. The film crew held a [[Puja (Hinduism)|pooja]] ceremony in [[Hyderabad]] on July 3.<ref>{{Cite web |date=1 July 2024 |title=SVC 58 : వైరటీ పోస్టర్ తో వెంకటేష్, అనిల్ రావిపూడి చిత్రం అనౌన్స్మెంట్.. |url=https://www.ntvtelugu.com/news/from-svc-58-movie-a-special-poster-has-released-by-movie-team-627368.html/amp |url-status=live |archive-url=https://web.archive.org/web/20240701154448/https://ntvtelugu.com/news/from-svc-58-movie-a-special-poster-has-released-by-movie-team-627368.html/amp |archive-date=1 July 2024 |access-date=17 December 2024 |website=[[NTV (India)|NTV Telugu]] |language=te}}</ref><ref>{{Cite news|url=https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/makers-share-victory-venkatesh-anil-ravipudis-triangular-crime-entertainer-venkyanil3-pooja-ceremony-pics/articleshow/111460558.cms|title=Makers share Victory Venkatesh-Anil Ravipudi's triangular triangular crime entertainer 'VenkyAnil3' pooja ceremony pics|work=[[The Times of India]]|date=2024-07-03|accessdate=2026-07-01}}</ref> The film was produced by [[Sri Venkateswara Creations]] who also produced their earlier collaborations. [[Meenakshi Chaudhary]] and [[Aishwarya Rajesh]] were cast as the female leads.<ref>{{Cite web |date=11 July 2024 |title=SVC 58: Venkatesh and Anil Ravipudi's third collaboration goes on floors |url=https://www.desimartini.com/movies/trending/svc-58-venkatesh-and-anil-ravipudis-third-collaboration-goes-on-floors-watch/3b32020c23384/ |url-status=dead |archive-url=https://web.archive.org/web/20240716070041/https://www.desimartini.com/movies/amp/trending/svc-58-venkatesh-and-anil-ravipudis-third-collaboration-goes-on-floors-watch/3b32020c23384/ |archive-date=16 July 2024 |access-date=4 November 2024 |website=[[Desimartini]]}}</ref> The title was announced as ''Sankrantiki Vasthunam'' in November 2024.<ref>{{Cite web |date=1 November 2024 |title=Venkatesh Daggubati's VenkyAnil3 is now titled Sankranthiki Vasthunam: First-look poster OUT! |url=https://www.desimartini.com/movies/trending/venkatesh-daggubatis-venkyanil3-is-now-titled-sankranthiki-vasthunam-first-look-poster-out/903186b2fb695/ |url-status=dead |archive-url=https://web.archive.org/web/20241201194310/https://www.desimartini.com/movies/trending/venkatesh-daggubatis-venkyanil3-is-now-titled-sankranthiki-vasthunam-first-look-poster-out/903186b2fb695/ |archive-date=1 December 2024 |website=[[Desimartini]]}}</ref>\n\n[[Principal photography]] began on 11 July 2024.<ref>{{Cite web |date=11 July 2024 |title=VenkyAnil3 SHOOT BEGINS: వెంకటేష్, అనిల్ రావిపూడిల సినిమా షూటింగ్ ప్రారంభం - టాలీవుడ్‌లోకి 'యానిమల్' నటుడు ఎంట్రీ, ఇదిగో మేకింగ్ వీడియో |url=https://telugu.abplive.com/entertainment/cinema/venkatesh-and-anil-ravipudi-s-venky-anil-3-movie-shoot-begins-and-filming-key-sequences-with-some-of-the-main-cast-171040/amp |website=[[ABP News|ABP Live Telugu]] |language=te}}</ref> Filming took place in [[Rajahmundry|Rajamahendravaram]], Hyderabad, [[Kasaragod]], [[Koraput]], [[Dehradun]], [[Mussoorie]] and [[Rishikesh]]. The climax of the film was shot in [[Kadapa]].<ref>{{Cite web |date=25 November 2024 |title='Sankranthiki Vasthunnam' is filming a song in Dehradun |url=https://telugucinema.com/news/sankranthiki-vasthunnam-is-filming-a-song-in-dehradun |url-status=live |archive-url=https://web.archive.org/web/20241125101951/https://telugucinema.com/news/sankranthiki-vasthunnam-is-filming-a-song-in-dehradun |archive-date=25 November 2024 |access-date=17 December 2024 |website=[[Telugucinema.com]]}}</ref><ref>{{Cite web|url=https://sambadenglish.com/latest-news/mahesh-babu-priyanka-chopra-to-arrive-in-odishas-koraput-for-shoot-of-ss-rajamoulis-ssmb29-film-8791376|title=Mahesh Babu, Priyanka Chopra to arrive in Odisha's Koraput for shoot of SS Rajamouli's 'SSMB29' film|last=Swain|first=Biswajeet|work=[[Sambad English]]|date=2025-03-05|accessdate=2026-07-04}}</ref><ref>{{Cite web|url=https://economictimes.indiatimes.com/magazines/panache/forget-switzerland-know-odishas-stunning-locations-where-pushpa-2-sankranthiki-vasthunam-rajamoulis-new-film-ssmb29-were-shot/articleshow/118984241.cms?from=mdr|title=Forget Switzerland. Know Odisha’s stunning locations where Pushpa 2, Sankranthiki Vasthunam, Rajamouli's new film SSMB29 were shot|work=The Economic Times|date=2025-03-13|accessdate=2026-07-04}}</ref>\n\n==Music==\n{{Main|Sankranthiki Vasthunam (soundtrack)}}\nThe soundtrack album was released on 14 January 2025 after the film's release.<ref>{{Cite web |date=14 January 2025 |title=Celebrate this Sankranti with high-energy beats and vibrant vibes! 💃🎉 Sankranthiki Vasthunam full album is out now |url=https://x.com/tseriessouth/status/1879161285872664890 |website=X (formerly Twitter) |via=Twitter}}</ref>\n\n==Release==\n===Theatrical===\n''Sankranthiki Vasthunam'' was released in theatres on 14 January 2025, coinciding with [[Sankranthi]].<ref>{{Cite web |date=20 November 2024 |accessdate=20 November 2024 |title=Sankranthiki Vasthunnam's release date announced |url=https://telugucinema.com/news/sankranthiki-vasthunnams-release-date-announced |website=[[Telugucinema.com]]}}</ref>\n\n===Distribution===\nSri Venkateswara Creations is independently responsible for the distribution of this film in Andhra Pradesh and Telangana.<ref>{{Cite tweet|user=SVC_official|author=Sri Venkateswara Creations|number=1879558059162476678|title=Any centre, Any Area, Any theatre, MASS RAMPAGE ALL OVER💥💥💥|date=15 January 2025|accessdate=28 June 2026}}</ref> The overseas rights were acquired by Phars Film Co, while Shloka Entertainments bought the distribution rights for [[North America]].<ref>{{Cite tweet|user=TeluguChitraalu|author=Telugu Chitraalu|number=1875937540139819404|title=#SankranthikiVasthunam US Bookings opened now!|date=6 January 2025|accessdate=6 January 2025}}</ref><ref>{{Cite tweet|user=ShlokaEnts|author=Shloka Entertainments|number=1865753247232733211|title=Delivering the ULTIMATEFESTIVE ENTERTAINER #సంక్రాంతికివస్తున్నాం for audiences of all ages this SANKRANTHI!🤩#SankranthikiVasthunam North America Release by @ShlokaEnts💥|date=8 December 2024|accessdate=8 December 2024}}</ref> The [[United Kingdom]] theatrical rights were sold to Dreamz Entertainment.<ref>{{Cite tweet|user=TeamDreamZE|author=DreamZ Entertainment UK|number=1877384921351623082|title=#SankranthiSandadiShuru in 5 DAYS 😍 UK Premieres on jan 13 😍 ❤️ UK RELEASE BY @TeamDreamZE|date=10 January 2025|accessdate=10 January 2025}}</ref> The distribution rights in [[Australia]] and [[New Zealand]] were acquired by Hamsini Entertainment and Tolly Movies International.<ref>{{Cite tweet|user=tolly_movies|author=Tolly Movies|number=1872983926303547462|title=#SankranthikiVasthunam Australia 🇦🇺 & New Zealand 🇳🇿 Release by @tolly_movies & @Hamsinien💥|date=28 December 2024|accessdate=28 December 2024}}</ref>\n\n===Home media===\nThe satellite and digital rights of the film were acquired by [[Zee Telugu]] and [[ZEE5]], respectively.<ref>{{Cite web |date=10 January 2025 |title=#SankranthikiVasthunam satellite rights acquired by #ZeeTelugu |url=https://x.com/telugutvupdts/status/1877716283988537671 |via=Twitter}}</ref><ref>{{Cite web |date=13 January 2025 |title=Sankranthiki Vasthunam locks OTT platform: Where to watch the Venkatesh starrer |url=https://www.ottplay.com/news/sankranthiki-vasthunnam-locks-ott-platform-where-to-watch-the-venkatesh-starrer/ffcce3e8c9484 |website=[[OTTplay]]}}</ref> ZEE5 acquired the film's digital streaming rights for ₹30 crore.<ref name=\"auto\" /> The film was telecast on Zee Telugu before its [[Over-the-top media service|OTT]] release on 1 March 2025.<ref>{{Cite web |date=11 February 2024 |title=Venkatesh starrer 'Sankranthiki Vasthunnam' to premiere on TV before OTT? Here's what we know |url=https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/venkatesh-starrer-sankranthiki-vasthunnam-to-premiere-on-tv-before-ott-heres-what-we-know/articleshow/118135777.cms |website=[[The Times of India]]}}</ref> It began streaming on ZEE5 from 1 March 2025.<ref>{{Cite web |title=Sankranthiki Vasthunam OTT release date: Venkatesh Daggubati's hit available for streaming; when and where to watch ? |url=https://www.livemint.com/entertainment/sankranthiki-vasthunam-ott-release-date-venkatesh-daggubatis-telugu-hit-streaming-when-where-to-watch-zee5-march-1-11740720702108.html |website=mint |date=28 February 2025 }}</ref>\n\n==Reception==\nAvad Mohammad of ''[[OTTplay]]'' gave 3.5/5 stars and wrote \"''Sankranthiki Vasthunnam'' is a perfect festival watch packed with loads of entertainment. Venkatesh leads from the front, delivering a hilarious performance. While the predictable storyline may not appeal to everyone, the family audience is sure to enjoy the film.\"<ref>{{Cite web |date=14 January 2025 |title=Sankranthiki Vasthunnam Review: A paisa vasool family drama that entertains thoroughly |url=https://www.ottplay.com/review/sankranthiki-vasthunnam-review-a-paisa-vasool-family-drama-that-entertains-thoroughly/704e3cd759913 |website=[[OTTplay]]}}</ref> T. Maruthi Acharya of ''[[India Today]]'' gave 3/5 stars and wrote \"With its mix of engaging comedy and uneven storytelling, ''Sankranthiki Vasthunnam'' is a decent outing for families seeking light-hearted entertainment.\"<ref>{{Cite web |date=14 January 2025 |title=Sankranthiki Vasthunnam review: Venkatesh, Ravipudi deliver a generic but fun film |url=https://www.indiatoday.in/movies/reviews/story/sankranthiki-vasthunnam-review-venkatesh-ravipudi-deliver-a-generic-but-fun-film-2664483-2025-01-14 |website=[[India Today]]}}</ref> B.H. Harish of ''[[Cinema Express]]'' gave 3/5 stars and wrote \"But then again, it depends on you if you want to judge this film from that lens. For everyone else who merely wants to have a few hearty laughs, ''Sankranthiki Vasthunam'' offers them in plenty.\"<ref>{{Cite web |date=14 January 2025 |title=Sankranthiki Vasthunam Movie Review: An almost overwhelming, roller-coaster of a feast! |url=https://www.cinemaexpress.com/telugu/review/2025/Jan/14/sankranthiki-vasthunam-movie-review-an-almost-overwhelming-roller-coaster-of-a-feast |website=[[Cinema Express]]}}</ref> Sashidhar Adivi of ''[[Times Now]]'' gave 2.5/5 stars and wrote \"''Sankranthiki Vasthunnam'' will often make you laugh, especially if you are a fan of out-and-out slapstick comedies. A focused script, tighter editing and impressive cinematography would have elevated the film a few notches. The muddled-up storyline and how the events pan out leave much to be desired.\"<ref>{{Cite web |date=14 January 2025 |title=Sankranthiki Vasthunam Movie Review: Venkatesh, Anil Ravipudi's Film Is Intermittently Funny |url=https://www.timesnownews.com/entertainment-news/reviews/telugu/sankranthiki-vasthunam-movie-review-venkatesh-anil-ravipudis-film-is-intermittently-funny-review-117224682/amp |website=[[Times Now]]}}</ref>\n\n==Accolades==\n{| class=\"wikitable sortable plainrowheaders\"\n|-\n! scope=\"col\"| Award{{efn|Awards, festivals and organizations are in alphabetical order.}}\n! scope=\"col\"| Date of ceremony{{efn|Date is linked to the article about the awards held that year, wherever possible.}}\n! scope=\"col\"| Category\n! scope=\"col\"| Recipient(s)\n! scope=\"col\"| Result\n! scope=\"col\" class=\"unsortable\"| {{Abbr|Ref.|Reference}}\n|-\n! scope=\"row\" rowspan=\"2\"| [[Inca Awards|Indian National Cine Academy Awards]]\n\n| rowspan=\"2\" | 2026\n| Best Director – Telugu\n| [[Anil Ravipudi]]\n| {{won}}\n| <ref>{{cite web\n |url=https://www.indiatvnews.com/entertainment/news/indian-national-cine-academy-awards-2026-full-winners-list-ranveer-singh-yami-gautam-aditya-dhar-kalyani-priyadarshan-dulquer-salmaan-rishabh-shetty-2026-04-17-1037921\n |title=Indian National Cine Academy Awards 2026: Ranveer Singh, Yami Gautam bag top honours\n |website=India TV News\n |access-date=5 July 2026\n}}</ref>\n|-\n| Best Actor in a Comedy Role\n| Revanth (Bulli Raju)\n| {{won}}\n| <ref>{{cite web\n |url=https://inca.in/winners\n |title=INCA Awards Official Winners\n |website=inca\n |access-date=5 July 2026\n}}</ref>\n|-\n! scope=\"row\"| [[International Film Festival of India]]\n\n| [[56th International Film Festival of India|2025]]\n| Indian Panorama – Feature Films\n| ''Sankranthiki Vasthunam''\n\n| {{Shortlisted|Nominated}}\n| <ref>{{cite web\n |url=https://www.pib.gov.in/PressReleasePage.aspx?PRID=2187868\n |title=Indian Panorama-2025 Official Selection and nomination for Best Debut Director of Indian Feature Film Award\n |website=Press Information Bureau\n |date=8 November 2025\n |access-date=23 November 2026\n}}</ref>\n|-\n! scope=\"row\" rowspan=\"6\"| [[South Indian International Movie Awards]]\n\n| rowspan=\"6\" | [[14th South Indian International Movie Awards|2026]]\n| Entertaining Film of the Year – Telugu\n| [[Sri Venkateswara Creations]]\n| {{won}}\n\n| rowspan=\"6\" | <ref name=\"SIIMA2026\">{{cite web\n |url=https://www.dnaindia.com/entertainment/report-siima-2026-winners-list-kantara-chapter-1-wins-best-film-rishab-shetty-naga-chaitanya-bag-top-acting-honours-3220450\n |title=SIIMA 2026 winners list: Kantara Chapter 1 wins Best Film; Rishab Shetty, Naga Chaitanya bag top acting honours\n |website=DNA India\n |date=13 September 2026\n |access-date=23 November 2026\n}}</ref>\n|-\n| Best Director – Telugu\n| Anil Ravipudi\n| {{won}}\n|-\n| Best Entertainer – Telugu\n\n| [[Venkatesh (actor)|Venkatesh]]\n| {{won}}\n|-\n| Best Actress (Critics) – Telugu\n| [[Aishwarya Rajesh]]\n| {{won}}\n|-\n| Best Actor in a Comic Role – Telugu\n| Revanth (Bulli Raju)\n| {{won}}\n|-\n| Best Male Playback Singer – Telugu\n| [[Ramana Gogula]] (for \"Godari Gattu\")\n| {{won}}\n|-\n! scope=\"row\" rowspan=\"2\"| [[Telangana Gaddar Film Awards]]\n\n| rowspan=\"2\" | 2026\n| Best Entertainment Film\n| [[Dil Raju]], Sirish, [[Anil Ravipudi]]\n| {{won}}\n| <ref name=\"TelanganaGaddarFilmAwards\">{{cite web\n |url=https://www.indiatoday.in/movies/regional-cinema/story/telangana-gaddar-film-awards-2025-winners-list-naga-chaitanya-rashmika-mandanna-2878664-2026-03-07\n |title=Telangana unveils Gaddar Film Awards 2025 winners\n |website=India Today\n |access-date=5 July 2026\n}}</ref>\n|-\n| Best Screenplay Writer\n| Anil Ravipudi\n| {{won}}\n| <ref name=\"TelanganaGaddarFilmAwards\" />\n|-\n! scope=\"row\"| Zee Telugu Apsara Awards\n| 2025\n| Best Actress\n| Aishwarya Rajesh\n| {{won}}\n| <ref>{{cite web\n |url=https://www.sakshi.com/telugu-news/movies/sankranthiki-vasthunnam-actress-aishwarya-rajesh-gets-award-2448534\n |title=సంక్రాంతి వస్తున్నాం సూపర్‌ హిట్‌.. అవార్డ్ కొట్టేసిన ఐశ్వర్య రాజేశ్!\n |website=Sakshi\n |language=te\n |date=12 May 2025\n |access-date=23 November 2026\n}}</ref>\n|}\n\n==Sequel==\nAfter the success of ''Sankranthiki Vasthunam'', Ravipudi planned a sequel named ''Malli Sankranthiki Vasthunam''.<ref>{{Cite web |date=19 January 2025 |title=Anil Ravipudi hints at Sankranthiki Vasthunam's sequel; reveals title |url=https://www.cinemaexpress.com/telugu/news/2025/Jan/19/anil-ravipudi-hints-at-sankranthiki-vasthunams-sequel-reveals-title |website=[[Cinema Express]]}}</ref> Later, at a celebration party following the film's success, Venkatesh announced that a sequel would be release in January 2027, ahead of [[Makar Sankranti|Sankranti]].<ref>{{Cite web|url=https://www.news18.com/movies/venkatesh-daggubati-confirms-sankranthiki-vasthunam-sequel-find-release-date-9222949.html|title=Venkatesh Daggubati Confirms Sankranthiki Vasthunam Sequel, Find Release Date|last=Cyril|first=Grace|work=News18|date=2025-02-11|accessdate=2026-07-11}}</ref> However, Ravipudi and Venkatesh prioritized another project titled ''[[January 12 Vidudala]]'' (2027).<ref>{{Cite web |last= |first= |date=2026-08-19 |title=Venkatesh-Anil Ravipudi film titled January 12 Vidudala |url=https://www.cinemaexpress.com/telugu/news/2026/Aug/19/venkatesh-anil-ravipudi-film-titled-january-12-vidudala |access-date=2026-11-10 |website=Cinema Express |language=en}}</ref>\n\n== Notes ==\n{{notelist}}\n\n==References==\n{{Reflist}}\n\n==External links==\n* {{IMDb title|31226981}}\n\n{{Anil Ravipudi}}\n\n[[Category:2020s police films]]\n[[Category:2025 films]]\n[[Category:2025 action comedy films]]\n[[Category:2025 Indian films]]\n[[Category:2025 Telugu-language films]]\n[[Category:2025 romantic comedy films]]\n[[Category:Films about hostage takings]]\n[[Category:Films about kidnapping in India]]\n[[Category:Films directed by Anil Ravipudi]]\n[[Category:Films scored by Bheems Ceciroleo]]\n[[Category:Indian romantic comedy films]]\n[[Category:Films shot in Hyderabad, India]]\n[[Category:Films shot in Dehradun]]\n[[Category:Films shot in Kasaragod]]\n[[Category:Films shot in Mussoorie]]\n[[Category:Indian action comedy films]]\n[[Category:Sri Venkateswara Creations films]]\n[[Category:Films set in Odisha]]\n[[Category:Films set in Rajamahendravaram]]\n[[Category:Films set in Andhra Pradesh]]\n[[Category:Films set in Telangana]]\n[[Category:Fiction about the Telangana Police]]\n[[Category:Films set in Hyderabad, India]]\n[[Category:Telugu-language action comedy films]]"
+  }
+ }
+}

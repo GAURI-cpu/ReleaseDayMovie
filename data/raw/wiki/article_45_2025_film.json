@@ -1,0 +1,142 @@
+{
+ "warnings": {
+  "main": {
+   "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+  },
+  "parse": {
+   "*": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+  }
+ },
+ "parse": {
+  "title": "45 (2025 film)",
+  "pageid": 77357818,
+  "redirects": [],
+  "sections": [
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Plot",
+    "number": "1",
+    "index": "1",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 5704,
+    "anchor": "Plot",
+    "linkAnchor": "Plot"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Cast",
+    "number": "2",
+    "index": "2",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 8111,
+    "anchor": "Cast",
+    "linkAnchor": "Cast"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Production",
+    "number": "3",
+    "index": "3",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 8770,
+    "anchor": "Production",
+    "linkAnchor": "Production"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Development",
+    "number": "3.1",
+    "index": "4",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 8787,
+    "anchor": "Development",
+    "linkAnchor": "Development"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Filming",
+    "number": "3.2",
+    "index": "5",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 9318,
+    "anchor": "Filming",
+    "linkAnchor": "Filming"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Marketing",
+    "number": "3.3",
+    "index": "6",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 11460,
+    "anchor": "Marketing",
+    "linkAnchor": "Marketing"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Music",
+    "number": "4",
+    "index": "7",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 13596,
+    "anchor": "Music",
+    "linkAnchor": "Music"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Release",
+    "number": "5",
+    "index": "8",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 14268,
+    "anchor": "Release",
+    "linkAnchor": "Release"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Reception",
+    "number": "6",
+    "index": "9",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 15742,
+    "anchor": "Reception",
+    "linkAnchor": "Reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "References",
+    "number": "7",
+    "index": "10",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 19305,
+    "anchor": "References",
+    "linkAnchor": "References"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "External links",
+    "number": "8",
+    "index": "11",
+    "fromtitle": "45_(2025_film)",
+    "byteoffset": 19335,
+    "anchor": "External_links",
+    "linkAnchor": "External_links"
+   }
+  ],
+  "showtoc": "",
+  "wikitext": {
+   "*": "{{Short description|2025 Indian Kannada film}}\n{{Use dmy dates|date=February 2025}}\n{{Use Indian English|date=February 2025}}\n{{Infobox film\n| image          = 45 (2025 film).jpg\n| caption        = Theatrical release poster\n| director       = [[Arjun Janya]]\n| writer         = Arjun Janya<br>Anil Kumar (dialogues)\n| screenplay     = \n| story          = \n| producer       = [[M. Ramesh Reddy]]\n| starring       = {{Plainlist|\n*[[Shiva Rajkumar]]\n*[[Upendra (actor)|Upendra]]\n*[[Raj B. Shetty]]\n*Kaustubha Mani\n}}\n| cinematography = [[Satya Hegde]]\n| editing        = [[K m prakash|K. M. Prakash]]\n| music          = Arjun Janya\n| studio         = Suraj Productions\n| released       = {{film date|2025|12|25|df=yes}}\n| runtime        = 144 minutes<ref>{{Cite web |date=22 December 2025 |title=''45'' (15) |url=https://www.bbfc.co.uk/release/45-q29sbgvjdglvbjpwwc0xmdq4mtkx |access-date=22 December 2025 |website=[[British Board of Film Classification]] |language=en}}</ref>\n| country        = India\n| language       = Kannada\n| gross          = ₹21 crore <ref>https://kannada.news18.com/news/entertainment/december-lucky-devil-mark-45-movies-80-crore-earnings-shutter-dvp-ws-l-2268915.html</ref>\n}}\n\n'''''45''''' is a 2025 Indian [[Kannada]]-language [[ fantasy action film]] marking the directorial debut of music composer [[Arjun Janya]].<ref>\n*{{Cite news |date=2022-07-12 |title=Shivarajkumar's next titled '45'; Akkineni Nagarjuna releases title poster |url=https://timesofindia.indiatimes.com/entertainment/telugu/movies/news/shivarajkumars-next-titled-45-akkineni-nagarjuna-releases-title-poster/articleshow/92818637.cms |access-date=2024-07-15 |newspaper=The Times of India |issn=0971-8257}}\n*{{Cite web |title=45 - Official Hindi Teaser |url=https://timesofindia.indiatimes.com/videos/entertainment/hindi/45-official-hindi-teaser/videoshow/125972954.cms |access-date=2025-12-18 |website=The Times of India |language=en}}</ref><ref>{{Cite news |title=ಫಿಲಾಸಫಿಕಲ್ ಎಂಟರ್‌ಟೇನರ್ '45' ಸಿನಿಮಾ; ಶಿವಣ್ಣ, ಉಪ್ಪಿ, ರಾಜ್ ಬಿ ಶೆಟ್ಟಿಗೆ ಅರ್ಜುನ್ ಜನ್ಯ ಡೈರೆಕ್ಷನ್ |url=https://vijaykarnataka.com/entertainment/news/dr-shiva-rajkumar-arjun-janya-raj-b-shetty-45-movie-pressmeet/articleshow/99844415.cms |archive-url=https://web.archive.org/web/20240715053422/https://vijaykarnataka.com/entertainment/news/dr-shiva-rajkumar-arjun-janya-raj-b-shetty-45-movie-pressmeet/articleshow/99844415.cms |archive-date=2024-07-15 |access-date=2025-12-18 |work=Vijay Karnataka |language=kn}}</ref> Produced by [[M. Ramesh Reddy]] under the Suraj Productions banner, the film features an [[ensemble cast]] including [[Shiva Rajkumar]], [[Upendra (actor)|Upendra]], [[Raj B. Shetty]], and Kaustubha Mani. <ref>{{Cite web |last=Sharadhaa |first=A. |date=2022-07-11 |title=Shivarajkumar and Arjun Janya's film titled '45', says source |url=https://www.newindianexpress.com/entertainment/kannada/2022/Jul/11/shivarajkumar-and-arjun-janyas-film-titled-45-says-source-2475063.html |access-date=2024-07-15 |website=The New Indian Express |language=en |archive-date=2024-07-15 |archive-url=https://web.archive.org/web/20240715053421/https://www.newindianexpress.com/entertainment/kannada/2022/Jul/11/shivarajkumar-and-arjun-janyas-film-titled-45-says-source-2475063.html |url-status=live }}</ref> Besides direction and music, Janya has co-written the film alongside Anil Kumar (dialogues). Cinematography is handled by [[Satya Hegde]], with editing by [[K m prakash|K. M. Prakash]].<ref>{{Cite news |last= |first= |date=2023-04-27 |title=Arjun Janya’s directorial debut ‘45’, starring Shivarajkumar, Upendra, and Raj B Shetty, goes on floors |url=https://www.thehindu.com/entertainment/movies/arjun-janyas-directorial-debut-45-starring-shivarajkumar-upendra-and-raj-b-shetty-goes-on-floors/article66785420.ece |archive-url=https://web.archive.org/web/20230427175637/https://www.thehindu.com/entertainment/movies/arjun-janyas-directorial-debut-45-starring-shivarajkumar-upendra-and-raj-b-shetty-goes-on-floors/article66785420.ece |url-status=live |archive-date=27 April 2023 |access-date=2025-12-23 |work=The Hindu |language=en-IN |url-access=limited|issn=0971-751X}}</ref> \n\nFilming took place over approximately 80 days, primarily in [[Bengaluru]] and [[Mysore]]. The production is noted for its extensive use of visual effects with CGI works done by [[Canada]] based MARZ Studio.<ref>{{cite web|url=https://www.newindianexpress.com/entertainment/kannada/2024/Dec/07/arjun-janyas-45-partners-with-marz-for-cg-work|title=Arjun Janya’s '45' partners with MARZ for CG work|work=The New Indian Express|date=7 December 2024}}</ref> The official trailer premiered on 16 December 2025 during a high‑profile launch at Kempegowda Ground in Bengaluru.<ref>{{cite web|url=https://www.cinemaexpress.com/kannada/news/2025/Dec/16/45-trailer-reveals-a-moral-world-where-every-action-is-counted|title=45 trailer reveals a moral world where every action is counted|work=Cinema Express|date=16 December 2025}}</ref> On 25 December 2025, it was theatrically released, and received mixed-to-positive reviews from critics.<ref>{{Cite web |last=ಡೆಸ್ಕ್‌ |first=ಪ್ರಜಾವಾಣಿ ವೆಬ್‌ |title=ಕೆನಡಾದಲ್ಲಿ ‘45’ ಟಿಕೆಟ್‌ ಸೋಲ್ಡ್ ಔಟ್: ಎರಡು ದಿನಗಳ ಮೊದಲೇ ಚಿತ್ರ ಬಿಡುಗಡೆ |url=https://www.prajavani.net/entertainment/cinema/forty-five-movie-canada-tickets-sold-out-early-release-3686688 |access-date=2025-12-18 |website=Prajavani |language=kn}}</ref><ref name=\":0\">{{Cite web |last= |first= |date=2025-08-23 |title=Pan-India film 45 set for grand Christmas release |url=https://www.newindianexpress.com/entertainment/kannada/2025/Aug/23/kannadanews2025aug21pan-india-film-45-set-for-grand-christmas-release |access-date=2025-12-23 |website=The New Indian Express |language=en}}</ref>\n\n== Plot ==\nVinay (Raj B. Shetty) is a carefree software engineer living a content, middle-class life with his loving mother and girlfriend Meghana (Kaustubha Mani). One day, he rides his two-wheeler without a helmet while talking on his phone and accidentally runs over a black dog named Rosie, owned by local don Rayappa (Upendra).<ref>{{cite web|url=https://bangaloremirror.indiatimes.com/entertainment/reviews/kannada-movie-review45-exploring-fear-faith-and-redemption-in-45/articleshow/126163538.cms|title=Kannada Movie Review–45: Exploring fear, faith and redemption in 45|work=Bangalore Mirror|date=25 December 2025}}</ref>\n\nRayappa, grief-stricken and enraged, confronts Vinay and condemns him for killing Rosie who he considered a mother figure. Instead of executing him immediately, Rayappa gives Vinay 45 days to reflect on his actions and relive life, invoking a concept from the [[Garuda Purana]] about the soul’s journey. Frightened and desperate, Vinay seeks refuge. His girlfriend Meghana approaches Muthu, another gangster, for protection. During this turmoil, Vinay meets Shivanna (Shiva Rajkumar), a humble and philanthropic figure who owns a residential colony called Kasturi Nivasa. Meanwhile, Vinay begins experiencing a vivid dream: he watches himself die in a road accident and then sees a sequence of events that eerily come true, including the fatal encounter with the dog. His growing awareness of these supernatural patterns deepens his fear and sense of impending doom. \n\nShivanna plays mentor and protector, guiding Vinay spiritually and practically as he tries to avoid Rayappa’s wrath. Rayappa is later revealed to symbolize [[Yama|Yamaraja]] (the Hindu god of death), pursuing Vinay to settle karmic scores. As the 45-day deadline ticks down, Vinay confronts his remorse, reconciles with his past mistakes, and struggles to outwit Rayappa. Shivanna, whose character unfolds more deeply, becomes Vinay’s shield and spiritual guide. Their bond strengthens as they navigate moral, emotional, and metaphysical challenges. \n\nIn the gripping climax, Vinay must face Rayappa in an ultimate confrontation. He draws upon the lessons he has learned to seek redemption, overcome fear, and defy his fate. Shivanna stands with him as they confront cosmic justice, culminating in a resolution that fuses philosophy with action, life with death, and the consequences of one man’s choices.\n\n== Cast ==\n{{cast listing|\n* [[Shiva Rajkumar]] as Shivanna\n* [[Upendra (actor)|Upendra]] as Rayappa\n* [[Raj B. Shetty]] as Vinay\n* [[Rajendran]] as Muthu\n* Kaustubha Mani as Meghana\n* [[Jisshu Sengupta]]\n* [[Pooja Ramachandran]]\n* [[Sudha Rani]] as Sudha (special appearance)\n* [[Vijayalakshmi Singh]]\n* [[Pramod Shetty]] as Altaf Bhai\n* Manasi Sudheer\n* Ramesh Pandit\n* Arasu\n* Jafar Sadiq\n* Mimicry Gopi\n* Manju Pavagada\n* Surya Praveen\n* Nanda Kishore\n* Malya Bagalakote\n* Priya Savadi\n* Jeethu Santhosh\n* Aadi Madhugiri\n* Shiva Balaji\n* Ghanashyam Sankla\n* Imran\n* Rana Gowda\n* Ranjith\n* Thrivedi Nag\n* Janardhan\n* Baby Lekhana\n* Master Arya Swaroop\n}}\n\n== Production ==\n=== Development ===\nIn July 2022, the film was announced, marking Arjun Janya's directorial debut following a successful career as a music composer. The project was conceived as an entertainer with philosophical themes and significant use of visual effects.<ref>{{Cite web |last= |first= |date=2025-12-16 |title=Fear, Devotion in 45 Felt Like Debut Film: Shiva Rajkumar |url=https://www.deccanchronicle.com/entertainment/shiva-rajkumars-45-trailer-out-now-1924226 |access-date=2025-12-18 |website=www.deccanchronicle.com }}</ref>\n\n=== Filming ===\nOver 80 days, [[principal photography]] took place in [[Bangalore]] and [[Mysuru]]. The film's cinematography was handled by [[Satya Hegde]], editing by K. M. Prakash, art direction by Mohan Pandith,<ref>{{Cite web |last=Sharadhaa |first=A. |date=2023-04-28 |title=45 will be a thought-provoking entertainer: Shivarajkumar |url=https://www.cinemaexpress.com/kannada/news/2023/Apr/28/45-will-be-a-thought-provoking-entertainer-shivarajkumar-42821.html |access-date=2024-07-15 |website=Cinema Express |language=en |archive-date=2024-07-15 |archive-url=https://web.archive.org/web/20240715053421/https://www.cinemaexpress.com/kannada/news/2023/Apr/28/45-will-be-a-thought-provoking-entertainer-shivarajkumar-42821.html |url-status=live }}</ref> stunt were coordinated by Dr. K. Ravivarma, Jolly Bastian, Different Danny, and Chethan D’Souza; while dance sequences were choreographed by [[Chinni Prakash]] and B. Dhananjay.<ref>{{Cite web |last=Sistu |first=Suhas |date=2025-12-16 |title=Karunada Chakravarthy Shiva Rajkumar, Real Star Upendra, Versatile Star Raj B Shetty’s ‘45: The Movie’ Crazy Trailer Unveiled |url=https://www.thehansindia.com/cinema/karunada-chakravarthy-shiva-rajkumar-real-star-upendra-versatile-star-raj-b-shettys-45-the-movie-crazy-trailer-unveiled-1031588 |access-date=2025-12-18 |website=www.thehansindia.com |language=en}}</ref>\n\nOver 40% of the film features visual effects, handled by Monsters Aliens Robots Zombies (MARZ) Studio, a Canadian company known for Hollywood-grade VFX. This marks MARZ’s first collaboration with a Kannada film.<ref>{{Cite web |last=Sharadhaa |first=A. |date=2025-08-21 |title=Pan-India film 45 set for grand Christmas release |url=https://www.cinemaexpress.com/kannada/news/2025/Aug/21/pan-india-film-45-set-for-grand-christmas-release |access-date=2025-12-18 |website=Cinema Express |language=en}}</ref><ref>{{Cite web |last= |first= |last2= |last3= |first3= |title=VFX delay for 45 |url=https://bangaloremirror.indiatimes.com/entertainment/south-masala/vfx-delay-for-45/articleshow/123414921.cms |access-date=2025-12-18 |website=Bangalore Mirror |language=en}}</ref>\n\n=== Marketing ===\nIn January 2025, the first motion poster was unveiled.<ref>{{Cite news |title=Kannada actors Shiva Rajkumar, Upendra, Raj B Shetty's 45 to release in August |url=https://www.indiatoday.in/movies/regional-cinema/story/shiva-rajkumar-upendra-raj-b-shetty-45-to-release-in-august-2665122-2025-01-15 |access-date=15 January 2025 |website=[[India Today]] |language=en}}</ref><ref>{{Cite web |title=Kannada Film '45': Trailer Launched with Shivarajkumar |url=https://www.deccanherald.com/india/karnataka/trailer-of-kannada-film-45-launched-3833377 |access-date=2025-12-18 |website=Deccan Herald |language=en}}</ref> Promotional material highlighted the film’s scale, VFX quality, and ensemble cast. The makers positioned it for a nationwide release in Kannada, Telugu, Tamil, Malayalam, and Hindi; distribution was handled by [[Mythri Movie Makers]].<ref>{{Cite web |title=Arjun Janya's '45 The Movie,' Starring Shivarajkumar, Upendra And Raj B. Shetty, Set To Release This Independence Day |url=https://www.timesnownews.com/entertainment-news/kannada/arjun-janya-s-45-the-movie-starring-shivarajkumar-upendra-and-raj-b-shetty-set-to-release-this-independence-day-article-117239619|access-date=2025-01-14 |website=TimesNow News|date=14 January 2025 |language=en}}</ref>\n\nOn 16 December 2025, the official trailer launch at Kempegowda Ground in Bengaluru, [[Hubballi]], [[Mysuru]], [[Tumakuru]], and [[Udupi]]. It garnered attention for Shiva Rajkumar's woman avatar.<ref>{{Cite web |title=45 Movie Trailer Release: ಚೆಲುವೆಯ ನೋಟ ಚೆನ್ನ..ಸಿನಿಮಾ ನೋಡಲೇಬೇಕು ಎಂದು ಸೈಕ್‌ ಮಾಡಿದ ಕಾರಣಗಳಿವು! |url=https://kannada.asianetnews.com/gallery/sandalwood/actor-shiva-rajkumar-upendra-look-in-arjun-janya-45-kannada-movie-trailer-9ggonk6 |access-date=2025-12-18 |website=Asianet Suvarna News |language=kn}}</ref><ref>{{Cite web |title='45' Trailer: Shiva Rajkumar, Upendra, and Raj B Shetty In A Moralistic Action Drama |url=https://www.hollywoodreporterindia.com/features/insight/45-trailer-shiva-rajkumar-upendra-and-raj-b-shetty-in-a-moralistic-action-drama |access-date=2025-12-18 |website=The Hollywood Reporter India |language=en}}</ref>\n\n== Music ==\n[[Arjun Janya]] has composed the soundtrack and background score for the film. The soundtrack consists of three songs and three instrumental theme music. \n\n{{Tracklist\n| headline      = Kannada track listing\n| total_length  = \n| extra_column  = Singer(s)\n| title1        = Afro Tapaang\n| extra1        = MC Bijju, Nishan Rai \n| length1       = 3:21\n| lyrics1       = MC Bijju\n| title2        = Shivam Shivam Sanaatanam\n| extra2        = [[Vijay Prakash]]\n| length2       = 4:08\n| lyrics2       = [[V. Nagendra Prasad]]\n| title3        = 45 The Arrival\n| extra3        = Rahul Dit-O, Roousic, Nishan Rai\n| length3       = 2:39\n| lyrics3       = Rahul Dit-O\n}}\n\n== Release ==\n''45'' was theatrically released on 25 December 2025, coinciding with [[Christmas]].<ref name=\":0\"/> Initially, the film was scheduled release on 15 August 2025, coinciding with [[Independence Day (India)|India Independence Day]], but it was postponed due to unfinished production work.<ref>{{Cite news |last=Bharath Anjanappa |date= 20 August 2025 |title=VFX Delays Release of Pan-India Kannada Film \"45\"  |url=https://www.thehansindia.com/cinema/vfx-delays-release-of-pan-india-kannada-film-45-998673 |access-date=21 August 2025 |work=[[The Hans India]] |language=en}}</ref> \n\nThe satellite and digital streaming rights for the movie were acquired by [[Zee Entertainment Enterprises|Zee Network]].<ref>\n*{{Cite web |last=Sharadhaa |first=A. |date=2025-12-16 |title=45 locks satellite and digital rights in record-breaking deal |url=https://www.cinemaexpress.com/kannada/news/2025/Dec/16/45-locks-satellite-and-digital-rights-in-record-breaking-deal |access-date=2025-12-18 |website=Cinema Express |language=en}}\n*{{Cite news |date=2025-12-14 |title=45 OTT release: Where to watch Shivarajkumar, Upendra and Raj B Shetty's Kannada upcoming movie after its theatrical run? |url=https://economictimes.indiatimes.com/magazines/panache/45-ott-release-where-to-watch-shivarajkumar-upendra-and-raj-b-shettys-kannada-upcoming-movie-after-its-theatrical-run/articleshow/125956809.cms?from=mdr |access-date=2025-12-18 |work=The Economic Times |issn=0013-0389}}</ref>\n\n== Reception ==\nSanjay Ponnappa of [[India Today]] gave 3/5 stars and wrote \"45 is a concept-driven multi-starrer that warrants a theatrical watch – for its ambition, its ideas, and for the coming together of Shiva Rajkumar, Upendra, and Raj B Shetty.\"<ref>{{Cite web |last=Ponnappa |first=Sanjay |date=2025-12-24 |title=45 review: An entertaining blend between metaphysical and physical worlds |url=https://www.indiatoday.in/movies/reviews/story/45-review-garuda-purana-inspired-45-film-arjun-janya-shiva-rajkumar-upendra-raj-b-shetty-2840803-2025-12-24 |access-date=2025-12-24 |website=India Today |language=en}}</ref> Prathibha Joy of [[OTT Play]] gave 2.5/5 stars and wrote \"A film – good or bad – has to evoke some emotion. Despite a lighter vein treatment to a heavy subject, there was a numbness that enveloped, a feeling that, in today’s jargon, is best described as ‘meh’. It’s not a rousing spectacle, neither is it underwhelming, but it’s also not one of those that leaves one wanting for more. That said, if the subject of 45 is a topic of interest, it would make for an interesting one-time watch. For me, this one didn’t quite cut it.\"<ref>{{Cite web |title=45 movie review: Shivarajkumar, Upendra, Raj B Shetty make merry in preachy tale |url=https://www.ottplay.com/review/45-movie-review-shivarajkumar-upendra-and-raj-b-shetty-make-merry-in-preachy-tale-of-life-and-death/f8e416f9b8840 |access-date=2025-12-24 |website=OTTPlay |language=en}}</ref> \n\nPranati S of [[Deccan Herald]] wrote \"‘45’ is billed as a visually rich film with VFX ‘amplified by an Oscar-winning team from Hollywood’. Unfortunately, the visual effects are underwhelming, and, in several places, outright shabby. The background score is excessively loud for most of the runtime, and the songs are just passable.\"<ref>{{Cite web |title=‘45’ Movie Review: Big Stars, Weak Storytelling |url=https://www.deccanherald.com/entertainment/45-movie-review-intriguing-premise-shaky-narrative-in-arjun-janyas-ambitious-multistarrer-3841863 |access-date=2025-12-24 |website=Deccan Herald |language=en}}</ref> Vivek MV of [[The Hindu]] wrote \"While Arjun Janya’s ‘45’ dives into themes about life and death through a modern lens, it gets lost in its own complexity, leaving its lead actors Shivarajkumar, Upendra and Raj B Shetty to save the ambitious movie.\"<ref>{{Cite news |last=M.V |first=Vivek |date=2025-12-25 |title=‘45’ movie review: Star power salvages Arjun Janya’s uneven magnum opus |url=https://www.thehindu.com/entertainment/movies/45-movie-review-shivarajkumar-upendra-raj-b-shetty-arjun-janya-45-kannada-movie-star-power-salvages-uneven-movie/article70435076.ece |archive-url=https://web.archive.org/web/20251225051442/https://www.thehindu.com/entertainment/movies/45-movie-review-shivarajkumar-upendra-raj-b-shetty-arjun-janya-45-kannada-movie-star-power-salvages-uneven-movie/article70435076.ece |url-status=live |archive-date=25 December 2025 |access-date=2025-12-25 |work=The Hindu |language=en-IN |url-access=limited |issn=0971-751X}}</ref> A Shraddha of [[The New Indian Express]] wrote \"45 is clearly a fantasy, and yet, it examines human mortality and the soul's journey.\"<ref>{{Cite web |last=Sharadhaa |first=A. |date=2025-12-25 |title=45 Movie Review: An intense meditation on karma, devotion, and life’s fragility |url=https://www.newindianexpress.com/entertainment/review/2025/Dec/25/kannadareview2025dec2445-movie-review-an-intense-meditation-on-karma-devotion-and-lifes-fragility |access-date=2025-12-25 |website=The New Indian Express |language=en}}</ref>\n\n== References ==\n{{Reflist}}\n\n== External links ==\n* {{IMDb title}}\n\n[[Category:2025 films]]\n[[Category:2025 directorial debut films]]\n[[Category:Films shot in Bengaluru]]\n[[Category:Films shot in Mysore]]\n[[Category:Indian action films]]\n[[Category:Films scored by Arjun Janya]]\n[[Category:Indian science fiction action films]]\n[[Category:Indian action adventure films]]\n[[Category:Fiction about brain–computer interface]]\n[[Category:Indian science fiction adventure films]]\n[[Category:Science fiction musical films]]\n[[Category:2025 action films]]\n[[Category:2025 Kannada-language films]]\n[[Category:2025 Indian films]]"
+  }
+ }
+}

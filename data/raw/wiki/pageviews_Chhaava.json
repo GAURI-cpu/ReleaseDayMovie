@@ -1,0 +1,4369 @@
+{
+ "items": [
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2705
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3181
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3261
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3256
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3240
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3814
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3415
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2945
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024110900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4515
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4907
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3776
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3551
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5449
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3698
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3402
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3341
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3641
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3496
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024111900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2997
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3290
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2785
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2885
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2539
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2654
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2767
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3022
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3391
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4374
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024112900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3617
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3601
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3845
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3922
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4073
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4050
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5691
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6442
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6454
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6523
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6743
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5318
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4620
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4351
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3730
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3956
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3897
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3345
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3695
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3136
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2903
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2875
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3042
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3287
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2819
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3068
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3193
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3048
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2950
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3282
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3324
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3002
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2024123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3001
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3348
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3970
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3741
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3724
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4223
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3655
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3211
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2996
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2900
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2957
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3285
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3386
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2894
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2787
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2901
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5301
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5629
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4144
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4035
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9115
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16528
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 59667
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 69724
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 42617
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33184
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 29737
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25254
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17834
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14602
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13643
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15484
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16684
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14920
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12996
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15553
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17497
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17304
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 17687
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18411
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21268
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23367
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25927
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 27335
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50595
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 231225
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 365909
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 413641
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 409516
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 398228
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 364197
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 293562
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 279447
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 278858
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 250956
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 216611
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 199372
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 196131
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 173558
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 154238
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 157244
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 149531
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 127655
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 106422
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 105138
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 101009
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 102882
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 116651
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025030900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 99512
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 80849
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 82925
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 74162
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 65709
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 66649
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 73153
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 71395
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 63806
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 64954
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025031900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 59447
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 54413
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 49078
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 46710
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43169
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 39732
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 36092
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 32535
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 30279
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28355
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025032900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 29396
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025033000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 31182
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025033100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 33368
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 28768
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 25283
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 22857
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23159
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23895
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23892
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 21432
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19755
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025040900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 19152
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 23211
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 50362
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 78901
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 85715
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 55188
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 43412
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37423
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34953
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 39847
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025041900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 37216
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 34203
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26312
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 20388
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16644
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14835
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14769
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18101
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 18628
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14499
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025042900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12291
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025043000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11175
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11948
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10863
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13466
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 15162
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10393
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9012
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7870
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7421
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025050900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7712
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9264
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9827
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8045
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7239
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8286
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7293
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7406
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8738
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8835
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025051900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6854
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6211
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5998
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6123
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6742
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8085
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9036
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7998
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6429
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6132
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025052900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6143
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025053000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6094
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025053100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7694
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7856
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5839
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5011
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4643
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4709
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5353
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6657
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6998
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025060900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5526
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5171
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5042
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4797
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4537
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5143
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5902
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4748
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4729
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4549
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025061900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4644
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5068
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6033
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6379
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4976
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5005
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4992
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5044
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5056
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5487
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025062900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6064
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025063000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4751
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4741
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4424
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4532
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4626
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4816
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5730
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5287
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4988
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025070900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5310
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5033
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4853
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5091
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5344
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4596
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4346
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4177
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4524
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4929
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025071900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5817
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6902
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7158
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6707
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6619
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8434
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9610
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10776
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12758
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10875
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025072900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10138
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025073000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9367
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025073100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8279
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7935
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8176
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8694
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7129
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7030
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7052
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5955
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6036
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025080900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6710
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7304
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6068
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6249
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6564
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6187
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8134
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8580
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 26839
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11504
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025081900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8833
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7238
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6550
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6441
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7045
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10779
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6516
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5742
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5684
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5139
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025082900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6087
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025083000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7966
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025083100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6056
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5072
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4675
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4489
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4308
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4259
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4761
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6380
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3930
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025090900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3693
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3444
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3500
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4451
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5588
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6703
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4639
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4305
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3963
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3755
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025091900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3917
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4468
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4814
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4648
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4103
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3614
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3384
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3892
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4577
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4234
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025092900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3492
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025093000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3737
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3648
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3987
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5042
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5259
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5753
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5629
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5864
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6204
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025100900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5267
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5636
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5849
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7896
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7367
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7496
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6627
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5625
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6490
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6368
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025101900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6052
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6532
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6845
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7654
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7553
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8772
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7462
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6990
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6533
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6108
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025102900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4561
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025103000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4113
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025103100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3834
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4577
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4094
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3450
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3147
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3933
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3318
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3749
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4076
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025110900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4498
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3216
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2898
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2840
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2979
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2644
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3572
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3233
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2916
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3049
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025111900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2929
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2926
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2903
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2800
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3039
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2637
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2410
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2536
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2549
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2752
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025112900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2936
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025113000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2791
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2583
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3261
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2651
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2595
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3542
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5476
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8948
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10693
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025120900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12092
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14550
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14400
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14587
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16151
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 16432
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 14700
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 13576
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12716
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12165
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025121900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11379
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12059
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 12849
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 11305
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9821
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9673
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9263
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 9446
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8228
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8466
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025122900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 8363
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025123000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6991
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2025123100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6126
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5817
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 6201
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7690
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7627
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5649
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5239
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4544
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4112
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026010900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3779
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4218
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4024
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3285
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3204
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2910
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3038
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4529
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10310
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 10321
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026011900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 7291
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 5607
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4400
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3666
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2990
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3083
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3159
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2999
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2598
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2247
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026012900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2455
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026013000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2853
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026013100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3529
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4299
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3366
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3288
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2992
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2715
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2944
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2891
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3156
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026020900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3126
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2478
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1994
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1815
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 1945
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2651
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2825
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2171
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2057
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2443
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026021900",
+   "access": "all-access",
+   "agent": "user",
+   "views": 4705
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022000",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2928
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022100",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2888
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022200",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2931
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022300",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2741
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022400",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2314
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022500",
+   "access": "all-access",
+   "agent": "user",
+   "views": 2130
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022600",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3361
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022700",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3724
+  },
+  {
+   "project": "en.wikipedia",
+   "article": "Chhaava",
+   "granularity": "daily",
+   "timestamp": "2026022800",
+   "access": "all-access",
+   "agent": "user",
+   "views": 3268
+  }
+ ]
+}

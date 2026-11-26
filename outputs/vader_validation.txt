@@ -1,0 +1,10 @@
+We tested VADER on 5,000 IMDb reviews where we already know if the review is positive or negative.
+Accuracy: 69.8%
+
+Table of right and wrong answers:
+VADER    neg   pos
+actual            
+neg     1377  1154
+pos      354  2115
+
+Main mistake: some negative reviews got a positive score, because of jokes or happy words in the story.

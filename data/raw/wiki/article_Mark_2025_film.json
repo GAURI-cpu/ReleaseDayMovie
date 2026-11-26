@@ -1,0 +1,131 @@
+{
+ "warnings": {
+  "main": {
+   "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+  },
+  "parse": {
+   "*": "\"prop=sections\" has been deprecated. Please use \"prop=tocdata\" instead."
+  }
+ },
+ "parse": {
+  "title": "Mark (2025 film)",
+  "pageid": 81711507,
+  "redirects": [],
+  "sections": [
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Plot",
+    "number": "1",
+    "index": "1",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 3797,
+    "anchor": "Plot",
+    "linkAnchor": "Plot"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Cast",
+    "number": "2",
+    "index": "2",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 5309,
+    "anchor": "Cast",
+    "linkAnchor": "Cast"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Production",
+    "number": "3",
+    "index": "3",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 6045,
+    "anchor": "Production",
+    "linkAnchor": "Production"
+   },
+   {
+    "toclevel": 2,
+    "level": "3",
+    "line": "Filming",
+    "number": "3.1",
+    "index": "4",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 8528,
+    "anchor": "Filming",
+    "linkAnchor": "Filming"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Music",
+    "number": "4",
+    "index": "5",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 8823,
+    "anchor": "Music",
+    "linkAnchor": "Music"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Marketing",
+    "number": "5",
+    "index": "6",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 10775,
+    "anchor": "Marketing",
+    "linkAnchor": "Marketing"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Release",
+    "number": "6",
+    "index": "7",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 11368,
+    "anchor": "Release",
+    "linkAnchor": "Release"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "Reception",
+    "number": "7",
+    "index": "8",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 11537,
+    "anchor": "Reception",
+    "linkAnchor": "Reception"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "References",
+    "number": "8",
+    "index": "9",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 15022,
+    "anchor": "References",
+    "linkAnchor": "References"
+   },
+   {
+    "toclevel": 1,
+    "level": "2",
+    "line": "External links",
+    "number": "9",
+    "index": "10",
+    "fromtitle": "Mark_(2025_film)",
+    "byteoffset": 15052,
+    "anchor": "External_links",
+    "linkAnchor": "External_links"
+   }
+  ],
+  "showtoc": "",
+  "wikitext": {
+   "*": "{{Use dmy dates|date=March 2026}}\n{{Infobox film\n| name           = Mark\n| image          = Mark (2025 film).jpg\n| caption        = Theatrical release poster\n| director       = Vijay Karthikeyaa\n| producer       = {{Plainlist|\n* [[T. G. Thyagarajan]] (presenter)\n* [[Sudeepa]]\n* Sendhil Thyagarajan\n* Arjun Thyagarajan\n}}\n| writer         = Vijay Karthikeyaa\n| starring       = {{ubl|Sudeepa|[[Shine Tom Chacko]]|[[Naveen Chandra]]|[[Vikranth]]|[[Yogi Babu]]}}\n| music          = [[B. Ajaneesh Loknath]]\n| cinematography = Shekar Chandra\n| editing        = S. R. Ganesh Babu\n| studio         = [[Sathya Jyothi Films]]<br>Kichcha Creations\n| released       = {{Film date|2025|12|25|df=y}}\n| country        = India\n| language       = [[Kannada]]\n| budget         = <!--Must be attributed to a reliable published source with an established reputation for fact-checking. No blogs, no IMDb.-->\n| gross          = ₹51.30 crore<ref>{{Cite web |date=2026-01-09 |title=ʻಮಾರ್ಕ್ʼ ಬಾಕ್ಸ್‌ ಆಫೀಸ್‌ ಕಲೆಕ್ಷನ್; 2 ವಾರಕ್ಕೆ ‌ʻಕಿಚ್ಚʼ ಸುದೀಪ್‌ ಸಿನಿಮಾ ಗಳಿಸಿದ್ದು ಎಷ್ಟು ಕೋಟಿ ಗೊತ್ತಾ?|url=https://vishwavani.news/movies/kiccha-sudeep-starrer-mark-movie-crosses-50-crore-rs-in-box-office-66058.html|access-date=2026-01-09 |website=[[Vishwavani News]]|language=kn}}</ref><!--Must be attributed to a reliable published source with an established reputation for fact-checking. No blogs, no IMDb.-->\n}}\n\n'''''Mark''''' is a 2025 Indian [[Kannada language|Kannada]]-language [[action thriller]] film directed and written by Vijay Kartikeyaa and produced jointly by [[Sathya Jyothi Films]] and [[Sudeepa|Kichcha Creations]].<ref name=\"toi-teaser\">{{cite web |date=9 November 2025 |title=Kichcha Sudeep returns with 'Mark' |url=https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kichcha-sudeep-returns-with-mark-a-power-packed-teaser-promises-an-explosive-christmas-release/articleshow/125181956.cms |url-status=live |archive-url=https://web.archive.org/web/20251119145232/https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kichcha-sudeep-returns-with-mark-a-power-packed-teaser-promises-an-explosive-christmas-release/articleshow/125181956.cms |archive-date=19 November 2025 |access-date=28 November 2025 |work=The Times of India}}</ref><ref name=\"zoom\">{{cite web |date=10 November 2025 |title=Title and release details for 'Mark' confirmed |url=https://www.zoomtventertainment.com/south/kiccha-sudeep-mark-movie-title-release-2025-article-152604968 |url-status=live |archive-url=https://web.archive.org/web/20251219050521/https://www.zoomtventertainment.com/south/kiccha-sudeep-mark-movie-title-release-2025-article-152604968 |archive-date=19 December 2025 |access-date=28 November 2025 |publisher=Zoom TV}}</ref> The film's [[ensemble cast]] include [[Kiccha Sudeep|Sudeepa]], marking his second collaboration with Vijay following their 2024 film ''[[Max (2024 film)|Max]]'', along with [[Naveen Chandra]], [[Shine Tom Chacko]], [[Vikranth]],  [[Roshni Prakash]], [[Guru Somasundaram]], [[Yogi Babu]], Deepshika, Dragon Manju, [[Gopalkrishna Deshpande]] and [[Nishvika Naidu]].\n\nPrincipal photography commenced in early July 2025 and concluded in approximately 110 days, with key locations including Bengaluru's [[Kanakapura Road]], [[Pondicherry]], [[Thoothukudi]] and several sets across [[Karnataka]]. Post-production—including visual effects, background score, and dubbing—was completed by mid-November 2025 with the film's official trailer unveiling on 7 December 2025.\n\nThe film had a \"pan-Indian\" theatrical release on 25 December 2025 to capitalize on the [[Christmas]] season. It was simultaneously released in Kannada alongside a partially reshot [[Tamil language|Tamil]] version and dubbed versions in [[Telugu language|Telugu]], [[Malayalam language|Malayalam]], and [[Hindi]].\n\n== Plot ==\nAjay Mark, is a suspended Superintendent of Police in Mangaluru, sidelined after a clash with a corrupt politician. His life takes a dramatic turn when a series of violent incidents unfold across Karnataka. A brutal mass murder in Kolhapur introduces Bhadra, a gangster whose rage stems from his brother's elopement. Meanwhile, Mark rescues a group of policemen from rowdies in Mangaluru, pulling him back into active duty.\n\nThe investigation deepens when Mark's mother is stabbed, and Archana, their caretaker's child, is abducted. He discovers a large-scale child kidnapping racket, with nearly twenty children missing. As Mark races against time, a political conspiracy surfaces when the Chief Minister is murdered in a hospital by her son Adikeshav, who kills her to seize power. The nexus between the drug mafia, child trafficking, and political ambition becomes clear.\n\nMark faces betrayal within his own ranks while battling Bhadra's gang and rescuing the abducted children. In a high-octane climax, he exposes Adikeshav and dismantles the criminal cartel, restoring law and clearing his name. The narrative unfolds over a tight 36-hour window, blending intense action, emotional stakes, and political intrigue.<ref name=\"toi-teaser\" /><ref name=\"news18\">{{cite web |date=6 November 2025 |title=Kichcha Sudeep's 'Mark' title announcement reported |url=https://www.news18.com/movies/kichcha-sudeep-mark-title-announcement-9075213.html |access-date=28 November 2025 |work=News18 Kannada}}</ref>\n\n== Cast ==\n{{cast listing|\n* [[Sudeepa]] as SP Ajay Markandeya IPS\n* [[Shine Tom Chacko]] as Aadhikeshava\n* [[Naveen Chandra]] as Bhadhra\n* [[Vikranth]] as Rudhra\n* [[Yogi Babu]] as Solomon\n* [[Guru Somasundaram]] as Stephen Nedumpally Raaj \n* [[Roshni Prakash]] as Sanjana \n* Deepshika as Maayaa\n* [[Gopalkrishna Deshpande]] as Ranghayya\n* [[Dev Gill]] as Devaraj\n* [[Archana Kottige]] as Sharanya\n* Neenasam Ashwath as SI Suri\n* Prathap Narayan as Naren\n* Abishek Joseph George as Nair\n* Dragon Manju as Stephen Raj's henchwoman\n* Sathya S K as Sundar\n* Mahantesh Hiremath\n* [[G. M. Kumar]] as Bhadra, Rudhra father \n* [[Aruldoss]] as Murali\n* [[Subbu Panchu]] as Ashoka, Bhadra's uncle\n* [[Nishvika Naidu]] in a cameo appearance\n}}\n\n== Production ==\n\nThe project was publicly announced in 2025. Initial reports referred to the film under a working title before the official title ''Mark'' was revealed. The title reveal was widely covered by regional and national entertainment media, many of which published details about its planned release and production background.<ref name=\"indiatv\">{{cite web |date=2 September 2025 |title=Kiccha Sudeep's K47 titled 'Mark' |url=https://www.indiatvnews.com/entertainment/regional-cinema/kiccha-sudeep-s-k47-titled-mark-2025-09-02-1006243 |url-status=live |archive-url=https://web.archive.org/web/20251001122248/https://www.indiatvnews.com/entertainment/regional-cinema/kiccha-sudeep-s-k47-titled-mark-2025-09-02-1006243 |archive-date=1 October 2025 |access-date=28 November 2025 |work=India TV News}}</ref><ref name=\"publictv\">{{cite web |date=5 November 2025 |title=Public TV reports teaser release of 'Mark' |url=https://publictv.in/kichcha-sudeep-starring-mark-teaser-released/ |url-status=live |archive-url=https://web.archive.org/web/20251221110806/https://publictv.in/kichcha-sudeep-starring-mark-teaser-released/ |archive-date=21 December 2025 |access-date=28 November 2025 |work=Public TV Kannada}}</ref>\n\nShekar Chandra as cinematographer and S. R. Ganesh Babu as editor. [[B. Ajaneesh Loknath]] serves as the music director.<ref name=\"toi-wrap\">{{cite web |date=13 November 2025 |title='Mark' completes filming |url=https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kichcha-sudeep-keeps-his-promise-mark-wraps-up-shoot-christmas-release-countdown-begins/articleshow/125298657.cms |url-status=live |archive-url=https://web.archive.org/web/20251123224611/https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/kichcha-sudeep-keeps-his-promise-mark-wraps-up-shoot-christmas-release-countdown-begins/articleshow/125298657.cms |archive-date=23 November 2025 |access-date=28 November 2025 |work=The Times of India}}</ref><ref name=\"udayavani\">{{cite web |date=14 November 2025 |title=Udayavani reports completion of filming |url=https://www.udayavani.com/kannada-news/kiccha-sudeep-mark-movie-shooting-completed |url-status=live |archive-url=https://web.archive.org/web/20251219082309/https://udayavani.com/kannada-news/kiccha-sudeep-mark-movie-shooting-completed |archive-date=19 December 2025 |access-date=28 November 2025 |work=Udayavani}}</ref> Production design is by Shivakumar J, with extensive stunt choreography and VFX works.\n\n=== Filming ===\nAccording to press sources, principal photography took place through 2025. Reports from Udayavani and The Times of India indicated that filming finished in November 2025, aligning with the production's goal of a late-2025 release.<ref name=\"udayavani\" /><ref name=\"toi-wrap\" />\n\n== Music ==\n[[B. Ajaneesh Loknath]] is credited as the film's composer. The first song associated with the film received coverage in several outlets, which noted its release schedule and early audience response.<ref name=\"toi-song\">{{cite web |date=20 October 2025 |title=Reports on song releases from 'Mark' |url=https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/mark-song-fans-react-to-kiccha-sudeeps-psycho-shaitan-takedown-kannada-version-to-relaunch-today/articleshow/124376493.cms |url-status=live |archive-url=https://web.archive.org/web/20251112041617/https://timesofindia.indiatimes.com/entertainment/kannada/movies/news/mark-song-fans-react-to-kiccha-sudeeps-psycho-shaitan-takedown-kannada-version-to-relaunch-today/articleshow/124376493.cms |archive-date=12 November 2025 |access-date=28 November 2025 |work=The Times of India}}</ref><ref name=\"cinemaexpress\">{{cite web |date=7 October 2025 |title=Cinema Express reports on 'Mark' song release |url=https://www.cinemaexpress.com/kannada/news/2025/Oct/07/kichcha-sudeep-sets-the-floor-on-fire-in-first-song-from-mark-psycho-saithan |url-status=live |archive-url=https://web.archive.org/web/20251114190929/https://www.cinemaexpress.com/kannada/news/2025/Oct/07/kichcha-sudeep-sets-the-floor-on-fire-in-first-song-from-mark-psycho-saithan |archive-date=14 November 2025 |access-date=28 November 2025 |work=Cinema Express}}</ref>\n\n{{Track listing\n| headline      = Kannada track listing\n| total_length  = \n| all_lyrics    = [[Anup Bhandari]]\n| extra_column  = Singer(s)\n| title1        = Masth Malaika\n| extra1        = [[Nakash Aziz]], Sanvi Sudeep\n| length1       = 3:13\n| title2        = Psycho Saithan\n| extra2        = [[Vijay Prakash]], [[Aniruddha Sastry]]\n| length2       = 3:27\n| title3        = The Kaali Song\n| extra3        = Aniruddha Sastry\n| length3       = 3:36\n| title4        = Mark Title Glimpse\n| extra4        = Instrumental\n| length4       = 1:52\n}}\n\n== Marketing ==\nTeaser descriptions and title reveal updates were carried by outlets including Times of India, OneIndia, Public TV, and Zoom TV. Coverage generally focused on the film's announcement, cast details, and scheduled release window.<ref name=\"toi-teaser\" /><ref name=\"oneindia\">{{cite web |date=7 November 2025 |title=Mark Teaser: Coverage of the title reveal |url=https://www.oneindia.com/entertainment/mark-teaser-where-to-watch-kichcha-sudeeps-power-packed-promo-online-7910473.html |access-date=28 November 2025 |work=Oneindia}}</ref><ref name=\"publictv\" /><ref name=\"zoom\" />\n\n== Release ==\n''Mark'' was released on 25 December 2025 On [[Christmas]] in Kannada, Tamil, Malayalam, Telugu and Hindi.<ref name=\"toi-wrap\" /><ref name=\"udayavani\" />\n\n== Reception ==\nNirali Kanabar of [[Times Now]] gave 3/5 stars and wrote \"All in all, ''Mark'' is a solid massy action thriller that knows exactly what it wants to be. Director Vijay Karthikeyaa delivers an engaging narrative packed with well-shot action sequences and impactful emotional beats. As for Kiccha Sudeepa, the actor is in a terrific form. He dominates the screen with swag and intensity. The film, backed by impressive music and crisp editing, makes for a satisfying theatrical experience. On the whole, Mark is a worthy Christmas watch for those who love watching action thrillers.\"<ref>{{Cite web |date=25 December 2025 |title=Mark Movie Review: Kiccha Sudeepa Delivers Massy, Swag-Filled Action Thriller |url=https://www.timesnownews.com/entertainment-news/reviews/mark-movie-review-sudeep-kiccha-starrer-imdb-review-ratings-public-reaction-review-153345817 |access-date=25 December 2025 |website=Times Now }}</ref>\n\nSwaroop Kodur of ''[[The Indian Express]]'' gave 2.5/5 stars and wrote \"Vijay Karthikeyaa's hotch-potch narrative is met by subpar execution, leaving Sudeep and many other talented names with little to work with.\"<ref>{{Cite web |date=25 December 2025 |title=Mark movie review: Kichcha Sudeep's festive turn is unremarkable, despite mild sparks |url=https://indianexpress.com/article/entertainment/movie-review/mark-movie-review-kichcha-sudeeps-festive-turn-is-unremarkable-despite-mild-sparks-10438550/ |url-status=live |archive-url=https://web.archive.org/web/20251225100612/https://indianexpress.com/article/entertainment/movie-review/mark-movie-review-kichcha-sudeeps-festive-turn-is-unremarkable-despite-mild-sparks-10438550/ |archive-date=25 December 2025 |access-date=25 December 2025 |website=The Indian Express }}</ref> Prathibha Joy of ''[[OTT Play]]'' gave 2/5 stars and wrote \"Mark is just another movie in the Max template, albeit one that is not half as fun, entertaining or gripping. Vijay’s style-over-substance approach is a misfire. Despite massively tempered expectations, Mark was disappointing to say the least.\"<ref>{{Cite web |title=Mark movie review: Kiccha Sudeep's one-man army Mark is no match for Max |url=https://www.ottplay.com/review/mark-movie-review-kiccha-sudeeps-one-man-army-mark-is-no-match-for-max/9401edf232793 |url-status=live |archive-url=https://web.archive.org/web/20251226105403/https://www.ottplay.com/review/mark-movie-review-kiccha-sudeeps-one-man-army-mark-is-no-match-for-max/9401edf232793 |archive-date=26 December 2025 |access-date=25 December 2025 |website=OTTPlay }}</ref> Vivek MV of ''[[The Hindu]]'' wrote \"With some stylish scenes and a few catchy dance numbers, ‘Mark’, starring Sudeep and directed by Vijay Kartikeyaa, tries to be a gripping thriller, but it ultimately misses the mark on delivering a memorable experience.\"<ref>{{Cite news |last=M.V |first=Vivek |date=25 December 2025 |title='Mark' movie review: Sudeep's thriller just about passes the test |url=https://www.thehindu.com/entertainment/movies/mark-movie-review-kichcha-sudeep-kiccha-sudeep-vijay-kartikeyaa-thriller-just-about-passes-the-test/article70436339.ece |url-status=live |archive-url=https://web.archive.org/web/20251225102232/https://www.thehindu.com/entertainment/movies/mark-movie-review-kichcha-sudeep-kiccha-sudeep-vijay-kartikeyaa-thriller-just-about-passes-the-test/article70436339.ece |archive-date=25 December 2025 |access-date=25 December 2025 |work=The Hindu  |url-access=limited |issn=0971-751X}}</ref>\n\n== References ==\n{{reflist}}\n\n== External links ==\n* {{IMDb title|tt28961625}}\n\n[[Category:Kannada-language action drama films]]\n[[Category:Tamil-language action drama films]]\n[[Category:Indian multilingual films]]\n[[Category:2025 Kannada-language films]]\n[[Category:2025 Indian films]]\n[[Category:Films scored by B. Ajaneesh Loknath]]\n[[Category:Films shot in Chennai]]\n[[Category:Films shot in Bengaluru]]\n[[Category:Films set in Mangaluru]]"
+  }
+ }
+}
