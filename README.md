@@ -4,6 +4,8 @@ Case Study A, Data and Storytelling, Module 1
 
 Team: Gauri (1RV23EC048) and Shivansh Shekhar (1RV23EC138)
 
+GitHub link: https://github.com/GAURI-cpu/ReleaseDayMovie
+
 ## What is this project?
 
 A film company has 72 hours after every Friday release to decide: add screens, cut screens, or spend more on promotion.
