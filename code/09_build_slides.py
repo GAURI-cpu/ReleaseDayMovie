@@ -61,11 +61,11 @@ text(s, 0.8, 1.8, 11.8, 5, [
     "This is a warning sign, not a promise."], 22)
 
 s = slide("The problem we are solving",
-          "Shivansh: Every Friday the team has 72 hours to decide on screens and promotion. Today it is done by gut feeling. "
+          "Shivansh: Every Friday the team has 72 hours to decide on screens and promotion. Today it is done by guess. "
           "We first wanted to see if trailer buzz predicts the opening. But that is known before Friday. "
           "So we asked: what signal is ready by Monday?")
 text(s, 0.8, 1.8, 11.8, 5, [
-    "Today the decision is made by gut feeling, tweets and the Friday collection.",
+    "Today the decision is made by guess, tweets and the Friday collection.",
     "Our question: Which online signal, ready by Monday, tells us if a film will do better or worse than its buzz?",
     "Films: top 5 films of 2025 in Hindi, Telugu, Tamil, Kannada and Malayalam. 25 films in total.",
     "For each film: every day from 30 days before release to 60 days after."], 22)
@@ -93,7 +93,7 @@ text(s, 0.8, 1.8, 11.8, 5.5, [
     "Renamed pages: we added views of the old page names",
     "Money as text: '₹1,350.83 crore' changed to 1350.83",
     "Missing data: if the page did not exist, we left it empty, not 0",
-    "Fair comparison: log, z-score, and views divided by each film's highest day",
+    "Same scale for all films: log, z-score, and views divided by each film's highest day",
     "Excel vs pandas: Excel formula failed on ranges. pandas did it in one line.",
     "SQL: 4 tables and 7 queries. PySpark: 50,217 text rows."], 19)
 
