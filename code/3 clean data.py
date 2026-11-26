@@ -13,12 +13,12 @@ def log(area, problem, rows, action, why):
                     rows_affected=rows, action=action, why=why))
 
 
-film_pages = json.loads((RAW / "film_pages.json").read_text(encoding="utf-8"))
+film_pages = json.loads((RAW / "film pages.json").read_text(encoding="utf-8"))
 LANGS = sorted({l for l, _ in film_pages})
 
 frames = []
 for lang in LANGS:
-    d = json.loads((RAW / f"list_{lang}_2025.json").read_text(encoding="utf-8"))
+    d = json.loads((RAW / f"list {lang} 2025.json").read_text(encoding="utf-8"))
     html = d["parse"]["text"]["*"]
     tables = pd.read_html(StringIO(html))
     t = next(t for t in tables if any("gross" in str(c).lower() for c in t.columns))
@@ -44,8 +44,8 @@ gross = gross.drop_duplicates("film_id")
 rows, sentences, buzz = [], [], []
 REDIRECT_ROWS = []
 for lang, title in film_pages:
-    slug = re.sub(r"[^A-Za-z0-9]+", "_", title).strip("_")
-    art = json.loads((RAW / f"article_{slug}.json").read_text(encoding="utf-8"))["parse"]
+    slug = re.sub(r"[^A-Za-z0-9]+", " ", title).strip()
+    art = json.loads((RAW / f"article {slug}.json").read_text(encoding="utf-8"))["parse"]
     wt = art["wikitext"]["*"]
     rel = parse_film_date(infobox_field(wt, "released"))
     runtime_raw = infobox_field(wt, "runtime")
@@ -82,13 +82,13 @@ for lang, title in film_pages:
         if len(s) > 25:
             sentences.append(dict(film_id=fid, sentence_no=i, source="wikipedia_critic_reception", text=s))
 
-    pv = json.loads((RAW / f"pageviews_{slug}.json").read_text(encoding="utf-8"))
+    pv = json.loads((RAW / f"pageviews {slug}.json").read_text(encoding="utf-8"))
     if "items" in pv:
         p = pd.json_normalize(pv["items"])[["timestamp", "views"]]
         p["date"] = pd.to_datetime(p["timestamp"].str[:8], format="%Y%m%d")
         p["film_id"] = fid
         buzz.append(p[["film_id", "date", "views"]])
-    rp = RAW / f"redirect_pageviews_{slug}.json"
+    rp = RAW / f"redirect pageviews {slug}.json"
     if rp.exists():
         for rtitle, items in json.loads(rp.read_text(encoding="utf-8")).items():
             if items:
@@ -98,7 +98,7 @@ for lang, title in film_pages:
                 REDIRECT_ROWS.append(len(p))
                 buzz.append(p[["film_id", "date", "views"]])
 
-    revs = json.loads((RAW / f"revisions_{slug}.json").read_text(encoding="utf-8"))
+    revs = json.loads((RAW / f"revisions {slug}.json").read_text(encoding="utf-8"))
     page = next(iter(revs["query"]["pages"].values()))
     r = pd.json_normalize(page.get("revisions", []))
     if len(r):
@@ -130,7 +130,7 @@ no = films["opening_day_cr"].isna().sum()
 log("Missing values", "Opening day money was not written in the article", int(no),
     "Left it empty", "This is a result number. Filling it would change the result")
 
-mv = json.loads((RAW / "moved_pageviews_Saiyaara.json").read_text(encoding="utf-8"))
+mv = json.loads((RAW / "moved pageviews Saiyaara.json").read_text(encoding="utf-8"))
 p = pd.json_normalize(mv["items"])[["timestamp", "views"]]
 p["date"] = pd.to_datetime(p["timestamp"].str[:8], format="%Y%m%d")
 p = p[p["date"] < "2025-09-04"]
@@ -208,8 +208,8 @@ log("Normalisation", "Films are very different in size (Rs 16 crore to Rs 1,350 
     "So a small Kannada film and a big Hindi film can be compared fairly")
 
 films.to_csv(CLEAN / "films.csv", index=False)
-b.to_csv(CLEAN / "daily_buzz.csv", index=False)
-s.to_csv(CLEAN / "critic_sentences.csv", index=False)
-gross.to_csv(CLEAN / "boxoffice_list_tables.csv", index=False)
-pd.DataFrame(LOG).to_csv(OUT / "cleaning_log.csv", index=False)
+b.to_csv(CLEAN / "daily views.csv", index=False)
+s.to_csv(CLEAN / "critic lines.csv", index=False)
+gross.to_csv(CLEAN / "box office tables.csv", index=False)
+pd.DataFrame(LOG).to_csv(OUT / "cleaning log.csv", index=False)
 print("films", len(films), "| daily rows", len(b), "| critic lines", len(s), "| log rows", len(LOG))

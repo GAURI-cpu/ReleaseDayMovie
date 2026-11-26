@@ -3,7 +3,7 @@ from openpyxl import Workbook
 from openpyxl.styles import Font
 from common import CLEAN, OUT, to_crore
 
-g = pd.read_csv(CLEAN / "boxoffice_list_tables.csv")
+g = pd.read_csv(CLEAN / "box office tables.csv")
 wb = Workbook(); ws = wb.active; ws.title = "gross_cleaning"
 ws.append(["gross_raw (from Wikipedia HTML)", "title", "Excel formula result (crore)", "pandas result (crore)", "match?"])
 for c in ws[1]:
@@ -26,5 +26,5 @@ for line in [
     "Our view: Excel is fine for a quick look. pandas is better for work we do every week.",
 ]:
     note.append([line])
-wb.save(OUT / "spreadsheet_cleaning_step.xlsx")
+wb.save(OUT / "excel cleaning step.xlsx")
 print("rows", len(g), "| pandas parsed", g["gross_raw"].map(to_crore).notna().sum())

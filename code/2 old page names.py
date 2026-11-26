@@ -19,10 +19,10 @@ def get_json(url, params=None):
             time.sleep(10 * (attempt + 1))
     return {"error": "failed"}
 
-film_pages = json.loads((RAW / "film_pages.json").read_text(encoding="utf-8"))
+film_pages = json.loads((RAW / "film pages.json").read_text(encoding="utf-8"))
 for lang, title in film_pages:
-    slug = re.sub(r"[^A-Za-z0-9]+", "_", title).strip("_")
-    out = RAW / f"redirect_pageviews_{slug}.json"
+    slug = re.sub(r"[^A-Za-z0-9]+", " ", title).strip()
+    out = RAW / f"redirect pageviews {slug}.json"
     if out.exists():
         continue
     d = get_json(API, {"action": "query", "prop": "redirects", "titles": title, "rdlimit": 50,

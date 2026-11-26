@@ -1,4 +1,4 @@
-# SQL results (output of each query)
+# SQL results
 
 Row counts: `films` = 25, `boxoffice` = 25, `daily_buzz` = 2201, `critic_sentences` = 217
 

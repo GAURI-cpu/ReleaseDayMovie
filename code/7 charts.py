@@ -12,8 +12,8 @@ plt.rcParams.update({"font.family": "DejaVu Sans", "font.size": 10, "axes.titles
 MARK = {"Hindi": "o", "Telugu": "s", "Tamil": "^", "Kannada": "D", "Malayalam": "v"}
 
 films = pd.read_csv(CLEAN / "films.csv", parse_dates=["release_date"])
-buzz = pd.read_csv(CLEAN / "daily_buzz.csv")
-crit = pd.read_csv(CLEAN / "critic_sentences.csv")
+buzz = pd.read_csv(CLEAN / "daily views.csv")
+crit = pd.read_csv(CLEAN / "critic lines.csv")
 short = lambda fid: fid.replace("_2025", "").replace("_", " ").title()
 stats = {}
 
@@ -53,7 +53,7 @@ ax.set_xlabel("Wikipedia views in the 7 days before release")
 ax.set_ylabel("Total money earned worldwide (Rs crore)")
 ax.set_title(f"Chart 1: More views before release does not always mean more money\n"
              f"{len(d)} films. The link is weak (r = {r:.2f}).")
-save(fig, "chart1_prerelease_buzz_vs_gross.png")
+save(fig, "chart1.png")
 
 b = buzz.merge(films[["film_id", "peak_views"]], on="film_id")
 b["norm"] = b["views"] / b["peak_views"]
@@ -75,7 +75,7 @@ stats["median_half_life"] = half
 ax.set_title(f"Chart 2: Most films lose half their views within about {half:.0f} days\n"
              "But word-of-mouth hits like Saiyaara and Su From So keep going up after release")
 ax.legend(fontsize=8)
-save(fig, "chart2_buzz_decay_normalised.png")
+save(fig, "chart2.png")
 
 c3 = films.dropna(subset=["gross_per_1k_prerelease_views"]).copy()
 order = c3.groupby("language")["gross_per_1k_prerelease_views"].median().sort_values()
@@ -92,7 +92,7 @@ stats["conversion_by_lang"] = order.round(3).to_dict()
 top, bottom = order.index[-1], order.index[0]
 ax.set_title(f"Chart 3: The same views bring about {ratio:.0f} times more money for {top} films than {bottom} films\n"
              "So compare a film only with films of the same language")
-save(fig, "chart3_conversion_by_language.png")
+save(fig, "chart3.png")
 
 a = crit[crit.aspect != "none"].groupby("aspect").agg(n=("text", "size"), tone=("vader_compound", "mean"),
                                                        neg=("sentiment_label", lambda s: (s == "neg").mean()))
@@ -108,7 +108,7 @@ stats["aspects"] = a.round(3).to_dict(orient="index")
 ax.set_title(f"Chart 4: Critics are most positive about {names[a.index[-1]]} and least positive about {names[a.index[0]]}\n"
              f"{len(crit)} critic lines from {crit.film_id.nunique()} films")
 ax.set_xlim(min(0, a.tone.min() - 0.05), a.tone.max() + 0.35)
-save(fig, "chart4_critic_aspects.png")
+save(fig, "chart4.png")
 
 d7 = buzz[buzz.day_from_release.isin([0, 7])].pivot(index="film_id", columns="day_from_release", values="views")
 films["day7_retention"] = films["film_id"].map((d7[7] / d7[0].replace(0, np.nan)))
@@ -135,7 +135,7 @@ loo = pd.DataFrame(preds)
 loo["error_pct"] = ((loo.predicted_cr - loo.actual_cr) / loo.actual_cr * 100).round(0)
 med_g = ok.worldwide_gross_cr.median()
 loo["called_right"] = (loo.predicted_cr > med_g) == (loo.actual_cr > med_g)
-loo.to_csv(OUT / "buzz_index_leave_one_out.csv", index=False)
+loo.to_csv(OUT / "buzz score test.csv", index=False)
 r_bi = np.corrcoef(ok.buzz_index, np.log10(ok.worldwide_gross_cr))[0, 1]
 stats.update(buzz_index_r=round(r_bi, 2), loo_hit_rate=round(loo.called_right.mean(), 2),
              loo_median_abs_err=float(loo.error_pct.abs().median()))
@@ -148,7 +148,7 @@ ax.set_xlabel("Buzz Score (views before release + views in week 1 + critic score
 ax.set_ylabel("Total money earned worldwide (Rs crore)")
 ax.set_title(f"Chart 5: Our Buzz Score guessed 'hit or not' right for {loo.called_right.mean():.0%} of films\n"
              "Each film was guessed using only the other 24 films. Good as a warning sign, not for exact numbers.")
-save(fig, "chart5_buzz_index_holdout.png")
+save(fig, "chart5.png")
 
 fig, ax = plt.subplots(figsize=(9, 4.6)); ax.axis("off")
 boxes = {
@@ -181,7 +181,7 @@ link("films", "boxoffice", "1 : 1")
 link("films", "daily_buzz", "1 : many")
 link("films", "critic_sentences", "1 : many")
 ax.set_title("ER diagram: 4 tables joined using film_id", loc="left", fontweight="bold")
-fig.savefig(CHARTS / "er_diagram.png", bbox_inches="tight"); plt.close(fig)
+fig.savefig(CHARTS / "er diagram.png", bbox_inches="tight"); plt.close(fig)
 
 p = buzz.pivot(index="film_id", columns="day_from_release", values="views")
 films["day3_attention_ratio"] = films["film_id"].map(p[3] / p[0].replace(0, np.nan))
@@ -209,7 +209,7 @@ ax.set_xlabel("Day 3 views / Day 0 views (above 1 = more people looking on Monda
 ax.set_ylabel("Money earned / money expected from early views\n(above 1 = did better than expected)")
 ax.set_title("Chart 6: Films that kept their views on Day 3 earned more than expected\n"
              f"{len(d)} films")
-save(fig, "chart6_72h_signal.png")
+save(fig, "chart6.png")
 
-(OUT / "key_stats.json").write_text(json.dumps(stats, indent=1, default=str), encoding="utf-8")
+(OUT / "key numbers.json").write_text(json.dumps(stats, indent=1, default=str), encoding="utf-8")
 print(json.dumps(stats, indent=1, default=str))

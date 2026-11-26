@@ -22,7 +22,7 @@ acc = (v["label"] == v["pred"]).mean()
 cm = pd.crosstab(v["label"], v["pred"], rownames=["actual"], colnames=["VADER"])
 print(f"VADER accuracy on 5,000 labelled IMDb reviews: {acc:.1%}")
 print(cm)
-with open(OUT / "vader_validation.txt", "w", encoding="utf-8") as fh:
+with open(OUT / "vader test.txt", "w", encoding="utf-8") as fh:
     fh.write("We tested VADER on 5,000 IMDb reviews where we already know if the review is positive or negative.\n")
     fh.write(f"Accuracy: {acc:.1%}\n\nTable of right and wrong answers:\n{cm.to_string()}\n")
     fh.write("\nMain mistake: some negative reviews got a positive score, because of jokes or happy words in the story.\n")
@@ -43,11 +43,11 @@ def aspect(t):
             return a
     return "none"
 
-s = pd.read_csv(CLEAN / "critic_sentences.csv")
+s = pd.read_csv(CLEAN / "critic lines.csv")
 s["vader_compound"] = s["text"].map(lambda t: an.polarity_scores(t)["compound"])
 s["sentiment_label"] = pd.cut(s["vader_compound"], [-1.01, -0.05, 0.05, 1.01], labels=["neg", "neu", "pos"])
 s["aspect"] = s["text"].map(aspect)
-s.to_csv(CLEAN / "critic_sentences.csv", index=False)
+s.to_csv(CLEAN / "critic lines.csv", index=False)
 
 per_film = s.groupby("film_id").agg(critic_sentences=("text", "size"),
                                     critic_tone=("vader_compound", "mean"),

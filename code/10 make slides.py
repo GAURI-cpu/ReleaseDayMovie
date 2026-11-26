@@ -5,7 +5,7 @@ from pptx.dml.color import RGBColor
 from pptx.enum.shapes import MSO_SHAPE
 from common import ROOT, OUT, CHARTS
 
-S = json.loads((OUT / "key_stats.json").read_text(encoding="utf-8"))
+S = json.loads((OUT / "key numbers.json").read_text(encoding="utf-8"))
 BLACK, GREY = RGBColor(0, 0, 0), RGBColor(0x55, 0x55, 0x55)
 prs = Presentation()
 prs.slide_width, prs.slide_height = Inches(13.333), Inches(7.5)
@@ -99,23 +99,23 @@ text(s, 0.8, 1.8, 11.8, 5.5, [
 s = slide("Finding 1: Buzz before release is a weak guide",
           "Gauri: Each mark is a film. Left to right is views before release. Up is money earned. "
           "War 2 and Game Changer had big buzz but earned less. Mahavatar Narsimha had almost no buzz and earned Rs 300 crore.")
-img(s, "chart1_prerelease_buzz_vs_gross.png")
+img(s, "chart1.png")
 
 s = slide("Finding 2: Buzz falls fast, but word of mouth keeps going",
           "Gauri: Each film's highest day is set to 1. The thick line is the middle film. Most films lose half their views in about a week. "
           "But Saiyaara and Su From So went up after release. That is word of mouth.")
-img(s, "chart2_buzz_decay_normalised.png")
+img(s, "chart2.png")
 
 s = slide("Finding 3: The Day 3 signal (main result)",
           f"Shivansh: Left to right is Monday views divided by Friday views. Up is money earned compared to what we expected. "
           f"On the right side, {S['hold_beat']} of {S['hold_n']} films did better than expected. On the left side, only {S['drop_beat']} of {S['drop_n']}.")
-img(s, "chart6_72h_signal.png")
+img(s, "chart6.png")
 
 s = slide("Be careful: compare films of the same language",
           f"Shivansh: English Wikipedia has fewer users for Telugu, Tamil and Kannada films. So their views are lower for the same money. "
           f"Our Buzz Score guessed hit or not right {S['loo_hit_rate']:.0%} of the time. Good as a warning, not for exact numbers.")
-img(s, "chart3_conversion_by_language.png", x=0.4, y=1.8, w=6.3)
-img(s, "chart5_buzz_index_holdout.png", x=6.9, y=1.8, w=6.1)
+img(s, "chart3.png", x=0.4, y=1.8, w=6.3)
+img(s, "chart5.png", x=6.9, y=1.8, w=6.1)
 
 s = slide("What to do next Friday",
           "Gauri: Here is the rule. Our limits: only 22 films, only top films, English Wikipedia users only, and producer numbers can be high. "
@@ -135,6 +135,6 @@ text(s, 7.4, 1.8, 5.5, 5.5, [
     "Box office numbers can be too high",
     "A link is not a cause"], 18, True)
 
-out = ROOT / "report" / "Release_Day_Radar_Slides.pptx"
+out = ROOT / "report" / "Release Day Radar Slides.pptx"
 prs.save(out)
 print("saved", out, len(prs.slides), "slides")

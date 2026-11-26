@@ -4,16 +4,16 @@ from docx import Document
 from docx.shared import Pt, Cm, RGBColor
 from common import ROOT, CLEAN, OUT, CHARTS
 
-S = json.loads((OUT / "key_stats.json").read_text(encoding="utf-8"))
+S = json.loads((OUT / "key numbers.json").read_text(encoding="utf-8"))
 films = pd.read_csv(CLEAN / "films.csv")
-log = pd.read_csv(OUT / "cleaning_log.csv")
-vader = (OUT / "vader_validation.txt").read_text(encoding="utf-8")
+log = pd.read_csv(OUT / "cleaning log.csv")
+vader = (OUT / "vader test.txt").read_text(encoding="utf-8")
 vacc = vader.split("Accuracy: ")[1].split("\n")[0]
-summary = OUT / "pyspark_run_summary.txt"
+summary = OUT / "pyspark summary.txt"
 spark_rows = summary.read_text().split("\n")[0].split(": ")[1] if summary.exists() else "50217"
-buzz = pd.read_csv(CLEAN / "daily_buzz.csv")
-crit = pd.read_csv(CLEAN / "critic_sentences.csv")
-link_file = ROOT / "repo_link.txt"
+buzz = pd.read_csv(CLEAN / "daily views.csv")
+crit = pd.read_csv(CLEAN / "critic lines.csv")
+link_file = ROOT / "repo link.txt"
 REPO = link_file.read_text().strip() if link_file.exists() else "(paste GitHub link here)"
 BLACK = RGBColor(0, 0, 0)
 
@@ -148,15 +148,15 @@ TABLE(pd.DataFrame([
 ], columns=["V", "Our data"]), size=9)
 
 H("d. Pipeline: how data moves from source to chart")
-for s in ["Step 1 (01_collect.py): get data from Wikipedia APIs and save it as it is.",
-          "Step 2 (01b_collect_redirects.py): get views for the old names of each page.",
-          "Step 3 (02_clean.py): clean, join and fix the data. Write the cleaning log.",
-          f"Step 4 (03_sentiment.py): test the VADER sentiment tool on IMDb reviews ({vacc} correct), then use it on critic lines.",
-          "Step 5 (04_sql.py): put the data in 4 SQL tables and run 7 queries.",
-          f"Step 6 (05_pyspark_text.py): PySpark job on {int(spark_rows):,} text rows.",
-          "Step 7 (06_charts.py): make the charts and the Buzz Score test.",
-          "Step 8 (07, 08, 09): Excel comparison, this report and the slides.",
-          "run_all.ps1 runs all steps in order, from raw data to final charts."]:
+for s in ["Step 1 (1 collect data.py): get data from Wikipedia APIs and save it as it is.",
+          "Step 2 (2 old page names.py): get views for the old names of each page.",
+          "Step 3 (3 clean data.py): clean, join and fix the data. Write the cleaning log.",
+          f"Step 4 (4 sentiment.py): test the VADER sentiment tool on IMDb reviews ({vacc} correct), then use it on critic lines.",
+          "Step 5 (5 sql.py): put the data in 4 SQL tables and run 7 queries.",
+          f"Step 6 (6 pyspark.py): PySpark job on {int(spark_rows):,} text rows.",
+          "Step 7 (7 charts.py): make the charts and the Buzz Score test.",
+          "Step 8 (8, 9, 10): Excel comparison, this report and the slides.",
+          "The file 'run all.ps1' runs all steps in order, from raw data to final charts."]:
     B(s)
 
 H("e. Cleaning log")
@@ -164,49 +164,49 @@ P("Each row is one cleaning decision.")
 TABLE(log[["step", "area", "problem", "rows_affected", "action", "why"]], size=8)
 H("Excel vs pandas (same cleaning step)", 2)
 P("Step: change '₹1,350.83 crore' into the number 1350.83.")
-P("In Excel we used a formula with SUBSTITUTE and VALUE (file: outputs/spreadsheet_cleaning_step.xlsx). "
+P("In Excel we used a formula with SUBSTITUTE and VALUE (file: outputs/excel cleaning step.xlsx). "
   "It is easy to see and check. But it fails for a range like '₹90–130 crore', and we must copy the formula again for new films.")
 P("In pandas it is one line of code. It handles ranges and extra marks, and we can run it again every Friday with the same result.")
 P("Our view: Excel is fine for a quick look. pandas is better for work we repeat every week.")
 
 H("f. Findings")
 H("Finding 1: Buzz before release is a weak guide", 2)
-IMG("chart1_prerelease_buzz_vs_gross.png", 15.5)
+IMG("chart1.png", 15.5)
 P(f"This chart joins two sources: page views (JSON) and box office (HTML table). The link is weak (r = {S['pearson_log']}, "
   f"{S['n_chart1']} films). War 2 and Game Changer had very high buzz but earned less than expected. "
   "Mahavatar Narsimha had almost no buzz and still earned about Rs 300 crore.")
 H("Finding 2: Buzz falls fast, but word-of-mouth films keep going", 2)
-IMG("chart2_buzz_decay_normalised.png", 15.5)
+IMG("chart2.png", 15.5)
 P("Here each film's highest day is set to 1, so big and small films can be compared. "
   "War 2 was highest on day 1 and then fell fast. Saiyaara and Su From So went up for many days after release. "
   "This is word of mouth, that is, people telling their friends to watch the film.")
 H("Finding 3: The Day 3 signal (main result)", 2)
-IMG("chart6_72h_signal.png", 15.5)
+IMG("chart6.png", 15.5)
 P(f"This chart also joins two sources. Left to right: Monday views divided by Friday views. Up and down: money earned "
   f"divided by money expected from early buzz. Films on the right side mostly did better than expected. "
   f"The match score (Spearman) is {S['spearman_day3_vs_overperf']} for {S['n_chart6']} films. 1 means a perfect match and 0 means no match. "
   "This number is ready on Monday morning, inside the 72 hours.")
 H("Finding 4: The same buzz means different things for different languages", 2)
-IMG("chart3_conversion_by_language.png", 15)
+IMG("chart3.png", 15)
 P("English Wikipedia is used less by people who watch Telugu, Tamil or Kannada films. So their views are lower for the same money. "
   "We should compare a film only with films of the same language. We have only 4 to 5 films per language, so this is a rough idea.")
 H("Finding 5: What critics like and dislike", 2)
-IMG("chart4_critic_aspects.png", 15)
+IMG("chart4.png", 15)
 P(f"We gave a score to {len(crit)} critic lines using VADER. VADER is a free tool that says if a sentence is positive or negative. Critics talk most kindly about direction and acting. "
   "They are less kind about length and action. For example, one critic said Dhurandhar's ending does not justify its long runtime. "
   "One problem: VADER gave a score of 0 to some clearly negative lines, so it misses some criticism.")
 P("Our PySpark job on 50,000 IMDb reviews shows the same thing. Words about length (long, slow, boring) come 12,621 times "
   "in negative reviews and 7,235 times in positive reviews. So people do not like films that feel too long.")
 H("Extra: our own Buzz Score", 2)
-IMG("chart5_buzz_index_holdout.png", 15)
+IMG("chart5.png", 15)
 P(f"We made a Buzz Score from 4 things: views before release, views in week 1, critic score, and views kept on day 7. "
   f"We tested it fairly: for each film, we built the score using only the other 24 films. It guessed 'above or below average money' "
   f"right for {S['loo_hit_rate']:.0%} of films. This is better than a coin toss (50%) but not good enough to guess exact money.")
 H("SQL", 2)
 P("We made 4 tables: films, boxoffice, daily_buzz and critic_sentences. They are joined by film_id. "
-  "The code is in sql/schema_mysql.sql and the 7 queries (with JOIN and GROUP BY) are in sql/queries.sql. "
-  "The results are in outputs/sql_results.md.")
-IMG("er_diagram.png", 14)
+  "The code is in sql/schema.sql and the 7 queries (with JOIN and GROUP BY) are in sql/queries.sql. "
+  "The results are in outputs/sql results.md.")
+IMG("er diagram.png", 14)
 
 H("g. What to do next Friday")
 for s in ["Friday: note the Wikipedia views of our film on release day.",
@@ -253,6 +253,6 @@ fl["day3_attention_ratio"] = fl["day3_attention_ratio"].round(2)
 fl.columns = ["Film", "Language", "Release date", "Money (Rs crore)", "Views 7 days before", "Day 3 ratio", "Critic score"]
 TABLE(fl, size=8)
 
-out = ROOT / "report" / "Release_Day_Radar_Report.docx"
+out = ROOT / "report" / "Release Day Radar Report.docx"
 doc.save(out)
 print("saved", out)

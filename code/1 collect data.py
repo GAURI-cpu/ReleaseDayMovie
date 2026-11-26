@@ -38,7 +38,7 @@ for lang in LANGS:
     page = f"List_of_{lang}_films_of_2025"
     d = get_json(API, {"action": "parse", "page": page, "prop": "text|wikitext",
                        "section": 1, "format": "json", "redirects": 1})
-    save(f"list_{lang}_2025.json", d)
+    save(f"list {lang} 2025.json", d)
     wt = d["parse"]["wikitext"]["*"]
 
     titles = re.findall(r"\|\s*''\[\[([^\]|]+)(?:\|[^\]]*)?\]\]''", wt)
@@ -55,16 +55,16 @@ for lang in LANGS:
     print(f"{lang}: {keep}")
     time.sleep(PAUSE)
 
-save("film_pages.json", film_pages)
+save("film pages.json", film_pages)
 
 
 for lang, title in film_pages:
-    slug = re.sub(r"[^A-Za-z0-9]+", "_", title).strip("_")
-    if (RAW / f"pageviews_{slug}.json").exists():
+    slug = re.sub(r"[^A-Za-z0-9]+", " ", title).strip()
+    if (RAW / f"pageviews {slug}.json").exists():
         print("cached", title); continue
     art = get_json(API, {"action": "parse", "page": title, "prop": "wikitext|sections",
                          "format": "json", "redirects": 1})
-    save(f"article_{slug}.json", art)
+    save(f"article {slug}.json", art)
     time.sleep(PAUSE)
 
 
@@ -73,7 +73,7 @@ for lang, title in film_pages:
     revs = get_json(API, {"action": "query", "prop": "revisions", "titles": title,
                           "rvprop": "timestamp|size", "rvlimit": 500, "rvdir": "newer",
                           "rvstart": start, "format": "json", "redirects": 1})
-    save(f"revisions_{slug}.json", revs)
+    save(f"revisions {slug}.json", revs)
     time.sleep(PAUSE)
 
 
@@ -82,9 +82,9 @@ for lang, title in film_pages:
         pv = get_json(PV.format(urllib.parse.quote(canonical, safe=""), "20241101", "20260228"))
     except Exception as e:
         pv = {"error": str(e)}
-    save(f"pageviews_{slug}.json", pv)
+    save(f"pageviews {slug}.json", pv)
     print("collected", lang, title)
     time.sleep(PAUSE)
 
-(RAW / "_collected_at.txt").write_text(dt.datetime.now().isoformat(), encoding="utf-8")
+(RAW / "collected at.txt").write_text(dt.datetime.now().isoformat(), encoding="utf-8")
 print("done:", len(film_pages), "films")

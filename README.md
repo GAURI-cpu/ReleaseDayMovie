@@ -23,10 +23,10 @@ When it was below 1, only 3 out of 11 films did.
 | `data/raw/wiki/` | Raw data from Wikipedia (JSON files), not changed |
 | `data/clean/` | Clean data (CSV files) |
 | `outputs/charts/` | All charts and the ER diagram |
-| `outputs/cleaning_log.csv` | Cleaning log, one row for each decision |
-| `outputs/sql_results.md` | Results of the SQL queries |
-| `outputs/pyspark_*.csv` | Results of the PySpark job |
-| `outputs/spreadsheet_cleaning_step.xlsx` | Same cleaning step done in Excel |
+| `outputs/cleaning log.csv` | Cleaning log, one row for each decision |
+| `outputs/sql results.md` | Results of the SQL queries |
+| `outputs/pyspark *.csv` | Results of the PySpark job |
+| `outputs/excel cleaning step.xlsx` | Same cleaning step done in Excel |
 
 ## How to set up
 
@@ -51,31 +51,32 @@ python -m venv .venv
 Run everything with one command:
 
 ```powershell
-.\run_all.ps1
+& ".un all.ps1"
+un all.ps1"
 ```
 
 This runs these steps in order:
 
-1. `01_collect.py`: gets data from Wikipedia.
-2. `01b_collect_redirects.py`: gets views for old page names.
-3. `02_clean.py`: cleans and joins the data, writes the cleaning log.
-4. `03_sentiment.py`: gives a sentiment score to critic lines.
-5. `04_sql.py`: makes the SQL tables and runs the queries.
-6. `05_pyspark_text.py`: PySpark job on 50,217 text rows.
-7. `06_charts.py`: makes the charts.
-8. `07_spreadsheet_vs_pandas.py`: Excel and pandas comparison.
-9. `08_build_report.py` and `09_build_slides.py`: make the report and slides.
+1. `1 collect data.py`: gets data from Wikipedia.
+2. `2 old page names.py`: gets views for old page names.
+3. `3 clean data.py`: cleans and joins the data, writes the cleaning log.
+4. `4 sentiment.py`: gives a sentiment score to critic lines.
+5. `5 sql.py`: makes the SQL tables and runs the queries.
+6. `6 pyspark.py`: PySpark job on 50,217 text rows.
+7. `7 charts.py`: makes the charts.
+8. `8 excel vs pandas.py`: Excel and pandas comparison.
+9. `9 make report.py` and `10 make slides.py`: make the report and slides.
 
 ## MySQL
 
 The SQL files work in MySQL:
 
 ```powershell
-mysql -u root -p < sql/schema_mysql.sql
+mysql -u root -p < sql/schema.sql
 ```
 
 ```powershell
-mysql -u root -p release_day_radar < sql/load_data_mysql.sql
+mysql -u root -p release_day_radar < sql/data.sql
 ```
 
 ```powershell
