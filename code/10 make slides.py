@@ -30,8 +30,6 @@ def text(slide, x, y, w, h, lines, size=20, bold_first=False):
 def slide(title, notes):
     s = prs.slides.add_slide(BLANK)
     text(s, 0.6, 0.4, 12.2, 1.2, [title], 28, True)
-    line = s.shapes.add_shape(MSO_SHAPE.RECTANGLE, Inches(0.6), Inches(1.45), Inches(12.1), Inches(0.03))
-    line.fill.solid(); line.fill.fore_color.rgb = BLACK; line.line.fill.background()
     s.notes_slide.notes_text_frame.text = notes
     return s
 
@@ -50,7 +48,7 @@ text(s, 0.8, 5.4, 11.5, 1.6, ["Case Study A, Data and Storytelling, Module 1", "
 s.notes_slide.notes_text_frame.text = ("Gauri: Good morning. We are the data team of a film company. "
     "Our answer is simple. Buzz before release does not help much. What matters is if people are still searching for the film on Monday.")
 
-s = slide("Our answer",
+s = slide("Our Answer in Short",
           f"Gauri: Buzz before release explains only about {S['r2']:.0%} of the box office. Films that kept their views on Monday "
           f"did better than expected {S['hold_beat']} out of {S['hold_n']} times. So we should check this every Monday.")
 text(s, 0.8, 1.8, 11.8, 5, [
@@ -60,7 +58,7 @@ text(s, 0.8, 1.8, 11.8, 5, [
     "3. Rule: 1 or more = keep or add screens. Less than 0.8 = do not add screens, do not spend more.",
     "This is only a warning sign. It is not 100% sure."], 22)
 
-s = slide("Our question",
+s = slide("Our Question",
           "Shivansh: Every Friday the company gets only 72 hours to decide about screens and promotion. Today they decide by guess. "
           "First we wanted to check trailer buzz. But that is known before Friday. "
           "So we asked: which number is ready by Monday?")
@@ -70,7 +68,7 @@ text(s, 0.8, 1.8, 11.8, 5, [
     "Films: top 5 films of 2025 in Hindi, Telugu, Tamil, Kannada and Malayalam. 25 films in total.",
     "For each film: data for every day, from 30 days before release to 60 days after."], 22)
 
-s = slide("Our data: 5 sources, 3 types",
+s = slide("The Data We Used",
           "Shivansh: We took box office tables, daily page views, film details and critic text from Wikipedia, "
           "and 50,000 IMDb reviews. Reddit blocked us and YouTube needs a key, so we used Wikipedia views as buzz. "
           "The hardest part was Variety. One film came in many types and with many names.")
@@ -85,7 +83,7 @@ text(s, 7.3, 1.8, 5.5, 5, [
     "Velocity: up to 5,47,830 views on one release day",
     "Variety: HTML, JSON, wiki code and text. One film had 3 names."], 18, True)
 
-s = slide("Cleaning: Saiyaara first showed zero buzz",
+s = slide("How We Cleaned the Data",
           "Shivansh: This was our most important cleaning step. Saiyaara's Wikipedia page name was changed, so its old views were under the old name. "
           "We added them back. We also made one name for each film, changed money text into numbers, and did not fill empty results.")
 text(s, 0.8, 1.8, 11.8, 5.5, [
@@ -97,28 +95,28 @@ text(s, 0.8, 1.8, 11.8, 5.5, [
     "Excel vs pandas: Excel formula did not work for ranges. pandas did it in one line.",
     "SQL: 4 tables and 7 queries. PySpark: 50,217 text rows."], 19)
 
-s = slide("Finding 1: Buzz before release does not help much",
+s = slide("Finding 1: Early Buzz Does Not Help Much",
           "Gauri: Each mark is one film. Left to right is views before release. Bottom to top is money earned. "
           "War 2 and Game Changer had big buzz but earned less. Mahavatar Narsimha had almost no buzz and still earned Rs 300 crore.")
 img(s, "chart1.png")
 
-s = slide("Finding 2: Buzz goes down fast, but word of mouth keeps going",
+s = slide("Finding 2: Buzz Goes Down Fast",
           "Gauri: The highest day of each film is set to 1. The thick line is the middle film. Most films lose half their views in about a week. "
           "But Saiyaara and Su From So kept going up after release. That is word of mouth.")
 img(s, "chart2.png")
 
-s = slide("Finding 3: The Day 3 number (main result)",
+s = slide("Finding 3: The Monday Number (Main Result)",
           f"Shivansh: Left to right is Monday views / Friday views. Bottom to top is money earned compared to money expected. "
           f"On the right side, {S['hold_beat']} of {S['hold_n']} films did better than expected. On the left side, only {S['drop_beat']} of {S['drop_n']}.")
 img(s, "chart6.png")
 
-s = slide("Be careful: compare films of the same language",
+s = slide("Finding 4: Each Language Is Different",
           f"Shivansh: Fewer people use English Wikipedia for Telugu, Tamil and Kannada films. So these films get fewer views for the same money. "
           f"Our Buzz Score guessed hit or not correctly {S['loo_hit_rate']:.0%} of the time. It is good as a warning, not for exact numbers.")
 img(s, "chart3.png", x=0.4, y=1.8, w=6.3)
 img(s, "chart5.png", x=6.9, y=1.8, w=6.1)
 
-s = slide("What to do next Friday",
+s = slide("What We Suggest and Our Limits",
           "Gauri: This is our rule. Our limits: only 22 films, only top films, only English Wikipedia users, and producer numbers can be high. "
           "Also, if two things go together, one may not cause the other. Next we want YouTube data and 2026 films. Thank you.")
 text(s, 0.8, 1.8, 6.3, 5.5, [

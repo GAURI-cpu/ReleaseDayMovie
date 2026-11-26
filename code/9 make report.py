@@ -76,7 +76,7 @@ P(f"GitHub link: {REPO}")
 P("Our question: A film comes on Friday. By Monday, can we find out if we should add screens, "
   "remove screens, or spend more money on promotion?", bold=True)
 
-H("a. Executive summary (short answer)")
+H("a. Our Short Answer (Executive Summary)")
 P(f"1. Buzz before release does not help much. It explains only about {S['r2']:.0%} of the box office "
   f"for {S['n_chart1']} big films of 2025.")
 P(f"2. A better number is the Day 3 ratio. Day 3 ratio = Monday views / Friday views on Wikipedia. "
@@ -85,7 +85,7 @@ P(f"2. A better number is the Day 3 ratio. Day 3 ratio = Monday views / Friday v
 P("3. What we suggest: check this number every Monday morning. If it is 1 or more, keep or add screens and spend on promotion. "
   "If it is less than 0.8, do not add screens and do not spend more. This is only a warning sign. It is not 100% sure.")
 
-H("b. Our question and why it is important")
+H("b. Our Question and Why We Chose It")
 P("Every Friday a new film comes. The company gets only 72 hours to decide three things: add screens, remove screens, "
   "or spend more on promotion. Today they decide by guess, by tweets and by the Friday collection.")
 P("If we give a screen to a weak film, a good film loses that screen. So a wrong decision means loss of money.")
@@ -95,8 +95,8 @@ P("First we wanted to check if trailer buzz can tell us the opening collection. 
 P("We took the top 5 films of 2025 from Hindi, Telugu, Tamil, Kannada and Malayalam. So we have 25 films. "
   "For each film we took data for every day, from 30 days before release to 60 days after release.")
 
-H("c. Data inventory and V profile")
-H("Source register (list of our data sources)", 2)
+H("c. The Data We Used")
+H("Where We Got the Data (Source Register)", 2)
 TABLE(pd.DataFrame([
     ["1. Box office tables", "en.wikipedia.org, pages 'List of Hindi films of 2025' (also Telugu, Tamil, Kannada, Malayalam)", "26 Nov 2026", "Wikipedia API, then read the table with pandas", "Structured (HTML table)", "Free to use (CC BY-SA). We sent requests slowly."],
     ["2. Daily page views", "wikimedia.org page views API", "26 Nov 2026", "API gives JSON, one number for each day", "Semi-structured (JSON)", "Free, no key needed"],
@@ -108,7 +108,7 @@ P("We also tried Reddit, YouTube and IMDb reviews. Reddit blocked us. YouTube an
   "IMDb does not allow copying its reviews. So we used Wikipedia page views as our buzz number. "
   "It shows how many people searched for the film on each day.")
 
-H("Data inventory (list of all columns we used)", 2)
+H("All the Columns We Used (Data Inventory)", 2)
 TABLE(pd.DataFrame([
     ["film_id", "Made by us", "Nominal", "Structured"],
     ["language", "Source 1", "Nominal", "Structured"],
@@ -133,7 +133,7 @@ P("Meaning of data types: Nominal means names or groups, like language. Ordinal 
   "like negative, neutral, positive. Discrete means whole numbers we count, like views. "
   "Continuous means numbers with decimals, like money in crore.")
 
-H("V profile (Volume, Velocity, Variety)", 2)
+H("Our 3 Vs (V Profile)", 2)
 peak = buzz.loc[buzz[buzz.day_from_release == 0].views.idxmax()]
 TABLE(pd.DataFrame([
     ["Volume (how much data)", f"25 films. {len(buzz):,} rows of daily data. {len(crit)} critic lines. 50,000 IMDb reviews. "
@@ -149,7 +149,7 @@ TABLE(pd.DataFrame([
                                  "Because of Volume, we used PySpark for the 50,000+ text rows."],
 ], columns=["V", "Our data"]), size=9)
 
-H("d. Pipeline: how data goes from source to chart")
+H("d. How We Did It, Step by Step (Pipeline)")
 for s in ["Step 1 (1 collect data.py): get data from Wikipedia and save it as it is.",
           "Step 2 (2 old page names.py): get views for the old names of each page.",
           "Step 3 (3 clean data.py): clean the data, join it, and write the cleaning log.",
@@ -161,10 +161,10 @@ for s in ["Step 1 (1 collect data.py): get data from Wikipedia and save it as it
           "The file 'run all.ps1' runs all the steps one by one."]:
     B(s)
 
-H("e. Cleaning log")
+H("e. How We Cleaned the Data (Cleaning Log)")
 P("Each row is one cleaning step we did.")
 TABLE(log[["step", "area", "problem", "rows_affected", "action", "why"]], size=8)
-H("Excel vs pandas (same cleaning step)", 2)
+H("Same Step in Excel and in pandas", 2)
 P("Step: change '₹1,350.83 crore' into the number 1350.83.")
 P("In Excel we used a formula with SUBSTITUTE and VALUE (file: outputs/excel cleaning step.xlsx). "
   "It is easy to see and check. But it does not work for a range like '₹90–130 crore'. "
@@ -172,28 +172,28 @@ P("In Excel we used a formula with SUBSTITUTE and VALUE (file: outputs/excel cle
 P("In pandas it is only one line of code. It works for ranges also. We can run it again every Friday and get the same answer.")
 P("Our view: Excel is good for a quick look. pandas is better for work we do every week.")
 
-H("f. Findings")
-H("Finding 1: Buzz before release does not help much", 2)
+H("f. What We Found")
+H("Finding 1: Early Buzz Does Not Help Much", 2)
 IMG("chart1.png", 15.5)
 P(f"This chart uses two sources: page views (JSON) and box office (HTML table). The link is weak (r = {S['pearson_log']}, "
   f"{S['n_chart1']} films). War 2 and Game Changer had very high buzz, but they earned less than expected. "
   "Mahavatar Narsimha had almost no buzz, but it still earned about Rs 300 crore.")
-H("Finding 2: Buzz goes down fast, but word of mouth films keep going", 2)
+H("Finding 2: Buzz Goes Down Fast, but Word of Mouth Films Keep Going", 2)
 IMG("chart2.png", 15.5)
 P("Here the highest day of each film is set to 1. This way big and small films can be compared. "
   "War 2 was highest on day 1 and then fell fast. Saiyaara and Su From So kept going up for many days after release. "
   "This is word of mouth, which means people telling their friends to watch the film.")
-H("Finding 3: The Day 3 number (main result)", 2)
+H("Finding 3: The Monday Number (Our Main Result)", 2)
 IMG("chart6.png", 15.5)
 P("This chart also uses two sources. Left to right: Monday views / Friday views. Bottom to top: money earned / money expected. "
   "Films on the right side mostly did better than expected. Films on the left side mostly did worse.")
 P(f"The match score (Spearman) is {S['spearman_day3_vs_overperf']} for {S['n_chart6']} films. 1 means full match and 0 means no match. "
   "This number is ready on Monday morning, inside the 72 hours.")
-H("Finding 4: Same buzz means different things for different languages", 2)
+H("Finding 4: Each Language Is Different", 2)
 IMG("chart3.png", 15)
 P("Fewer people use English Wikipedia for Telugu, Tamil and Kannada films. So these films get fewer views for the same money. "
   "So we should compare a film only with films of the same language. We have only 4 to 5 films in each language, so this is a rough idea only.")
-H("Finding 5: What critics like and do not like", 2)
+H("Finding 5: What Critics Liked and Did Not Like", 2)
 IMG("chart4.png", 15)
 P(f"We gave a score to {len(crit)} critic lines using VADER. VADER is a free tool. It tells if a sentence is positive or negative. "
   "Critics said the nicest things about direction and acting. They said less nice things about length and action. "
@@ -201,19 +201,19 @@ P(f"We gave a score to {len(crit)} critic lines using VADER. VADER is a free too
   "One problem: VADER gave a score of 0 to some clearly negative lines. So it misses some negative comments.")
 P("Our PySpark job on 50,000 IMDb reviews shows the same thing. Words like long, slow and boring come 12,621 times "
   "in negative reviews and only 7,235 times in positive reviews. So people do not like films that feel too long.")
-H("Extra: our own Buzz Score", 2)
+H("Something Extra: Our Own Buzz Score", 2)
 IMG("chart5.png", 15)
 P("We made a Buzz Score using 4 things: views before release, views in week 1, critic score, and views on day 7.")
 P(f"We tested it in a fair way. For each film, we made the score using only the other 24 films. "
   f"It guessed 'above or below average money' correctly for {S['loo_hit_rate']:.0%} of films. "
   "This is better than tossing a coin (50%), but it cannot guess the exact money.")
-H("SQL", 2)
+H("Our SQL Tables", 2)
 P("We made 4 tables: films, boxoffice, daily_buzz and critic_sentences. They are joined using film_id. "
   "The table code is in sql/schema.sql. The 7 queries (with JOIN and GROUP BY) are in sql/queries.sql. "
   "The answers are in outputs/sql results.md.")
 IMG("er diagram.png", 14)
 
-H("g. What to do next Friday")
+H("g. What We Suggest for Next Friday")
 for s in ["Friday: write down the Wikipedia views of our film on release day.",
           "Monday morning: find Day 3 ratio = Monday views / Friday views.",
           "If it is 1 or more: keep all screens, add more shows in week 2, and spend on promotion.",
@@ -222,7 +222,7 @@ for s in ["Friday: write down the Wikipedia views of our film on release day.",
           "Always compare a film only with films of the same language."]:
     B(s)
 
-H("h. Limits and bias")
+H("h. Problems and Limits in Our Work")
 for s in ["We have only 22 to 25 films. With more films, the result can change.",
           "We took only top films, no flop films. So the result may look better than it really is.",
           "English Wikipedia is used mostly by city people who read English. Many single screen and regional viewers are not counted.",
@@ -233,7 +233,7 @@ for s in ["We have only 22 to 25 films. With more films, the result can change."
           "If two things go together, it does not mean one causes the other. Maybe people liked the film, and that caused both."]:
     B(s)
 
-H("i. Reflection (what we learned)")
+H("i. What We Learned (Reflection)")
 P("Our question changed two times. First, we could not get Reddit or YouTube data, so we used Wikipedia views. "
   "Second, our first chart showed that buzz before release does not help much, and it is already known before Friday. "
   "Then we looked at the views day by day. We saw that what happens after release is more important. So that became our main question.")
@@ -243,16 +243,16 @@ P("If we had better data, we would add YouTube trailer views and comments, Googl
   "and number of screens. We would also test our rule on new 2026 films.")
 
 doc.add_page_break()
-H("Appendix A: Use of AI tools")
+H("Appendix A: AI Tools We Used")
 P("We used Claude, an AI tool, to help us write and fix the Python, SQL and PySpark code, and to help with the report and slides. "
   "We chose the question and the films. We checked every chart with the data. We decided the rule for screens. "
   "Both of us have gone through all the code and can explain every step.")
-H("Appendix B: Team work")
+H("Appendix B: Who Did What")
 TABLE(pd.DataFrame([
     ["Gauri", "Got data from APIs, sentiment, PySpark, charts and Buzz Score, slides", "50%"],
     ["Shivansh", "Box office tables, cleaning log, film name matching, SQL tables and queries, Excel comparison, report", "50%"],
 ], columns=["Member", "Work done", "Share"]))
-H("Appendix C: List of films")
+H("Appendix C: All 25 Films")
 fl = films[["film_id", "language", "release_date", "worldwide_gross_cr", "prerelease_views_7d", "day3_attention_ratio", "critic_tone"]].copy()
 fl["day3_attention_ratio"] = fl["day3_attention_ratio"].round(2)
 fl.columns = ["Film", "Language", "Release date", "Money (Rs crore)", "Views 7 days before", "Day 3 ratio", "Critic score"]
