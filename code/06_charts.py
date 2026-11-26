@@ -1,4 +1,3 @@
-"""Makes all the charts, the Buzz Score test and the ER diagram."""
 import json
 import numpy as np
 import pandas as pd

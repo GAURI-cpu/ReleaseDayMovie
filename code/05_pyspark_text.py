@@ -1,4 +1,3 @@
-"""PySpark job: cleans text, counts words and groups by film."""
 import os, glob, pathlib
 from pyspark.sql import SparkSession, functions as F
 from pyspark.ml.feature import StopWordsRemover

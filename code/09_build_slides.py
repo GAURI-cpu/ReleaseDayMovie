@@ -1,4 +1,3 @@
-"""Builds the 10 slides (PowerPoint) from the results."""
 import json
 from pptx import Presentation
 from pptx.util import Inches, Pt

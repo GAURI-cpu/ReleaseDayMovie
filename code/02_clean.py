@@ -1,4 +1,3 @@
-"""Cleans the raw data, joins it, and writes the cleaning log."""
 import json, re
 from io import StringIO
 import numpy as np

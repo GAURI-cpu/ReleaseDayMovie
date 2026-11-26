@@ -1,4 +1,3 @@
-"""Gets views for the old names of each Wikipedia page."""
 import json, time, re, urllib.parse
 from common import RAW
 

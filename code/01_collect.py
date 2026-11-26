@@ -1,4 +1,3 @@
-"""Gets the raw data from Wikipedia and saves it."""
 import json, time, re, pathlib, datetime as dt
 import urllib.request, urllib.parse
 from common import infobox_field, parse_film_date

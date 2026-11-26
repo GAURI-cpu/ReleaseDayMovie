@@ -1,4 +1,3 @@
-"""Gives a sentiment score to each critic line. First tests it on IMDb reviews."""
 import re, random, pathlib
 import pandas as pd
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer

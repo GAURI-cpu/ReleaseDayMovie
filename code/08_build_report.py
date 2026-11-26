@@ -1,4 +1,3 @@
-"""Builds the report (Word file) from the results."""
 import json
 import pandas as pd
 from docx import Document

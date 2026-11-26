@@ -1,4 +1,3 @@
-"""Small helper functions used by the other files."""
 import re, pathlib, unicodedata, datetime as dt
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]

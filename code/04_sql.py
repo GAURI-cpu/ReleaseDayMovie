@@ -1,4 +1,3 @@
-"""Puts the clean data in SQL tables and runs the queries."""
 import re, sqlite3
 import pandas as pd
 from common import ROOT, CLEAN, OUT
