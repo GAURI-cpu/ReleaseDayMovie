@@ -72,7 +72,19 @@ P("Release Day Radar", bold=True)
 doc.paragraphs[-1].runs[0].font.size = Pt(24)
 P("Case Study A, Data and Storytelling, Module 1")
 P("Team: Gauri and Shivansh")
-P(f"GitHub link: {REPO}")
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+p = doc.add_paragraph()
+p.add_run("GitHub link: ")
+link = OxmlElement("w:hyperlink")
+link.set(qn("r:id"), p.part.relate_to(REPO, "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink", is_external=True))
+run = OxmlElement("w:r")
+rpr = OxmlElement("w:rPr")
+u = OxmlElement("w:u"); u.set(qn("w:val"), "single"); rpr.append(u)
+run.append(rpr)
+t = OxmlElement("w:t"); t.text = REPO; run.append(t)
+link.append(run)
+p._p.append(link)
 P("Our question: A film comes on Friday. By Monday, can we find out if we should add screens, "
   "remove screens, or spend more money on promotion?", bold=True)
 

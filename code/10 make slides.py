@@ -25,6 +25,14 @@ def text(slide, x, y, w, h, lines, size=20, bold_first=False):
         r.font.color.rgb = BLACK
         r.font.bold = bold_first and i == 0
         p.space_after = Pt(10)
+        if "http" in ln:
+            r.text = ln[:ln.index("http")]
+            r2 = p.add_run()
+            r2.text = ln[ln.index("http"):]
+            r2.font.size = Pt(size)
+            r2.font.color.rgb = BLACK
+            r2.font.underline = True
+            r2.hyperlink.address = r2.text
 
 
 def slide(title, notes):
